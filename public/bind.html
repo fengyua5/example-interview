@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<script>
+    Function.prototype.myBind = function myBind(context) {
+      var self = this;
+      var rest = Array.prototype.slice.call(arguments, 1);
+      return function () {
+        var bindArgs = Array.prototype.slice.call(arguments);
+        return self.apply(context, rest.concat(bindArgs));
+      }
+    };
+
+
+    function aa(a, b, c, id, name) {
+      console.log(id, name)
+    }
+
+    var cc = aa.myBind(null, 2, 3, 4);
+    cc(4, 5);
+</script>
+</body>
+</html>

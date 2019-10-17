@@ -1,0 +1,19 @@
+{
+  "name": "example-interview",
+  "version": "1.0.0",
+  "description": "example for interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengyua5/example-interview.git"
+  },
+  "author": "fengyua5",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fengyua5/example-interview/issues"
+  },
+  "homepage": "https://github.com/fengyua5/example-interview#readme"
+}
