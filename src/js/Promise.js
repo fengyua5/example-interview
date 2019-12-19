@@ -67,11 +67,55 @@ MyPromise.prototype.then = function (onResolve, onReject) {
   return promise;
 };
 
+MyPromise.prototype.all = function (promises) {
+  return new MyPromise(function (resolve, reject) {
+
+    var len = promises.length;
+    var cursor = 0;
+    var values = [];
+
+    for (let i = 0; i < len; i++) {
+      promise[i].then(function (value) {
+        values[i] = value;
+        if(++cursor === length){
+          resolve(values);
+        }
+      }, reject)
+    }
+  });
+};
+
+MyPromise.prototype.race = function (promises) {
+  return new MyPromise(function (resolve, reject) {
+    for(let i = 0, length = promises.length; i< length;i++){
+      promises[i].then(resolve, reject);
+    }
+  })
+};
+
 var promise = new MyPromise(function (resolve, reject) {
   setTimeout(function () {
     resolve(111)
   }, 2000)
 });
+
+MyPromise.prototype.loop = function (fn, times) {
+  return new Promise(function (resolve, reject) {
+    var loop = function (fn, resolveX, rejectY, count) {
+      return new MyPromise(function (resolve, reject) {
+        if(count === 0){
+          rejectY('error');
+        }
+        fn().then(function (value) {
+          resolveX(value)
+        }, function () {
+          loop(fn, resolveX, rejectY, --count)
+        })
+      });
+    };
+    return loop(fn, resolve, reject, times)
+  })
+};
 
 var promise2 = promise.then(function (value) {
   console.log('success---' + value);
@@ -83,6 +127,24 @@ promise2.then(function (value) {
   console.log(value + 'success----then2')
 }, function () {
 
+});
+
+var funs = [2, 1, 0];
+var count = 0;
+
+function fetchData() {
+  return new MyPromise(function (resolve, reject) {
+    if(funs[count++]){
+      return reject([])
+    }
+    resolve(funs[count]);
+  })
+}
+
+new MyPromise().loop(fetchData, 2).then(function () {
+  console.log('hello loop')
+}, function (reason) {
+  console.log('loop '+ reason)
 });
 
 

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<script>
+    var a = function () {
+      console.log('1');
+      return 1;
+    };
+    var b = function () {
+      console.log('2');
+      return 2
+    };
+    var fns = [a, b];
+
+    var generate = function (middles) {
+      var i = 0, value, done = false;
+      return {
+        next: function () {
+          done = i === middles.length;
+          if(done){
+            return
+          }
+          value = middles[i++]();
+          return {
+            done: done,
+            value: value
+          }
+        }
+      }
+    };
+
+    var gn = generate(fns);
+    console.log(gn.next());
+    console.log(gn.next());
+</script>
+</body>
+</html>

@@ -1,0 +1,4119 @@
+{
+  "err_msg": "",
+  "err_no": 0,
+  "results": [
+    {
+      "query_result": {
+        "book": [
+          {
+            "info": {
+              "_id": "6nakZ24BLqSKk2OYroig",
+              "_index": "book",
+              "_score": 6.5644336,
+              "_source": {
+                "cnt_person": "845",
+                "desc": "曹德旺1946年出生于福建福清高山，9岁上学，14岁辍学，卖过烟丝、贩过水果、修过板车。1983年承包高山异型玻璃厂。1985年将主业迅速转向汽车玻璃，彻底改变了中国汽车玻璃市场100%依赖进口的历史。1987年成立福耀玻璃有限公司。1993年福耀玻璃登陆国内A股。2001—2005年，经过艰苦奋战，历时数年，花费一亿多元，相继打赢了加拿大、美国两个反倾销案，震惊世界。福耀玻璃也成为中国第一家状告",
+                "image_url": "https://img9.doubanio.com/view/subject/l/public/s27969826.jpg",
+                "lectorname": "作者/译者： 曹德旺",
+                "lvl_1_tag": "投资",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecc9fdfad70f746e98de",
+                "provider": "出版信息：  人民出版社 / 2015-1 / 49.00",
+                "score": "90.99999999999999",
+                "source": "douban",
+                "title": "心若菩提",
+                "url": "https://book.douban.com/subject/26287433/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.8459999999999999
+          },
+          {
+            "info": {
+              "_id": "RHakZ24BLqSKk2OYxpTf",
+              "_index": "book",
+              "_score": 5.935018,
+              "_source": {
+                "cnt_person": "692",
+                "desc": "简介：本书原为以赛亚·伯林1952年在BBC第三套节目所做的系列讲演。他从自由主义的基本理念出发,讨论了近代思想史上的著名思想家爱尔维修、卢梭、费希特、黑格尔、圣西门和迈斯特等人对自由以及人类历史的看法。根据伯林的看法,除了迈斯特是人类自由的公然反对者外,这些思想家都对人类的自由持肯定态度,但他们对自由的理解,却导致了反自由的历史后果。导读：伯林最著名的演讲,从未有人以如此流畅和热情的",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s29448855.jpg",
+                "lectorname": "作者/译者： [英国] 以赛亚·柏林 / 赵国新",
+                "lvl_1_tag": "政治",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecdafdfad70f746eaa3a",
+                "provider": "出版信息：  译林出版社 / 2011-3 / 25.00元",
+                "score": "90.99999999999999",
+                "source": "douban",
+                "title": "自由及其背叛",
+                "url": "https://book.douban.com/subject/6068432/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.8459999999999999
+          },
+          {
+            "info": {
+              "_id": "DXakZ24BLqSKk2OYq4cr",
+              "_index": "book",
+              "_score": 11.80592,
+              "_source": {
+                "cnt_person": "54",
+                "desc": "只有屈指可数的商业著作能够历经数十年的考验而成为经典，毫无疑问，《我在通用汽车的岁月》，就是这样一本伟大的著作。管理大师彼得·德鲁克早已记不清曾经向多少人推荐过此书了：世界首富比尔·盖茨仍然坚持声称本书是所能读到的最好的商业著作；《商业周刊》把它放在“绝对必读书架”的第一名；《财富》杂志则把它列为2003年度CEO必读书。《我在通用汽车的岁月》在1963年首次面市时，就立刻成为了超级畅销书。从那",
+                "image_url": "https://img1.doubanio.com/view/subject/l/public/s27287699.jpg",
+                "lectorname": "作者/译者： [美]斯隆 / 刘昕",
+                "lvl_1_tag": "企业史",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecc4fdfad70f746e9469",
+                "provider": "出版信息：  华夏出版社 / 2014-1 / 59",
+                "score": "93.0",
+                "source": "douban",
+                "title": "我在通用汽车的岁月：斯隆自传",
+                "url": "https://book.douban.com/subject/25891112/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.6579999999999999
+          },
+          {
+            "info": {
+              "_id": "33akZ24BLqSKk2OYuI3W",
+              "_index": "book",
+              "_score": 5.4365554,
+              "_source": {
+                "cnt_person": "99",
+                "desc": "《IBMSPSS数据分析与挖掘实战案例精粹》以IBMSPSSStatistics20.0和IBMSPSSModeler14.1为工具，提供了医疗、金融、保险、汽车、快速消费品、市场研究、互联网等多个行业的数据分析／挖掘案例，基于实战需求，详细讲解整个案例的完整分析过程，并将模型和软件的介绍融于案例讲解之中，使读者在阅读时能突破方法和工具的局限，真正聚集于对数据分析精髓的领悟。《IBM",
+                "image_url": "https://img1.doubanio.com/view/subject/l/public/s25802569.jpg",
+                "lectorname": "作者/译者： 张文彤 / 钟云飞",
+                "lvl_1_tag": "科技",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecd1fdfad70f746ea071",
+                "provider": "出版信息：  清华大学出版社 / 2013-2-22 / 64.00元",
+                "score": "90.0",
+                "source": "douban",
+                "title": "IBM SPSS数据分析与挖掘实战案例精粹",
+                "url": "https://book.douban.com/subject/21477429/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.64
+          },
+          {
+            "info": {
+              "_id": "CnakZ24BLqSKk2OYsIr1",
+              "_index": "book",
+              "_score": 5.4365554,
+              "_source": {
+                "cnt_person": "642",
+                "desc": "本书讲述了一位IT经理临危受命，在未来董事的帮助和自己“三步工作法”理念的支撑下，最终挽救了一家具有悠久历史的汽车配件制造商的故事。小说揭示了管理现代IT组织与管理传统工厂的共通之处，让读者不仅能对如何管理IT组织心领神会，更重要的是将以完全不同于以往的视角来看待自己的工作环境。",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s28319421.jpg",
+                "lectorname": "作者/译者： 基恩·金 (Gene Kim) / 凯文·贝尔 (Kevin Behr) / 乔治·斯帕福德 (George Spafford) / 成小留",
+                "lvl_1_tag": "互联网",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3eccbfdfad70f746e9b10",
+                "provider": "出版信息：  人民邮电出版社 / 2015-9-1 / CNY 49.00",
+                "score": "86.99999999999999",
+                "source": "douban",
+                "title": "凤凰项目",
+                "url": "https://book.douban.com/subject/26644070/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.5609999999999999
+          },
+          {
+            "info": {
+              "_id": "wHakZ24BLqSKk2OYpIOn",
+              "_index": "book",
+              "_score": 5.0494437,
+              "_source": {
+                "cnt_person": "1033",
+                "desc": "全球商业领域中，许多企业曾叱咤风云，但面对市场变化及新技术的挑战，最终惨遭淘汰。究其原因，竟然是因为它们精于管理，信奉客户至上等传统商业观念。这就是所有企业如今都正面临的“创新者的窘境”。在《创新者的窘境》中，管理大师克里斯坦森指出，一些看似很完美的商业动作——对主流客户所需、赢利能力最强的产品进行精准投资和技术研发——最终却很可能毁掉一家优秀的企业。他分析了计算机、汽车、钢铁等多个行业的创新模",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s27776092.jpg",
+                "lectorname": "作者/译者： 克莱顿•克里斯坦森 / 胡建桥",
+                "lvl_1_tag": "营销",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecc0fdfad70f746e9023",
+                "provider": "出版信息：  中信出版社 / 2014-1-1 / 48.00元",
+                "score": "85.0",
+                "source": "douban",
+                "title": "创新者的窘境(全新修订版)",
+                "url": "https://book.douban.com/subject/25807982/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.5549999999999999
+          },
+          {
+            "info": {
+              "_id": "6XakZ24BLqSKk2OYyJRd",
+              "_index": "book",
+              "_score": 5.0494437,
+              "_source": {
+                "cnt_person": "969",
+                "desc": "他们都有各种自然比例规律，这些规律为许多艺术家和设计师的作品、甚至全部作品，提供了基本出发点。金伯利·伊拉姆揭示了这些具有启迪作用的自然系统中数学与美的神秘关系。她带我们进入了神奇的几何领域——黄金分割、完美的比例和斐波纳契数列，用平实的语言表达晦涩难懂的数学。自此，从扬·奇科尔德的海报到巴塞罗那椅到大众公司新款甲壳虫汽车，通过这些作品，伊拉姆向我们展示了设计背后是多么的对称、有序和视觉平衡。《",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s1273224.jpg",
+                "lectorname": "作者/译者： 金伯利·伊拉姆 / 李乐山",
+                "lvl_1_tag": "建筑",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecdbfdfad70f746eab1d",
+                "provider": "出版信息：  中国水利水电出版社 / 2003-3 / 40.00元",
+                "score": "79.0",
+                "source": "douban",
+                "title": "设计几何学",
+                "url": "https://book.douban.com/subject/1276767/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.379
+          },
+          {
+            "info": {
+              "_id": "6XakZ24BLqSKk2OYtIu8",
+              "_index": "book",
+              "_score": 5.681434,
+              "_source": {
+                "cnt_person": "634",
+                "desc": "市场的风向标已经转变！简单能赚钱！简单更能滋养心灵！.简单是商业的哲学：Google、Amazon.com、联邦快递简单是设计的灵魂：iPod、奥迪汽车、苹果电脑、联想..简单是科技的思维：施乐、飞利浦、微软、Linex简单是生活的美学：宫崎骏、乐高、宜家家居、强生、可口可乐简单有理：少能胜多、简能驭繁，全球崇尚“简”爱复杂的科技入侵我们的生活和工作，因此，简",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s2595180.jpg",
+                "lectorname": "作者/译者： John Maeda / 前田约翰 / 黄秀媛",
+                "lvl_1_tag": "交互设计",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3eccefdfad70f746e9d8e",
+                "provider": "出版信息：  中国人民大学出版社 / 2007 / 25.00元",
+                "score": "77.0",
+                "source": "douban",
+                "title": "简单法则",
+                "url": "https://book.douban.com/subject/2144413/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.377
+          },
+          {
+            "info": {
+              "_id": "qnakZ24BLqSKk2OYpoSv",
+              "_index": "book",
+              "_score": 13.935978,
+              "_source": {
+                "cnt_person": "151",
+                "desc": "不懂财报报表，你也敢创业？美国创业女皇教你用财报管理创业公司...................※编辑推荐※★创业公司为什么会倒闭？不是钱不够用，是管理出了问题！财务报表就是管理漏洞的放大器。★创业公司就像一辆汽车，财务报表就是仪表盘。会计只是汽车的维修工，创业者才是司机。不懂财报，你也敢创业？★本书专治数据恐惧症，逐行分析三大财报报表，为你屏蔽一切幻影和噪音，清晰勾画营建盈利企业的",
+                "image_url": "https://img1.doubanio.com/view/subject/l/public/s28903579.jpg",
+                "lectorname": "作者/译者： [美]道恩·福图普鲁斯 / 曾琳",
+                "lvl_1_tag": "理财",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecc1fdfad70f746e9138",
+                "provider": "出版信息：  江西人民出版社·后浪出版公司 / 2016-10 / 39.80",
+                "score": "89.0",
+                "source": "douban",
+                "title": "给创业小白的财报书",
+                "url": "https://book.douban.com/subject/26838147/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.367
+          },
+          {
+            "info": {
+              "_id": "KHakZ24BLqSKk2OYq4df",
+              "_index": "book",
+              "_score": 6.5644336,
+              "_source": {
+                "cnt_person": "22",
+                "desc": "《丰田领导者》出自日经新闻社资深记者佐藤正明之手，是其“潜伏”丰田汽车和日本汽车行业数十年来厚积薄发的登峰之作。该书不同于其他关于丰田生产系统和成本管理等方面的技术性图书。而是从丰田的历史、历代领导者、文化、战略等层面深入探讨和总结丰田的成功经验以及挫败的教训，并在《丰田领导者》最后对丰田提出了一个极为尖锐的问题——持续经营。《丰田领导者》值得正在走向世界的中国各行各业（不只是制造业）的企业家和经",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s6180723.jpg",
+                "lectorname": "作者/译者： 佐藤正明 / 王茁 / 顾洁",
+                "lvl_1_tag": "企业史",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecc5fdfad70f746e9486",
+                "provider": "出版信息：  清华大学出版社 / 2010-6 / 38.00元",
+                "score": "84.00000000000001",
+                "source": "douban",
+                "title": "丰田领导者",
+                "url": "https://book.douban.com/subject/4875625/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.18400000000000002
+          }
+        ],
+        "course": [
+          {
+            "info": {
+              "_id": "DXW0ZG4BLqSKk2OYrm_q",
+              "_index": "baidu",
+              "_score": 21.043568,
+              "_source": {
+                "cnt_person": "15000",
+                "desc": "适用人群电源维修爱好者学到什么自己动手维修电源教学老师刘坚强多年外企电子电路设计工作经验，精通芯片级维修。",
+                "image_url": "http://ckimg.baidu.com/course/2016-12/05/222b755f9968ae862e04bcae0178a026.jpg",
+                "lectorname": "刘坚强教程",
+                "lvl_1_tag": "更多技能",
+                "lvl_2_tag": "其他",
+                "lvl_3_tag": "电子",
+                "price": "0",
+                "product_id": "5dc3ec42fdfad70f746e3882",
+                "provider": "刘坚强教程",
+                "score": "100.0",
+                "source": "baidu",
+                "title": "刘坚强自学电源维修 电源维修视频教程 电脑维修教程【体验版】",
+                "url": "http://chuanke.baidu.com/6610138-204732.html"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.7
+          },
+          {
+            "info": {
+              "_id": "I3W0ZG4BLqSKk2OYr28X",
+              "_index": "baidu",
+              "_score": 20.253109,
+              "_source": {
+                "cnt_person": "17000",
+                "desc": "适用人群电子主板爱好者学到什么自己动手进行主板维修教学老师刘坚强多年外企电子电路设计工作，精通芯片级维修。",
+                "image_url": "http://ckimg.baidu.com/course/2016-12/05/904f32f2134544a062bdb652c85ade6e.jpg",
+                "lectorname": "刘坚强教程",
+                "lvl_1_tag": "更多技能",
+                "lvl_2_tag": "其他",
+                "lvl_3_tag": "电子",
+                "price": "0",
+                "product_id": "5dc3ec42fdfad70f746e3898",
+                "provider": "刘坚强教程",
+                "score": "100.0",
+                "source": "baidu",
+                "title": "刘坚强自学主板维修 主板维修视频教程 电脑维修教程【体验版】",
+                "url": "http://chuanke.baidu.com/6610138-204734.html"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.7
+          },
+          {
+            "info": {
+              "_id": "F3W0ZG4BLqSKk2OYrm__",
+              "_index": "baidu",
+              "_score": 18.712593,
+              "_source": {
+                "cnt_person": "7219",
+                "desc": "适用人群液晶显示器维修爱好者学到什么自己动手进行液晶显示器维修教学老师刘坚强多年外企电子电路设计工作，精通芯片级维修",
+                "image_url": "http://ckimg.baidu.com/course/2016-12/05/5fbd3263cd299ad3d5c7f3f726607a4a.jpg",
+                "lectorname": "刘坚强教程",
+                "lvl_1_tag": "更多技能",
+                "lvl_2_tag": "其他",
+                "lvl_3_tag": "电子",
+                "price": "0",
+                "product_id": "5dc3ec42fdfad70f746e388c",
+                "provider": "刘坚强教程",
+                "score": "100.0",
+                "source": "baidu",
+                "title": "刘坚强自学显示器维修 电脑液晶显示器维修视频教程【体验版】",
+                "url": "http://chuanke.baidu.com/6610138-204731.html"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.7
+          },
+          {
+            "info": {
+              "_id": "r3W0ZG4BLqSKk2OYq22a",
+              "_index": "baidu",
+              "_score": 15.455202,
+              "_source": {
+                "cnt_person": "5212",
+                "desc": "适用人群职教二年级教学老师刘珍珠正阳职专一线在职教师该课程主要讲述汽车电气",
+                "image_url": "http://ckimg.baidu.com/course/2017-12/14/1c934f8ab1668eb15f18444426e65893.jpg",
+                "lectorname": "正阳县职业中等专业学校",
+                "lvl_1_tag": "更多技能",
+                "lvl_2_tag": "其他",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ec41fdfad70f746e3724",
+                "provider": "正阳县职业中等专业学校",
+                "score": "100.0",
+                "source": "baidu",
+                "title": "汽车电气",
+                "url": "http://chuanke.baidu.com/3003084-244748.html"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.7
+          },
+          {
+            "info": {
+              "_id": "_XW0ZG4BLqSKk2OYfle6",
+              "_index": "baidu",
+              "_score": 12.169122,
+              "_source": {
+                "cnt_person": "11000",
+                "desc": "适用人群想要入行汽车设计学到什么对于汽车车身设计熟练掌握教学老师车身老师启飞老师从2007年一直在从事catia工程设计相关的教育培训工作，特别从15年入职启飞汽车设计车身设计工程师以来录制大量的工程实战案例。普通话一流，讲解深入浅出。娓娓道来。启飞老师所录制的catia课程是每个catia从业者入职的必修课具体介绍可以进入启飞汽车设计官网了解",
+                "image_url": "http://ckimg.baidu.com/course/2017-10/23/a251a5923a0fe5cb43621a3f6aec3211.jpg",
+                "lectorname": "启飞汽车设计",
+                "lvl_1_tag": "IT/互联网/计算机",
+                "lvl_2_tag": "设计制作",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ec16fdfad70f746e0cc1",
+                "provider": "启飞汽车设计",
+                "score": "100.0",
+                "source": "baidu",
+                "title": "catia汽车设计车身设计整车设计白车身设计开闭件设计工程实例",
+                "url": "http://chuanke.baidu.com/9144613-239163.html"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.7
+          },
+          {
+            "info": {
+              "_id": "l3W0ZG4BLqSKk2OYZkr0",
+              "_index": "wangyiyun",
+              "_score": 16.895237,
+              "_source": {
+                "cnt_person": "3657",
+                "desc": "《汽车的故事》是一部四集纯动画演示课程。通过生动直观的动画描述人类探索动力机械的历程，分《寻找动力》、《蒸汽时代》、《引擎进化》、《汽车诞生》四集。看完动画演示讲解，观众可以彻底了解人类文明如何从马车时代进入蒸汽机、内燃机的发明进程，并理解四冲程发动机和变速器离合器等汽车关键零部件的结构和研发思路。",
+                "image_url": "http://img0.ph.126.net/APZQqLPEk1HkG8at9Nk1TA==/6631725273653384049.jpg",
+                "lectorname": "管晶",
+                "lvl_1_tag": "生活兴趣",
+                "lvl_2_tag": "生活百科",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ecb2fdfad70f746e8d86",
+                "provider": "管晶",
+                "score": "98.00000000000001",
+                "source": "wangyiyun",
+                "title": "《汽车的故事》——动画讲解汽车发明史",
+                "url": "https://study.163.com/course/introduction/1003170005.htm"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.6880000000000001
+          },
+          {
+            "info": {
+              "_id": "HnW0ZG4BLqSKk2OYr28N",
+              "_index": "baidu",
+              "_score": 20.746529,
+              "_source": {
+                "cnt_person": "3274",
+                "desc": "适用人群电路板维修人员学到什么该视频为一PLC维修实录，从中可以学到维修的思路和方法，技巧，从而达到触类旁通教学老师汪老师曾就职于自动化设备企业，在自动化电气电子设备生产、维修、研发职位皆有历练，20多年行业经验，维修和指导维修工业电路板累计上万件，著有《深度掌握工业电路板维修技术》一书，近年致力于培养工控电路板维修人才。本视频为一例客户送修的PLC维修实录，视频中老师讲解了PLC的故障，分析了故障形成的原因，以及维修思想和方法，从而对学员在维修其它PLC时可以触类旁通，举一反三。",
+                "image_url": "http://ckimg.baidu.com/course/2017-11/13/3d6ae5e5c61e6bca815779ed04144af8.jpg",
+                "lectorname": "汪文忠工业电路板维修培训",
+                "lvl_1_tag": "更多技能",
+                "lvl_2_tag": "其他",
+                "lvl_3_tag": "电子",
+                "price": "0",
+                "product_id": "5dc3ec42fdfad70f746e3893",
+                "provider": "汪文忠工业电路板维修培训",
+                "score": "100.0",
+                "source": "baidu",
+                "title": "PLC维修案例",
+                "url": "http://chuanke.baidu.com/4430824-241124.html"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.4
+          },
+          {
+            "info": {
+              "_id": "VnW0ZG4BLqSKk2OYT0CU",
+              "_index": "wangyiyun",
+              "_score": 12.232874,
+              "_source": {
+                "cnt_person": "66",
+                "desc": "3dmax（3dsmax）汽车建模视频教程，法拉利ENZO跑车，多边形建模，车身2小时完成。学习本教程，无需3dmax基础.购买后，课程永久有效.含全套练习文件.课程特点：1，零基础，手把手；2，1-3天即可完成（整车全部）；3，高级曲面建模技巧集成；4，汽车复杂曲面精髓解密，高效率；5，曲面完善/细节雕琢；6，各种异形/规律形态构思；7，从第一步到模型完美收官全程带领，中间无间断，详细。8，任何3dmax版本均可使用本教程，版本无忧。所需文件资料下载地址：链接:https://pan.baidu.com/s/1iN-C_Nuor3rrKLBK7nb2Qw密码:下单后请发邮件至niceqt01@163.com获取",
+                "image_url": "http://edu-image.nosdn.127.net/BBA57F58BF659451E1CB72900D2A4D6B.jpg?imageView&thumbnail=120x67&quality=100",
+                "lectorname": "二狮兄",
+                "lvl_1_tag": "设计创意",
+                "lvl_2_tag": "设计软件基础",
+                "lvl_3_tag": "",
+                "price": "29",
+                "product_id": "5dc3eca6fdfad70f746e8204",
+                "provider": "二狮兄",
+                "score": "96.0",
+                "source": "wangyiyun",
+                "title": "3dmax汽车建模视频教程2-车身",
+                "url": "https://study.163.com/course/introduction/1004073085.htm"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 1.1760000000000002
+          },
+          {
+            "info": {
+              "_id": "enW0ZG4BLqSKk2OYOjUv",
+              "_index": "wangyiyun",
+              "_score": 6.016995,
+              "_source": {
+                "cnt_person": "169",
+                "desc": "这是一个重视电气实操与理论结合的视频课程，我们通过手把手的视频演示完整装配一个电柜的全部流程，让学员彻底的理解电气装配的所有相关知识，并讲解电气电工的理论知识，并演示简单的电气绘图方法与电气设计的原理，帮助学员在一门课之中快速上手电气电工技术，快速出师拍下评价后请加学员交流群本课程每周更新一节",
+                "image_url": "https://edu-image.nosdn.127.net/24fc7e0b9c3a4e938ea2ade709197a0a.png?imageView&quality=100&crop=0_0_800_450",
+                "lectorname": "工控老猫",
+                "lvl_1_tag": "职场提升",
+                "lvl_2_tag": "专业岗位",
+                "lvl_3_tag": "职业培训",
+                "price": "25",
+                "product_id": "5dc3ec8bfdfad70f746e67d5",
+                "provider": "云鹤教育",
+                "score": "90.0",
+                "source": "wangyiyun",
+                "title": "电工实操视频教程 装配 维修设计",
+                "url": "https://study.163.com/course/introduction/1208957818.htm"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 1.07
+          },
+          {
+            "info": {
+              "_id": "XnW0ZG4BLqSKk2OYT0Ch",
+              "_index": "wangyiyun",
+              "_score": 12.268485,
+              "_source": {
+                "cnt_person": "47",
+                "desc": "课程概述3dmax（3dsmax）汽车建模视频教程，法拉利ENZO跑车，多边形建模，本部分半天时间完成。学习本教程，无需3dmax基础.购买后，课程永久有效.含全套练习文件.课程特点：1，零基础，手把手；2，1-3天即可完成（整车全部）；3，高级曲面建模技巧集成；4，汽车复杂曲面精髓解密，高效率；5，曲面完善/细节雕琢；6，各种异形/规律形态构思；7，从第一步到模型完美收官全程带领，中间无间断，详细。8，任何3dmax版本均可使用本教程，版本无忧。所需文件资料下载地址：链接:https://pan.baidu.com/s/1iN-C_Nuor3rrKLBK7nb2Qw密码:下单后请发邮件至niceqt01@163.com获取",
+                "image_url": "http://edu-image.nosdn.127.net/6D9F607BDD91778C540F3C9C86938108.jpg?imageView&thumbnail=120x67&quality=100",
+                "lectorname": "二狮兄",
+                "lvl_1_tag": "设计创意",
+                "lvl_2_tag": "设计软件基础",
+                "lvl_3_tag": "",
+                "price": "69",
+                "product_id": "5dc3eca6fdfad70f746e820c",
+                "provider": "二狮兄",
+                "score": "96.0",
+                "source": "wangyiyun",
+                "title": "3dmax汽车建模视频教程4-曲面",
+                "url": "https://study.163.com/course/introduction/1004087006.htm"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.9759999999999999
+          }
+        ]
+      },
+      "skill_name": "汽车维修"
+    },
+    {
+      "query_result": {
+        "book": [
+          {
+            "info": {
+              "_id": "X3akZ24BLqSKk2OYp4X1",
+              "_index": "book",
+              "_score": 17.135792,
+              "_source": {
+                "cnt_person": "531",
+                "desc": "刘宝红所著的《采购与供应链管理：一个实践者的角度》从实践者的角度，通过分析一个个案例，讲细节、讲执行，以独立文章的形式阐述供应链管理的基本思想、理论和实践。《采购与供应链管理：一个实践者的角度》注重解决供应链实践中基本面的问题，填补了相关领域学者与实践者之间的空白。全书包含供应链管理和设计、供应商管理、从小采购到大采购、采购与供应链管理作为一个职业等内容。",
+                "image_url": "https://img9.doubanio.com/view/subject/l/public/s23006596.jpg",
+                "lectorname": "作者/译者： 刘宝红",
+                "lvl_1_tag": "创业",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecc2fdfad70f746e920e",
+                "provider": "出版信息：  机械工业出版社 / 2012-1-20 / 36.00元",
+                "score": "86.0",
+                "source": "douban",
+                "title": "采购与供应链管理",
+                "url": "https://book.douban.com/subject/10433837/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.558
+          },
+          {
+            "info": {
+              "_id": "s3akZ24BLqSKk2OYpIOF",
+              "_index": "book",
+              "_score": 7.0673623,
+              "_source": {
+                "cnt_person": "386",
+                "desc": "《销售巨人：大订单销售训练手册(理论篇+实践篇)(全新升级版)》SPIN彻底改变了三个销售有关的领域：销售工作本身，SPIN销售技巧和模式基本上不受产品限制，只要是目标客户知购决策时间较长，参与策人数较多，决策时销售人员不在现声测验客户采购风险比校大的产品销售，都适用SPIN。销售管理。SPIN认为，对销售人员有效和管理不是统计他们拜访管记的数字，而是在销售拜访之前反复策划销售过程，不断练习各种准",
+                "image_url": "https://img1.doubanio.com/view/subject/l/public/s29160347.jpg",
+                "lectorname": "作者/译者： [美] 尼尔·雷克汉姆 / 石晓军",
+                "lvl_1_tag": "营销",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecc0fdfad70f746e9013",
+                "provider": "出版信息：  中华工商联合出版社 / 2010-7 / 59.00元",
+                "score": "86.99999999999999",
+                "source": "douban",
+                "title": "销售巨人",
+                "url": "https://book.douban.com/subject/4912165/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.361
+          },
+          {
+            "info": {
+              "_id": "e3akZ24BLqSKk2OY2Z3o",
+              "_index": "book",
+              "_score": 6.604455,
+              "_source": {
+                "cnt_person": "140",
+                "desc": "这本书是每个正在装修、将要装修，甚至是已经装修完得人口袋里不可缺少的。它能让这些心急如焚的人立即快乐起来本书作者结合家装的进度流程，详细阐述了家庭装修中涉及到的建材产品的采购技巧和窍门（质量鉴别技巧、砍价技巧、防骗窍门等），以及相关注意事项（定制产品工期、安装要点等）。当然，材料好还得安装得好，虽然不需要你会施工，但对装修效果的好坏要有基本的鉴别能力。因此，作者也会就装修质量的检测告诉大家一些能",
+                "image_url": "https://img1.doubanio.com/view/subject/l/public/s6974739.jpg",
+                "lectorname": "作者/译者： 诗玫",
+                "lvl_1_tag": "家居",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ece9fdfad70f746eb838",
+                "provider": "出版信息：  中华工商联合出版社有限责任公司 / 2011-12 / 26.00元",
+                "score": "74.0",
+                "source": "douban",
+                "title": "这样装修最省钱",
+                "url": "https://book.douban.com/subject/6901684/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.17400000000000002
+          }
+        ],
+        "course": [
+          {
+            "info": {
+              "_id": "J3W0ZG4BLqSKk2OYvXbD",
+              "_index": "baidu",
+              "_score": 17.11021,
+              "_source": {
+                "cnt_person": "1101",
+                "desc": "适用人群招标、投标类人群教学老师陈川生-----中国招标采购经理人协会会长，中国建筑大学兼职教授，全国招标师职业水平考试辅导委员会委员、中国招标投标协会专家、中国招标师在线特聘专家、住建部中建政研专家委员会专家、山西省招标投标协会顾问、专家委员会主任等职；-----参与编写、审核招标师考试的四科教材和培训工作，在国家电力、石油、电信、煤炭、水利、交通、医药卫生等行业授课上百场，从事招标工作近20年；-----著有《评标专家指南》、《招标人暨行政监督疏议》、《招标采购管理与监督》等专著，是国内招标投标行业知名专家和受欢迎的授课教师之一。宣传国家招标采购法律法规，开展理论研讨和实践交流，介绍工作经验和创新举措，指导招标采购工作实践，促进我国招标采购行业健康发展。●及时发布国家有关招标采购的政策法规及重大举措。●深度报道招标采购领域重点、难点、热点问题。●系统介绍招标采购专业知识，分析案例，实践操作问题专家权威解答，及时发布各地最新招标采购动态，推介技术和体制机制创新。",
+                "image_url": "http://ckimg.baidu.com/course/2017-06/10/d9dd685710b58557fe36f143a9e5d0d0.jpg",
+                "lectorname": "比比学院",
+                "lvl_1_tag": "资格考试",
+                "lvl_2_tag": "建造考试",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ec59fdfad70f746e4d3e",
+                "provider": "比比学院",
+                "score": "100.0",
+                "source": "baidu",
+                "title": "比比学院——陈川生招标采购管理",
+                "url": "http://chuanke.baidu.com/8692073-224212.html"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.4
+          },
+          {
+            "info": {
+              "_id": "4XW0ZG4BLqSKk2OY9Y4f",
+              "_index": "tencent",
+              "_score": 18.08297,
+              "_source": {
+                "cnt_person": "1729",
+                "desc": "该课程主要讲述企业供应链业务处理之采购管理。",
+                "image_url": "http://10.url.cn/qqcourse_logo_ng/ajNVdqHZLLAcORPHLmibibicyIJLVRKWpZY4UvlYdbsKV4P6xg0jtnhMCG9RcyRPXh1uiaKiaEHec0ug/356",
+                "lectorname": "软峰学院",
+                "lvl_1_tag": "IT·互联网",
+                "lvl_2_tag": "互联网产品",
+                "lvl_3_tag": "",
+                "price": "0.0",
+                "product_id": "5dc4073dfdfad7115643d1a6",
+                "provider": "软峰学院",
+                "score": "100.0",
+                "source": "tencent",
+                "title": "供应链之采购管理",
+                "url": "http://ke.qq.com/course/240481"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.4
+          },
+          {
+            "info": {
+              "_id": "VXW0ZG4BLqSKk2OYuXTs",
+              "_index": "baidu",
+              "_score": 18.009327,
+              "_source": {
+                "cnt_person": "386",
+                "desc": "采购——机会与资源的平衡企业采购预算涉及的风险计划风险验收库存风险供应商风险价格风险收付风险采购预算编制的要点与销售预算衔接与生产任务衔接与物质管理衔接与财务收付衔接采购预算编制流程和步骤明确战略目标制动采购计划确定所需资源确定预算草案提交预算审核采购预算管理的要点供应商采购的谈判力采购过程中的价格管理采购过程中的库存管理供应商考核指标的设计采购的“猫腻”用预算来牵制",
+                "image_url": "http://ckimg.baidu.com/course/2017-06/08/c646b1d32443955a84e7022ffd63f400.jpg",
+                "lectorname": "秀财网",
+                "lvl_1_tag": "资格考试",
+                "lvl_2_tag": "财会考试",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ec52fdfad70f746e4765",
+                "provider": "秀财网",
+                "score": "100.0",
+                "source": "baidu",
+                "title": "全面预算编制及管理三——采购及付款预算",
+                "url": "http://chuanke.baidu.com/5527142-223986.html"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.2
+          },
+          {
+            "info": {
+              "_id": "gHa1ZG4BLqSKk2OY5Qr9",
+              "_index": "tencent",
+              "_score": 18.636892,
+              "_source": {
+                "cnt_person": "460",
+                "desc": "掌握采购业务的几种分类和不同分类的内控管理流程明晰权责分类及审批权限在采购内控环节的重要性案例解析相关采购环节中的注意要点及改进建议",
+                "image_url": "http://10.url.cn/qqcourse_logo_ng/ajNVdqHZLLCh7MywNoNMF4q41K47yicEP6xGl9Qdswksug6YDewJ2y0LzCib0FdibUaeatdQE7PFV8/356",
+                "lectorname": "秀财网",
+                "lvl_1_tag": "职业·考证",
+                "lvl_2_tag": "财会金融",
+                "lvl_3_tag": "会计实务操作",
+                "price": "0.0",
+                "product_id": "5dc407f6fdfad71156449b3c",
+                "provider": "秀财网",
+                "score": "100.0",
+                "source": "tencent",
+                "title": "档案建立是关键——生产性采购的内控管理",
+                "url": "http://ke.qq.com/course/168234"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.2
+          },
+          {
+            "info": {
+              "_id": "fXa1ZG4BLqSKk2OY_xmg",
+              "_index": "tencent",
+              "_score": 7.5070457,
+              "_source": {
+                "cnt_person": "61",
+                "desc": "目前，在招投标领域存在诸多问题，信息壁垒、信息不对称、信息获取渠道过窄仍是阻碍招投标供需双方开放竞争、市场资源公平配置的最重要的问题之一。针对该核心问题，国招讲堂特邀请行业权威专家为大家讲解，随着互联网技术的发展，如何利用电子招标投标系统，有效获取信息，解决壁垒问题。",
+                "image_url": "http://10.url.cn/qqcourse_logo_ng/ajNVdqHZLLDGWxwSAxdRUksFtBicXqK5lgDB8v5gcd83Ye8N4hynxh7Wkia4xGSDDorpLBwW1gPM8/356",
+                "lectorname": "国招讲堂",
+                "lvl_1_tag": "职业·考证",
+                "lvl_2_tag": "建筑工程",
+                "lvl_3_tag": "",
+                "price": "0.0",
+                "product_id": "5dc40808fdfad7115644af3e",
+                "provider": "国招讲堂",
+                "score": "100.0",
+                "source": "tencent",
+                "title": "如何解决招标采购信息壁垒问题？",
+                "url": "http://ke.qq.com/course/355086"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.2
+          },
+          {
+            "info": {
+              "_id": "BHa1ZG4BLqSKk2OY5gvk",
+              "_index": "tencent",
+              "_score": 15.961025,
+              "_source": {
+                "cnt_person": "345",
+                "desc": "周周老师根据自身多年与采购打交道积累的丰富经验，理论联系实际，客串真实经历案例，为你一一答疑解惑。",
+                "image_url": "http://10.url.cn/qqcourse_logo_ng/ajNVdqHZLLAS9MAuhHCV4LicNuWdJcJiagibNylhvjmic3xscibsLNWosZqxYCh2RUBmsgy7XI6Aawkc/356",
+                "lectorname": "财务管理周周谈",
+                "lvl_1_tag": "职业·考证",
+                "lvl_2_tag": "财会金融",
+                "lvl_3_tag": "会计实务操作",
+                "price": "49.9",
+                "product_id": "5dc407f6fdfad71156449bc0",
+                "provider": "财务管理周周谈",
+                "score": "100.0",
+                "source": "tencent",
+                "title": "15系列之七：财务采购管理专题",
+                "url": "http://ke.qq.com/course/390189"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.8999999999999999
+          },
+          {
+            "info": {
+              "_id": "0Xa2ZG4BLqSKk2OYKDCX",
+              "_index": "tencent",
+              "_score": 6.3767285,
+              "_source": {
+                "cnt_person": "2",
+                "desc": "在我们的工作中，我们经常要通过一些特定单元格填充颜色来表示其特定含义，当我们需要对不同填充演的的单元格进行求和的时候，我们可以创建一个颜色求和函数。",
+                "image_url": "http://10.url.cn/qqcourse_logo_ng/ajNVdqHZLLDrGBmCEgeRFHVRnYYM7dJicGHzecVulTavKb9EkMricyz234Ta9VpmuJM3r7cABxmjw/356",
+                "lectorname": "余建军",
+                "lvl_1_tag": "职业·考证",
+                "lvl_2_tag": "职业技能",
+                "lvl_3_tag": "办公软件",
+                "price": "3.0",
+                "product_id": "5dc40821fdfad7115644cb17",
+                "provider": "余建军",
+                "score": "100.0",
+                "source": "tencent",
+                "title": "Excel实战技巧-颜色求和函数-生产计划/库存管理/文员/仓库/采购",
+                "url": "http://ke.qq.com/course/454942"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.7
+          }
+        ]
+      },
+      "skill_name": "采购"
+    },
+    {
+      "query_result": {
+        "book": [],
+        "course": [
+          {
+            "info": {
+              "_id": "OHW1ZG4BLqSKk2OYqepq",
+              "_index": "tencent",
+              "_score": 8.159354,
+              "_source": {
+                "cnt_person": "5493",
+                "desc": "五金软件操作，实战教学，实例讲解，操作注意事项，案例教学",
+                "image_url": "http://10.url.cn/qqcourse_logo_ng/ajNVdqHZLLAfgoneoNia94Kd2UsjiaDslnuz0Iibw9iaL2wic6aDazlfibibc23gicyQJbxomz8za6D8blU/356",
+                "lectorname": "洋风课堂",
+                "lvl_1_tag": "设计·创作",
+                "lvl_2_tag": "工业产品设计",
+                "lvl_3_tag": "模具设计",
+                "price": "0.0",
+                "product_id": "5dc407bdfdfad71156445d8b",
+                "provider": "洋风课堂",
+                "score": "88.0",
+                "source": "tencent",
+                "title": "冲压五金模具设计",
+                "url": "http://ke.qq.com/course/368049"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.7
+          },
+          {
+            "info": {
+              "_id": "RHW0ZG4BLqSKk2OYbk4w",
+              "_index": "baidu",
+              "_score": 18.276323,
+              "_source": {
+                "cnt_person": "3736",
+                "desc": "教学老师冲压模具设计讲师-蔡老师工作经验：8年冲压模具设计经验工作经历：曾在多家大型模具企业担任模具设计，拥有多年电子产品模具经验，熟悉模具加工工艺和流程，主要接触的模具产品有：汽车，机箱，弹片，照明光电。在职对学生认真负责！对学员有不厌其烦的讲解耐心！学习典型复合模、冲孔模、成型模、拉伸模、旋切模、连续模的结构设计技巧与经验，重点讲述连续模具的工艺、技巧性、回弹、合理有效性，学完能独立排样、拆工序、工序分析！",
+                "image_url": "http://ckimg.baidu.com/course/2017-10/26/fc631645cc0453df4ac9acf232a15612.jpg",
+                "lectorname": "鼎典模具数控培训",
+                "lvl_1_tag": "IT/互联网/计算机",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ec03fdfad70f746dfa21",
+                "provider": "鼎典模具数控培训",
+                "score": "100.0",
+                "source": "baidu",
+                "title": "五金冲压模具设计体验课",
+                "url": "http://chuanke.baidu.com/4866576-230105.html"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.4
+          },
+          {
+            "info": {
+              "_id": "j3W0ZG4BLqSKk2OYglk1",
+              "_index": "baidu",
+              "_score": 5.9354663,
+              "_source": {
+                "cnt_person": "4088",
+                "desc": "提醒注意：您好！想要学本课程的更多内容，请进入网站www.zalldy.com",
+                "image_url": "http://ckimg.baidu.com/course/2017-01/19/98495cc74b179932db3a3dd5249ec124.jpg",
+                "lectorname": "兆迪科技",
+                "lvl_1_tag": "IT/互联网/计算机",
+                "lvl_2_tag": "设计制作",
+                "lvl_3_tag": "三维设计",
+                "price": "0",
+                "product_id": "5dc3ec19fdfad70f746e0f88",
+                "provider": "兆迪科技",
+                "score": "100.0",
+                "source": "baidu",
+                "title": "ProE冲压模具(五金模)快速入门【原厂商培训课程，品质保证】",
+                "url": "http://chuanke.baidu.com/3390896-210510.html"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.4
+          },
+          {
+            "info": {
+              "_id": "pnW0ZG4BLqSKk2OYgllw",
+              "_index": "baidu",
+              "_score": 5.9328194,
+              "_source": {
+                "cnt_person": "2005",
+                "desc": "提醒注意：您好！想要学本课程的更多内容，请进入网站www.zalldy.com",
+                "image_url": "http://ckimg.baidu.com/course/2017-01/20/4b2a1550685cd0a550b0b015a929e5de.jpg",
+                "lectorname": "兆迪科技",
+                "lvl_1_tag": "IT/互联网/计算机",
+                "lvl_2_tag": "设计制作",
+                "lvl_3_tag": "三维设计",
+                "price": "0",
+                "product_id": "5dc3ec19fdfad70f746e0f9f",
+                "provider": "兆迪科技",
+                "score": "100.0",
+                "source": "baidu",
+                "title": "Creo冲压模具(五金模)快速入门【原厂商培训课程，品质保证】",
+                "url": "http://chuanke.baidu.com/3390896-210590.html"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.4
+          },
+          {
+            "info": {
+              "_id": "mXW1ZG4BLqSKk2OYqOkV",
+              "_index": "tencent",
+              "_score": 16.519753,
+              "_source": {
+                "cnt_person": "1062",
+                "desc": "五金冲压连续模具整个设计过程！完全工厂实战教学！",
+                "image_url": "http://10.url.cn/qqcourse_logo_ng/ajNVdqHZLLD9qPZjo3CYpSoTQd4Rzm3GcnsibVpRatPXk5vSRqK0I7ayBTMe3ayftrsp9sXu2QIc/356",
+                "lectorname": "鼎典教育",
+                "lvl_1_tag": "设计·创作",
+                "lvl_2_tag": "工业产品设计",
+                "lvl_3_tag": "模具设计",
+                "price": "0.0",
+                "product_id": "5dc407bcfdfad71156445cd6",
+                "provider": "鼎典教育",
+                "score": "85.0",
+                "source": "tencent",
+                "title": "五金冲压模具设计体验班第三期",
+                "url": "http://ke.qq.com/course/231996"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.4
+          },
+          {
+            "info": {
+              "_id": "sHW1ZG4BLqSKk2OYoOVx",
+              "_index": "tencent",
+              "_score": 8.159354,
+              "_source": {
+                "cnt_person": "955",
+                "desc": "详细讲解3D绘制模具结构图、3D建模、图层管理、曲面不破和技巧、异形曲面零件展开、折弯序数的修改、排样、工作零件设计、模架及标准件、工程图、自定义标准件等全过程设计流程，重点（汽车配件产品的展开方式，成型分析、料带特殊带料方式的工艺方法）整套模具设计。",
+                "image_url": "http://10.url.cn/qqcourse_logo_ng/ajNVdqHZLLBS0wjAgZ3JgQibIxII3JgwmJja24uwZf9iavMia8iaIicmiclcFbJrzbBrNIbQU5QlzrQWM/356",
+                "lectorname": "鼎典教育",
+                "lvl_1_tag": "设计·创作",
+                "lvl_2_tag": "工业产品设计",
+                "lvl_3_tag": "",
+                "price": "0.0",
+                "product_id": "5dc407b7fdfad71156445713",
+                "provider": "鼎典教育",
+                "score": "100.0",
+                "source": "tencent",
+                "title": "UG汽车冲压模具设计体验课",
+                "url": "http://ke.qq.com/course/198337"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.2
+          },
+          {
+            "info": {
+              "_id": "lHW1ZG4BLqSKk2OYqOkK",
+              "_index": "tencent",
+              "_score": 6.1858087,
+              "_source": {
+                "cnt_person": "42",
+                "desc": "没有做不到，只有我们想不到，支持工业转型升级",
+                "image_url": "http://10.url.cn/qqcourse_logo_ng/ajNVdqHZLLDrbNDVGjLTamB1AyboqbSdNXMYZ3krccbtYrhcB4T4ufESj0qEI5NGAqicoc9Xg4BU/356",
+                "lectorname": "天昊教育",
+                "lvl_1_tag": "设计·创作",
+                "lvl_2_tag": "工业产品设计",
+                "lvl_3_tag": "模具设计",
+                "price": "0.0",
+                "product_id": "5dc407bcfdfad71156445ccf",
+                "provider": "天昊教育",
+                "score": "100.0",
+                "source": "tencent",
+                "title": "UG10.0+CE11大型汽车覆盖件冲压模具编程~~QQ免费直播",
+                "url": "http://ke.qq.com/course/402850"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.2
+          },
+          {
+            "info": {
+              "_id": "d3W1ZG4BLqSKk2OYiNn5",
+              "_index": "tencent",
+              "_score": 6.9040713,
+              "_source": {
+                "cnt_person": "8",
+                "desc": "本教程为全国首Dynaform5.9中文版有声音视频，全套课程共计近10余小时课程，授课老师为多年汽车配件厂从事五金模具设计的资深工程师，用实例讲解，注重实战，达到软件和实际结合，让您学能所用。赠送：Dynaform5.9中文版软件赠送：5.8G由本人多年收集的电子书及视频教程",
+                "image_url": "http://10.url.cn/qqcourse_logo_ng/ajNVdqHZLLAA0uYUjiaxqt4zUFNK9xibjuBvQ8WjgsdP4OGgqSESXlP5TgQ28ZWsqEZPakosWtg1c/356",
+                "lectorname": "君楷工业产品模具设计",
+                "lvl_1_tag": "设计·创作",
+                "lvl_2_tag": "设计软件",
+                "lvl_3_tag": "其他",
+                "price": "98.0",
+                "product_id": "5dc407a5fdfad71156444319",
+                "provider": "君楷工业产品模具设计",
+                "score": "100.0",
+                "source": "tencent",
+                "title": "Dynaform5.9工厂实战冲压仿真模流分析视频教程赠送原版软件",
+                "url": "http://ke.qq.com/course/366141"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.5
+          },
+          {
+            "info": {
+              "_id": "qnW1ZG4BLqSKk2OYidlp",
+              "_index": "tencent",
+              "_score": 6.5022964,
+              "_source": {
+                "cnt_person": "7",
+                "desc": "本教程为全国首Dynaform5.7中文版有声音视频，全套课程共计近10余小时课程，授课老师为多年汽车配件厂从事五金模具设计的资深工程师，用实例讲解，注重实战，达到软件和实际结合，让您学能所用。赠送：Dynaform5.7中文版软件赠送：5.8G由本人多年收集的电子书及视频教程",
+                "image_url": "http://10.url.cn/qqcourse_logo_ng/ajNVdqHZLLAK79VqiaK8eZ9P58OK6V411rhkIK9eXrAWNxfSCf38z3VL1cn7YKZW5ictia1ibGIpfkI/356",
+                "lectorname": "君楷工业产品模具设计",
+                "lvl_1_tag": "设计·创作",
+                "lvl_2_tag": "设计软件",
+                "lvl_3_tag": "其他",
+                "price": "80.0",
+                "product_id": "5dc407a5fdfad7115644434c",
+                "provider": "君楷工业产品模具设计",
+                "score": "100.0",
+                "source": "tencent",
+                "title": "Dynaform5.7板料成型仿真分析入门到精通视频教程赠冲压模流软件",
+                "url": "http://ke.qq.com/course/366378"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.5
+          }
+        ]
+      },
+      "skill_name": "冲压"
+    },
+    {
+      "query_result": {
+        "book": [
+          {
+            "info": {
+              "_id": "dHakZ24BLqSKk2OYxZMY",
+              "_index": "book",
+              "_score": 6.7985187,
+              "_source": {
+                "cnt_person": "12238",
+                "desc": "《一九八四》（1949）是奥威尔的传世之作，堪称世界文坛最著名的反乌托邦、反极权的政治讽喻小说。他在小说中创造的“老大哥”、“双重思想”、“新话”等词汇都已收入权威的英语词典，甚至由他的姓衍生出“奥威尔式”（Orwellian）、“奥威尔主义”（Orwellism）这样的通用词汇，不断出现在报道国际新闻的记者笔下，足见其作品在英语国家影响之深远。“多一个人看奥威尔，就多了一份自由的保障，”有论家",
+                "image_url": "https://img1.doubanio.com/view/subject/l/public/s3898688.jpg",
+                "lectorname": "作者/译者： [英]乔治·奥威尔 / 董乐山",
+                "lvl_1_tag": "社会",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecd9fdfad70f746ea87b",
+                "provider": "出版信息：  上海译文出版社 / 2009-7 / 29.00元",
+                "score": "94.0",
+                "source": "douban",
+                "title": "一九八四",
+                "url": "https://book.douban.com/subject/3815131/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 1.164
+          },
+          {
+            "info": {
+              "_id": "0XakZ24BLqSKk2OYzZfE",
+              "_index": "book",
+              "_score": 6.2218847,
+              "_source": {
+                "cnt_person": "7984",
+                "desc": "《小王子》是法国著名作家圣埃克絮佩里的一部响誉世界的畅销童话。本书是中、法、英三种语言对照的版本，采用彩色插图并配有难词解析，可以同时兼顾喜爱《小王子》的读者与英语、法语的学习者。",
+                "image_url": "https://img9.doubanio.com/view/subject/l/public/s3750146.jpg",
+                "lectorname": "作者/译者： [法]圣埃克絮佩里 / 周克希",
+                "lvl_1_tag": "成长",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ece0fdfad70f746eafb4",
+                "provider": "出版信息：  上海译文出版社 / 2009-4 / 29.00元",
+                "score": "94.0",
+                "source": "douban",
+                "title": "小王子",
+                "url": "https://book.douban.com/subject/3693974/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 1.164
+          },
+          {
+            "info": {
+              "_id": "EnakZ24BLqSKk2OYronv",
+              "_index": "book",
+              "_score": 5.210473,
+              "_source": {
+                "cnt_person": "5825",
+                "desc": "集异璧－GEB，是数学家哥德尔、版画家艾舍尔、音乐家巴赫三个名字的前缀。《哥德尔、艾舍尔、巴赫书：集异璧之大成》是在英语世界中有极高评价的科普著作，曾获得普利策文学奖。它通过对哥德尔的数理逻辑，艾舍尔的版画和巴赫的音乐三者的综合阐述，引人入胜地介绍了数理逻辑学、可计算理论、人工智能学、语言学、遗传学、音乐、绘画的理论等方面，构思精巧、含义深刻、视野广阔、富于哲学韵味。中译本前后费时十余年，译者都",
+                "image_url": "https://img1.doubanio.com/view/subject/l/public/s1789059.jpg",
+                "lectorname": "作者/译者： [美] 侯世达 / 严勇 / 刘皓明 / 莫大伟",
+                "lvl_1_tag": "科普",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3eccafdfad70f746e99ae",
+                "provider": "出版信息：  商务印书馆 / 1997-5 / 88.00元",
+                "score": "94.0",
+                "source": "douban",
+                "title": "哥德尔、艾舍尔、巴赫",
+                "url": "https://book.douban.com/subject/1291204/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 1.164
+          },
+          {
+            "info": {
+              "_id": "QXakZ24BLqSKk2OYxJOf",
+              "_index": "book",
+              "_score": 7.730565,
+              "_source": {
+                "cnt_person": "110053",
+                "desc": "★村上春树以《1Q84》向本书致敬★著名学者刘绍铭经典译本内地首次出版★62种文字风靡110个国家，全球销量超过5000万册★《时代周刊》“最好的100本英语小说”★兰登书屋“100本20世纪最佳英语小说”★入选英美中学生必读书书目1936年以来，我所写的每一部严肃作品，都是直接或间接地反对极权主义，支持我所理解的民主社会主义。——乔治•奥威尔（《我为何写作》）《1984》是一部",
+                "image_url": "https://img1.doubanio.com/view/subject/l/public/s4371408.jpg",
+                "lectorname": "作者/译者： [英] 乔治·奥威尔 / 刘绍铭",
+                "lvl_1_tag": "社会",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecd8fdfad70f746ea7d9",
+                "provider": "出版信息：  北京十月文艺出版社 / 2010-4-1 / 28.00",
+                "score": "93.0",
+                "source": "douban",
+                "title": "1984",
+                "url": "https://book.douban.com/subject/4820710/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 1.158
+          },
+          {
+            "info": {
+              "_id": "WXakZ24BLqSKk2OYxJPY",
+              "_index": "book",
+              "_score": 7.493162,
+              "_source": {
+                "cnt_person": "29803",
+                "desc": "《一九八四》是奥威尔的传世之作，堪称世界文坛上最著名的反乌托邦、反极权的政治讽喻小说。他在小说中他创造的“老大哥”、“双重思想”、“新话”等词汇都已收入权威的英语词典，甚至由他的姓衍生出“奥威尔式”（Orwellian）、“奥威尔主义”（Orwellism）这样的通用词汇，不断出现在报道国际新闻的记者笔下，足见其作品在英语国家影响之深远。",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s1790263.jpg",
+                "lectorname": "作者/译者： [英] 乔治·奥威尔 / 董乐山",
+                "lvl_1_tag": "社会",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecd8fdfad70f746ea81e",
+                "provider": "出版信息：  上海译文出版社 / 2006-8 / 13.00元",
+                "score": "93.0",
+                "source": "douban",
+                "title": "一九八四",
+                "url": "https://book.douban.com/subject/1858576/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 1.158
+          },
+          {
+            "info": {
+              "_id": "UHakZ24BLqSKk2OYxJPF",
+              "_index": "book",
+              "_score": 7.1949334,
+              "_source": {
+                "cnt_person": "32990",
+                "desc": "《一九八四》和《动物农场》是奥威尔的传世之作，堪称世界文坛上最著名的政治讽喻小说。他在小说中他创造的“老大哥”、“双重思想”、“新话”等词汇都已收入权威的英语词典，甚至由他的姓衍生了一个形容词“奥威尔式”不断出现在报道国际新闻的记者笔下，足见其作品在英语国家影响之深远。“多一个人看奥威尔，就多了一份自由的保障”，有评家如是说。",
+                "image_url": "https://img9.doubanio.com/view/subject/l/public/s1089916.jpg",
+                "lectorname": "作者/译者： [英] 乔治·奥威尔 / 董乐山 / 傅惟慈",
+                "lvl_1_tag": "社会",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecd8fdfad70f746ea7fc",
+                "provider": "出版信息：  上海译文出版社 / 2003-4 / 23.00元",
+                "score": "93.0",
+                "source": "douban",
+                "title": "一九八四·动物农场",
+                "url": "https://book.douban.com/subject/1082387/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 1.158
+          },
+          {
+            "info": {
+              "_id": "Z3akZ24BLqSKk2OYyZU5",
+              "_index": "book",
+              "_score": 8.470543,
+              "_source": {
+                "cnt_person": "776",
+                "desc": "通常说来，中文世界在学术翻译方面是比英语世界落后的，但偶尔有一两本书的译介，中文世界要比英语世界强一些，《古典时代疯狂史》的译介就属于这种情况。《古典时代疯狂史》有一个英文缩写本叫《疯癫与文明》，1999年就有了中文译本。但《疯癫与文明》是很有问题的，将法文原著的许多精微之处都删去了，变成一个不伦不类的普及读物。目前，英语世界还在使用着这个有问题的缩写本，而中文世界则很幸运地有了林志明先生比较可",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s8866915.jpg",
+                "lectorname": "作者/译者： [法] 米歇尔·福柯 / 林志明",
+                "lvl_1_tag": "思想",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecdcfdfad70f746eabe8",
+                "provider": "出版信息：  生活·读书·新知三联书店 / 2005-06 / 39.00元",
+                "score": "90.99999999999999",
+                "source": "douban",
+                "title": "古典时代疯狂史",
+                "url": "https://book.douban.com/subject/1393233/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.8459999999999999
+          },
+          {
+            "info": {
+              "_id": "MHakZ24BLqSKk2OYwJEl",
+              "_index": "book",
+              "_score": 6.116625,
+              "_source": {
+                "cnt_person": "868",
+                "desc": "本书是美国哲学家巴雷特的代表作，被公认为英语国家中研究、解释和介绍存在主义的最优秀的著作，在西方学界享有很高的声誉。它在问世后多次再版，长销不衰，至今仍是一些西方大学的“当代哲学”课程的教科书。本书文字通俗易懂，论证清晰有力。",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s28782280.jpg",
+                "lectorname": "作者/译者： [美] 威廉·巴雷特 / 段德智",
+                "lvl_1_tag": "心理学",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecd5fdfad70f746ea4ac",
+                "provider": "出版信息：  上海译文出版社 / 2012-11 / 35.00元",
+                "score": "90.99999999999999",
+                "source": "douban",
+                "title": "非理性的人",
+                "url": "https://book.douban.com/subject/19962341/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.8459999999999999
+          },
+          {
+            "info": {
+              "_id": "G3akZ24BLqSKk2OY05qZ",
+              "_index": "book",
+              "_score": 15.285645,
+              "_source": {
+                "cnt_person": "7976",
+                "desc": "《把你的英语用起来！》——透析法读原著，原地复活你放下多年的英语！本书彻底解救一直想学英语，但从来没有坚持下来的人！《把你的英语用起来！》这本书学习方法的理论基础是来自美国南加州大学的教授DrKrashen的二语习得理论。看完《把你的英语用起来！》，你会觉得英语学习不再是一件痛苦的事情！把你手中的词汇书扔掉！！！！！用透析法，100本畅销经典的英文原著，你现在就都读得懂！选择比自",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s26696783.jpg",
+                "lectorname": "作者/译者： 伍君仪 / 刘晓光",
+                "lvl_1_tag": "教育",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ece4fdfad70f746eb3d0",
+                "provider": "出版信息：  外文出版社 / 2013-6 / 36.00元",
+                "score": "83.0",
+                "source": "douban",
+                "title": "把你的英语用起来！",
+                "url": "https://book.douban.com/subject/3748247/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.6829999999999999
+          },
+          {
+            "info": {
+              "_id": "n3akZ24BLqSKk2OY0pmE",
+              "_index": "book",
+              "_score": 14.626337,
+              "_source": {
+                "cnt_person": "11007",
+                "desc": "《考拉小巫的英语学习日记:写给为梦想而奋斗的人》的出版是献给考拉小巫粉丝以及所有英语学习爱好者的一份礼物。在《考拉小巫的英语学习日记:写给为梦想而奋斗的人》里，考拉小巫分享了她人生中各个阶段学习英语的所有方法途径及心得体会，和她为了从根本上提高英语听、说、读、写、译能力所做的一切失败和成功的尝试及努力，以及她考过的所有英语考试的备考方案、计划安排、所用书籍及资料，书后附录中还有作者总结的英语学习资",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s7653652.jpg",
+                "lectorname": "作者/译者： 考拉小巫",
+                "lvl_1_tag": "励志",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ece3fdfad70f746eb310",
+                "provider": "出版信息：  中国青年出版社 / 2012-1 / 25.00元",
+                "score": "81.0",
+                "source": "douban",
+                "title": "考拉小巫的英语学习日记",
+                "url": "https://book.douban.com/subject/7059662/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.6809999999999999
+          }
+        ],
+        "course": [
+          {
+            "info": {
+              "_id": "yXW0ZG4BLqSKk2OYWUR-",
+              "_index": "wangyiyun",
+              "_score": 12.861092,
+              "_source": {
+                "cnt_person": "32646",
+                "desc": "这个免费课程是英语思维养成系列的入门，如果想了解更多内容，可以在云课堂搜索“英语思维养成完整版”。参加本课程还可以获得全网最全的美剧学习资料下载，可以添加老师的微信（samisok-551）获取。老师介绍：SamZhang,浙江大学英语学士，宾夕法尼亚大学教育学硕士，畅销书《SAT阅读宝典》《SAT语法教程》作者。课程简介：通过生动的案例，揭示老外和中国人说英语的思维差别，用简单的话，说地道的英语。",
+                "image_url": "http://edu-image.nosdn.127.net/C3BFC115BBB0A680A00BA7A2409ABF2D.jpg?imageView&thumbnail=120x67&quality=100",
+                "lectorname": "Sam大叔",
+                "lvl_1_tag": "语言学习",
+                "lvl_2_tag": "生活英语",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ecabfdfad70f746e86b0",
+                "provider": "Sam大叔",
+                "score": "98.00000000000001",
+                "source": "wangyiyun",
+                "title": "英语思维养成",
+                "url": "https://study.163.com/course/introduction/1003967001.htm"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 1.1880000000000002
+          },
+          {
+            "info": {
+              "_id": "ynW0ZG4BLqSKk2OYWUSA",
+              "_index": "wangyiyun",
+              "_score": 10.669207,
+              "_source": {
+                "cnt_person": "11708",
+                "desc": "完整62课地址：https://dwz.cn/Qe6trw9x丹的英语资源分享QQ新群：771253150美剧，原版英文读物，请自行群文件下载。立志提升英语？想征服生词拼读？看词猜读音？——不仅学知识，还学方法。你将掌握比一般人所学的的更准确的音标（外教示范），以及玩转长单词，重音的拼读技巧。想追求更动听的英语口语，告别中式发音？——在这里，跟外教口型学精准发音，跟电影片段学习单词句子，逐渐告别中式发音。加入了课程却怕坚持不了？——课程精制浓缩至5—16分钟，分分钟干货，电影，美剧，歌曲帮你轻松记，轻松学。学了怕忘？——独家复习自测课，帮你总结关键点，自测学习效果。学了怕还是不会开口？——大量音标拼读练习，口语造句练习，带你开口，关键是：更有自信地说口语。如何观看Dan老师目前在教的所有课程：1.在网易云课堂搜索“丹的英语“2.电脑端的同学请点击标题旁：丹的英语",
+                "image_url": "https://edu-image.nosdn.127.net/19c52287cb7d402d9e6376bd7c9b7b9c.png?imageView&quality=100&crop=0_0_1917_1079",
+                "lectorname": "丹的英语",
+                "lvl_1_tag": "语言学习",
+                "lvl_2_tag": "生活英语",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ecabfdfad70f746e86b1",
+                "provider": "丹的英语",
+                "score": "98.00000000000001",
+                "source": "wangyiyun",
+                "title": "看电影 英语音标入门说英语口语",
+                "url": "https://study.163.com/course/introduction/1004542005.htm"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 1.1880000000000002
+          },
+          {
+            "info": {
+              "_id": "y3W0ZG4BLqSKk2OYWUSD",
+              "_index": "wangyiyun",
+              "_score": 10.953449,
+              "_source": {
+                "cnt_person": "406590",
+                "desc": "《将英语变成母语》系列讲座，从最简单的英语发音入手，逐级深入，涉及词汇、阅读、写作、听力、口语，最后达到交互传译、同声传译的高度。英语学习是我终生的爱好，希望自己的学习经验能够对有志于将英语变成母语的朋友有帮助。主讲人：HenryLiang,CQF保皇党实验室量化交易员金程教育资深级FRM、CFA讲师IAQF（国际金融工程协会）会员人事部CATTI二级（交互传译）持证人中国翻译家协会会员网站：www.HenryLiang.com微博：扫叶散人",
+                "image_url": "http://edu-image.nosdn.127.net/6889c503-53f4-4bf2-9f02-2544926416a1.png?imageView&quality=100&crop=0_5_4096_2293",
+                "lectorname": "HenryLiangFRM",
+                "lvl_1_tag": "语言学习",
+                "lvl_2_tag": "生活英语",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ecabfdfad70f746e86b2",
+                "provider": "HenryLiangFRM",
+                "score": "96.0",
+                "source": "wangyiyun",
+                "title": "将英语变成母语",
+                "url": "https://study.163.com/course/introduction/1119010.htm"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.8879999999999999
+          },
+          {
+            "info": {
+              "_id": "zHW0ZG4BLqSKk2OYWUSF",
+              "_index": "wangyiyun",
+              "_score": 10.789238,
+              "_source": {
+                "cnt_person": "143206",
+                "desc": "引爆流行潮话题，时尚经典句句值得用心记，就爱生活中找乐子的你！每周四high翻英语小天地！",
+                "image_url": "http://img0.ph.126.net/2NZ_FP0AdkqdxXWURDVytw==/6597838325285460405.png",
+                "lectorname": "艾力",
+                "lvl_1_tag": "语言学习",
+                "lvl_2_tag": "生活英语",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ecabfdfad70f746e86b3",
+                "provider": "新东方在线",
+                "score": "96.0",
+                "source": "wangyiyun",
+                "title": "酷艾英语",
+                "url": "https://study.163.com/course/introduction/249009.htm"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.8879999999999999
+          },
+          {
+            "info": {
+              "_id": "anW0ZG4BLqSKk2OYW0Ul",
+              "_index": "wangyiyun",
+              "_score": 9.605251,
+              "_source": {
+                "cnt_person": "33488",
+                "desc": "请加这个QQ群乐知英语学习交流群：264658211-------------------------------------------------------------------------------------------里面包含20个元音和28个辅音，辅音配发音器官图和真人发音口型图全面完整。资深中教在线视频教学，了解发音要领，并根据单词拼读实战予以纠正；并有精美课件将发音相似的单词进行辨音练习，避免常规错误，掌握发音规律，在句子中练习，结合绕口令加以巩固，轻松掌握48个音标标准发音。-------------------------------------------------------------------------------------------一共8个主题,我们一起学习英语吧！每周不定期更新!!!本课程为转播课堂，如需实时旁听或了解更多课程，欢迎访问乐知英语官网！打开网页即可上课，多人视频实时对话，中外教任选！所有正式课程公开直播，365天免费旁听！www.hiknow.com?uid=Hwy",
+                "image_url": "http://img2.ph.126.net/mZlAkuQzCW50ICUcu-Oc0w==/6619344772723736642.jpg",
+                "lectorname": "empty",
+                "lvl_1_tag": "语言学习",
+                "lvl_2_tag": "少儿英语",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ecabfdfad70f746e8753",
+                "provider": "乐知英语",
+                "score": "96.0",
+                "source": "wangyiyun",
+                "title": "英语国际音标发音课程合集",
+                "url": "https://study.163.com/course/introduction/926003.htm"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.8879999999999999
+          },
+          {
+            "info": {
+              "_id": "_3W0ZG4BLqSKk2OYWkQK",
+              "_index": "wangyiyun",
+              "_score": 11.84601,
+              "_source": {
+                "cnt_person": "26367",
+                "desc": "职场打拼不容易，如何搞定常用而必备的英语职场口语呢？快来跟着美联英语名师Jeremy和天天老师一起get最地道的职场口语吧！一起学起来，gogogo!",
+                "image_url": "http://img0.ph.126.net/_jYuG08s5J-zAGX6WIzabw==/6608756475748699665.jpg",
+                "lectorname": "Jeremy Yang",
+                "lvl_1_tag": "语言学习",
+                "lvl_2_tag": "职场英语",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ecabfdfad70f746e86e6",
+                "provider": "美联英语",
+                "score": "94.0",
+                "source": "wangyiyun",
+                "title": "美联英语：无痛职场英语口语",
+                "url": "https://study.163.com/course/introduction/1228001.htm"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.8819999999999999
+          },
+          {
+            "info": {
+              "_id": "DXW0ZG4BLqSKk2OYWkUv",
+              "_index": "wangyiyun",
+              "_score": 10.45805,
+              "_source": {
+                "cnt_person": "13344",
+                "desc": "请注意：本课程为试听版，完整版课程请访问https://study.163.com/course/introduction.htm?courseId=1003986022或者在搜索栏搜索“魔力英语”即可见。（有关课程的任何问题，请点击页面右侧的服务咨询来聊）讲师介绍：Chelsea老师曾在知名教育机构教授TOEFL、SAT、GMAT等课程，有着丰富的教学经验，已出版书籍《14天唤醒新SAT高分语法》。课程介绍：新概念英语是一套非常经典的英语系列书籍，其中新1适合英语入门者。本套课程是对新1教材的全面解析，包含词汇讲解、语法剖析、听写练习、翻译练习等。但本课程不是单纯地对新1的注解，而是从最新的角度去弥补教材中过时的词汇、补充相应的美语用法、词汇扩充、形近词和近义词辨析等，帮助同学们更好地在生活和学习中使用英语。",
+                "image_url": "http://edu-image.nosdn.127.net/B39F3E26198EE876802F0B84A4C47C9F.png?imageView&thumbnail=120x67&quality=100",
+                "lectorname": "魔力英语Chelsea",
+                "lvl_1_tag": "语言学习",
+                "lvl_2_tag": "新概念英语",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ecabfdfad70f746e86f5",
+                "provider": "魔力英语Chelsea",
+                "score": "94.0",
+                "source": "wangyiyun",
+                "title": "从头学《新概念英语第一册》",
+                "url": "https://study.163.com/course/introduction/1004014033.htm"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.8819999999999999
+          },
+          {
+            "info": {
+              "_id": "0XW0ZG4BLqSKk2OYWUSS",
+              "_index": "wangyiyun",
+              "_score": 10.490864,
+              "_source": {
+                "cnt_person": "1887",
+                "desc": "我公众号「Frank英语大世界」，QQ号：3280386650，欢迎来撩，微信公众号「好知识供应商」，欢迎光临。英语就是一扇窗户，我们大多数人在窗框的雕花上大做文章，一做就是十几年，却没想到要推开它。Frank将十七年学习英语的心得与你分享，告诉你弯路和捷径，为你提供正确的教材和系统学习方法及时间规划。英语终究靠自学。请收下这份高效学习的实用方案。",
+                "image_url": "https://edu-image.nosdn.127.net/ddf7770a36cf46c2afdd5dee4eb097b1.PNG?imageView&quality=100&crop=0_5_900_539",
+                "lectorname": "野生英语老师Frank",
+                "lvl_1_tag": "语言学习",
+                "lvl_2_tag": "生活英语",
+                "lvl_3_tag": "",
+                "price": "49",
+                "product_id": "5dc3ecabfdfad70f746e86b8",
+                "provider": "野生英语老师Frank",
+                "score": "96.0",
+                "source": "wangyiyun",
+                "title": "Frank可复制的自学英语完整攻略",
+                "url": "https://study.163.com/course/introduction/1003801012.htm"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 1.6760000000000002
+          },
+          {
+            "info": {
+              "_id": "xHW0ZG4BLqSKk2OYWURv",
+              "_index": "wangyiyun",
+              "_score": 11.878056,
+              "_source": {
+                "cnt_person": "1739",
+                "desc": "可以先试听本课程，试听方法：点击上面的“目录”按钮，观看所有课程的目录，其中前八节课是可以免费试听的。本课程为连载课程，现在正在持续更新中！参加课程之后可以添加老师微信（samisok-551）获得超级全面的英语学习资料。全新出炉的《英语思维完全版》是对《英语思维养成》的全面立体的拓展，通过英语思维理论体系、1000词汇说尽英语、经典美剧实战剖析三大模块，从思维层面解决英语不会说，看不懂的问题。课程持续更新，课程数达到一定数量时会适当提高价格，大家可以试听前几节课，心动的话赶快下单哦",
+                "image_url": "https://edu-image.nosdn.127.net/a2f76593502642708cd02450cb3d1a3d.jpg?imageView&quality=100&crop=0_5_1200_702",
+                "lectorname": "Sam大叔",
+                "lvl_1_tag": "语言学习",
+                "lvl_2_tag": "生活英语",
+                "lvl_3_tag": "",
+                "price": "199",
+                "product_id": "5dc3ecabfdfad70f746e86ab",
+                "provider": "Sam大叔",
+                "score": "100.0",
+                "source": "wangyiyun",
+                "title": "英语思维养成完整版",
+                "url": "https://study.163.com/course/introduction/1006223002.htm"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 1.5
+          },
+          {
+            "info": {
+              "_id": "x3W0ZG4BLqSKk2OYWUR4",
+              "_index": "wangyiyun",
+              "_score": 9.991613,
+              "_source": {
+                "cnt_person": "7507",
+                "desc": "我微博「野生英语老师Frank」，QQ号：3280386650为什么选Frank不同于烂大街的哗众取宠教程，Frank的「升维」计划从口语、阅读、写作、听力4个维度严选有趣的英语资料，用令人动容的讲解，帮助你系统升级英语使用能力，并让进步肉眼可见。教程的设计逻辑请永远记得，一切有效的英语教程都是以StephenKrashen提出的「大量可理解性输入」作为顶层设计理念的，并且需要做到「又有趣又有关」。为了便于同学们坚持，Frank的课程采用轻量化设计，每节课15分钟，且课程内容必须满足「有观点、有故事，搞惊喜，送谈资」的要求，为每一个英语话题提供新鲜独特的视角。教程的自学以周为单位，每周都有听说读写4个维度的课程安排，由易到难，层层递进，闯关式逐步提升，为同学们打造舒适到戒不掉的学习体验。",
+                "image_url": "https://edu-image.nosdn.127.net/b082700ff6e44468ba54a8c45e008431.PNG?imageView&quality=100&crop=0_0_897_545",
+                "lectorname": "野生英语老师Frank",
+                "lvl_1_tag": "语言学习",
+                "lvl_2_tag": "生活英语",
+                "lvl_3_tag": "",
+                "price": "198",
+                "product_id": "5dc3ecabfdfad70f746e86ae",
+                "provider": "野生英语老师Frank",
+                "score": "98.00000000000001",
+                "source": "wangyiyun",
+                "title": "Frank 365天陪伴式英语私教课",
+                "url": "https://study.163.com/course/introduction/1004425003.htm"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 1.488
+          }
+        ]
+      },
+      "skill_name": "英语"
+    },
+    {
+      "query_result": {
+        "book": [
+          {
+            "info": {
+              "_id": "6nakZ24BLqSKk2OYroig",
+              "_index": "book",
+              "_score": 6.5644336,
+              "_source": {
+                "cnt_person": "845",
+                "desc": "曹德旺1946年出生于福建福清高山，9岁上学，14岁辍学，卖过烟丝、贩过水果、修过板车。1983年承包高山异型玻璃厂。1985年将主业迅速转向汽车玻璃，彻底改变了中国汽车玻璃市场100%依赖进口的历史。1987年成立福耀玻璃有限公司。1993年福耀玻璃登陆国内A股。2001—2005年，经过艰苦奋战，历时数年，花费一亿多元，相继打赢了加拿大、美国两个反倾销案，震惊世界。福耀玻璃也成为中国第一家状告",
+                "image_url": "https://img9.doubanio.com/view/subject/l/public/s27969826.jpg",
+                "lectorname": "作者/译者： 曹德旺",
+                "lvl_1_tag": "投资",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecc9fdfad70f746e98de",
+                "provider": "出版信息：  人民出版社 / 2015-1 / 49.00",
+                "score": "90.99999999999999",
+                "source": "douban",
+                "title": "心若菩提",
+                "url": "https://book.douban.com/subject/26287433/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.8459999999999999
+          },
+          {
+            "info": {
+              "_id": "DXakZ24BLqSKk2OYq4cr",
+              "_index": "book",
+              "_score": 11.80592,
+              "_source": {
+                "cnt_person": "54",
+                "desc": "只有屈指可数的商业著作能够历经数十年的考验而成为经典，毫无疑问，《我在通用汽车的岁月》，就是这样一本伟大的著作。管理大师彼得·德鲁克早已记不清曾经向多少人推荐过此书了：世界首富比尔·盖茨仍然坚持声称本书是所能读到的最好的商业著作；《商业周刊》把它放在“绝对必读书架”的第一名；《财富》杂志则把它列为2003年度CEO必读书。《我在通用汽车的岁月》在1963年首次面市时，就立刻成为了超级畅销书。从那",
+                "image_url": "https://img1.doubanio.com/view/subject/l/public/s27287699.jpg",
+                "lectorname": "作者/译者： [美]斯隆 / 刘昕",
+                "lvl_1_tag": "企业史",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecc4fdfad70f746e9469",
+                "provider": "出版信息：  华夏出版社 / 2014-1 / 59",
+                "score": "93.0",
+                "source": "douban",
+                "title": "我在通用汽车的岁月：斯隆自传",
+                "url": "https://book.douban.com/subject/25891112/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.6579999999999999
+          },
+          {
+            "info": {
+              "_id": "9HakZ24BLqSKk2OYxpMv",
+              "_index": "book",
+              "_score": 9.446772,
+              "_source": {
+                "cnt_person": "61",
+                "desc": "本书是影视数字调色领域的经典畅销书，其内容涵盖了各类调色系统环境下专业调色师所广泛使用的技术，无论你是使用专业调色系统，还是视频编辑系统中内置的色彩校正插件，本书都可以为你提供专业的指导——从最基础的整体画面评估和校正，到最复杂的针对性调色以及常见色彩风格的介绍，本书为调色师提供了一站式指南。同时，本书配套提供高质量的实例素材供读者实操练习，读者可以从异步社区下载。本书适合专业调色人员和影视相关",
+                "image_url": "https://img1.doubanio.com/view/subject/l/public/s29479998.jpg",
+                "lectorname": "作者/译者： Alexis Van Hurkman（阿列克谢·凡·赫克曼） / 高铭 / 陈华",
+                "lvl_1_tag": "设计",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecdafdfad70f746ea975",
+                "provider": "出版信息：  人民邮电出版社 / 2017-6 / 168",
+                "score": "93.0",
+                "source": "douban",
+                "title": "调色师手册:电影和视频调色专业技法(第2版)",
+                "url": "https://book.douban.com/subject/27074037/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.6579999999999999
+          },
+          {
+            "info": {
+              "_id": "d3akZ24BLqSKk2OYpoRR",
+              "_index": "book",
+              "_score": 7.6918993,
+              "_source": {
+                "cnt_person": "418",
+                "desc": "《国家会计学院会计硕士专业学位MPACC系列教材?财务报表分析:理论框架方法与案例》由四篇组成。第一篇为理论基础篇，系统地介绍了信息不对称理论、经典研究学派、市场基础研究学派、实证会计研究学派的基本理念、观点及其对财务报表分析的涵义和启示。第二篇为分析框架篇，在介绍如何识别财务报表粉饰的基础上，通过微软公司与通用、福特、戴姆勒一克莱斯勒等三大汽车公司的案例分析，推导出财务报表分析的逻辑切入点，指出",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s2919944.jpg",
+                "lectorname": "作者/译者： 黄世忠",
+                "lvl_1_tag": "理财",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecc1fdfad70f746e90ee",
+                "provider": "出版信息：  中国财政经济出版社 / 2007-2-1 / 70.00元",
+                "score": "90.99999999999999",
+                "source": "douban",
+                "title": "财务报表分析",
+                "url": "https://book.douban.com/subject/2111085/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.6459999999999999
+          },
+          {
+            "info": {
+              "_id": "33akZ24BLqSKk2OYuI3W",
+              "_index": "book",
+              "_score": 5.4365554,
+              "_source": {
+                "cnt_person": "99",
+                "desc": "《IBMSPSS数据分析与挖掘实战案例精粹》以IBMSPSSStatistics20.0和IBMSPSSModeler14.1为工具，提供了医疗、金融、保险、汽车、快速消费品、市场研究、互联网等多个行业的数据分析／挖掘案例，基于实战需求，详细讲解整个案例的完整分析过程，并将模型和软件的介绍融于案例讲解之中，使读者在阅读时能突破方法和工具的局限，真正聚集于对数据分析精髓的领悟。《IBM",
+                "image_url": "https://img1.doubanio.com/view/subject/l/public/s25802569.jpg",
+                "lectorname": "作者/译者： 张文彤 / 钟云飞",
+                "lvl_1_tag": "科技",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecd1fdfad70f746ea071",
+                "provider": "出版信息：  清华大学出版社 / 2013-2-22 / 64.00元",
+                "score": "90.0",
+                "source": "douban",
+                "title": "IBM SPSS数据分析与挖掘实战案例精粹",
+                "url": "https://book.douban.com/subject/21477429/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.64
+          },
+          {
+            "info": {
+              "_id": "lXakZ24BLqSKk2OYpoSI",
+              "_index": "book",
+              "_score": 11.949005,
+              "_source": {
+                "cnt_person": "695",
+                "desc": "《专业投机原理》自出版以来，已经使无数股民获益，无论他们是散户、交易员，还是投机者、投资者。这本书也借此荣列“年度最佳商业图书”、“十佳专业理财书”、“必读的投资学经典”、“100本最有影响力的书”……它之所以如此畅销不衰，是因为其内涵丰富，每读一遍都另有领会，读之如练功，层层增进：对道氏理论的理解与研究深刻明了；对趋势变动的说明让人豁然开朗；结合市场阐明各种经典技术分析指标；重视风险管",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s4375401.jpg",
+                "lectorname": "作者/译者： （美）斯波朗迪 / 俞济群 / 真如",
+                "lvl_1_tag": "理财",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecc1fdfad70f746e9123",
+                "provider": "出版信息：  机械工业出版社 / 2010-4-1 / 68.00元",
+                "score": "88.00000000000001",
+                "source": "douban",
+                "title": "专业投机原理",
+                "url": "https://book.douban.com/subject/4772958/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.5640000000000001
+          },
+          {
+            "info": {
+              "_id": "CnakZ24BLqSKk2OYsIr1",
+              "_index": "book",
+              "_score": 5.4365554,
+              "_source": {
+                "cnt_person": "642",
+                "desc": "本书讲述了一位IT经理临危受命，在未来董事的帮助和自己“三步工作法”理念的支撑下，最终挽救了一家具有悠久历史的汽车配件制造商的故事。小说揭示了管理现代IT组织与管理传统工厂的共通之处，让读者不仅能对如何管理IT组织心领神会，更重要的是将以完全不同于以往的视角来看待自己的工作环境。",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s28319421.jpg",
+                "lectorname": "作者/译者： 基恩·金 (Gene Kim) / 凯文·贝尔 (Kevin Behr) / 乔治·斯帕福德 (George Spafford) / 成小留",
+                "lvl_1_tag": "互联网",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3eccbfdfad70f746e9b10",
+                "provider": "出版信息：  人民邮电出版社 / 2015-9-1 / CNY 49.00",
+                "score": "86.99999999999999",
+                "source": "douban",
+                "title": "凤凰项目",
+                "url": "https://book.douban.com/subject/26644070/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.5609999999999999
+          },
+          {
+            "info": {
+              "_id": "zXakZ24BLqSKk2OYpoTx",
+              "_index": "book",
+              "_score": 11.410554,
+              "_source": {
+                "cnt_person": "1235",
+                "desc": "《专业投机原理》系统地反映了世界上最伟大的交易员维克托的投机哲学。因此，除了通常的市场知识外，书中还包含了大量的心理学、经济学、政治学方面的知识，大大开阔了读者学习投机知识的视野。尤其值得一提的是，维克托对经济学、经济循环的本质有着深刻的认识，这使他能够把握宏观经济脉络，从容地进行投机活动。",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s2997274.jpg",
+                "lectorname": "作者/译者： 维克托·斯波朗迪",
+                "lvl_1_tag": "理财",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecc1fdfad70f746e915b",
+                "provider": "出版信息：  机械工业出版社 / 2008-3 / 68.00元",
+                "score": "86.0",
+                "source": "douban",
+                "title": "专业投机原理",
+                "url": "https://book.douban.com/subject/3027464/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.558
+          },
+          {
+            "info": {
+              "_id": "wHakZ24BLqSKk2OYpIOn",
+              "_index": "book",
+              "_score": 5.0494437,
+              "_source": {
+                "cnt_person": "1033",
+                "desc": "全球商业领域中，许多企业曾叱咤风云，但面对市场变化及新技术的挑战，最终惨遭淘汰。究其原因，竟然是因为它们精于管理，信奉客户至上等传统商业观念。这就是所有企业如今都正面临的“创新者的窘境”。在《创新者的窘境》中，管理大师克里斯坦森指出，一些看似很完美的商业动作——对主流客户所需、赢利能力最强的产品进行精准投资和技术研发——最终却很可能毁掉一家优秀的企业。他分析了计算机、汽车、钢铁等多个行业的创新模",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s27776092.jpg",
+                "lectorname": "作者/译者： 克莱顿•克里斯坦森 / 胡建桥",
+                "lvl_1_tag": "营销",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecc0fdfad70f746e9023",
+                "provider": "出版信息：  中信出版社 / 2014-1-1 / 48.00元",
+                "score": "85.0",
+                "source": "douban",
+                "title": "创新者的窘境(全新修订版)",
+                "url": "https://book.douban.com/subject/25807982/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.5549999999999999
+          },
+          {
+            "info": {
+              "_id": "6XakZ24BLqSKk2OYtIu8",
+              "_index": "book",
+              "_score": 5.681434,
+              "_source": {
+                "cnt_person": "634",
+                "desc": "市场的风向标已经转变！简单能赚钱！简单更能滋养心灵！.简单是商业的哲学：Google、Amazon.com、联邦快递简单是设计的灵魂：iPod、奥迪汽车、苹果电脑、联想..简单是科技的思维：施乐、飞利浦、微软、Linex简单是生活的美学：宫崎骏、乐高、宜家家居、强生、可口可乐简单有理：少能胜多、简能驭繁，全球崇尚“简”爱复杂的科技入侵我们的生活和工作，因此，简",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s2595180.jpg",
+                "lectorname": "作者/译者： John Maeda / 前田约翰 / 黄秀媛",
+                "lvl_1_tag": "交互设计",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3eccefdfad70f746e9d8e",
+                "provider": "出版信息：  中国人民大学出版社 / 2007 / 25.00元",
+                "score": "77.0",
+                "source": "douban",
+                "title": "简单法则",
+                "url": "https://book.douban.com/subject/2144413/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.377
+          }
+        ],
+        "course": [
+          {
+            "info": {
+              "_id": "r3W0ZG4BLqSKk2OYq22a",
+              "_index": "baidu",
+              "_score": 15.455202,
+              "_source": {
+                "cnt_person": "5212",
+                "desc": "适用人群职教二年级教学老师刘珍珠正阳职专一线在职教师该课程主要讲述汽车电气",
+                "image_url": "http://ckimg.baidu.com/course/2017-12/14/1c934f8ab1668eb15f18444426e65893.jpg",
+                "lectorname": "正阳县职业中等专业学校",
+                "lvl_1_tag": "更多技能",
+                "lvl_2_tag": "其他",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ec41fdfad70f746e3724",
+                "provider": "正阳县职业中等专业学校",
+                "score": "100.0",
+                "source": "baidu",
+                "title": "汽车电气",
+                "url": "http://chuanke.baidu.com/3003084-244748.html"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.7
+          },
+          {
+            "info": {
+              "_id": "_XW0ZG4BLqSKk2OYfle6",
+              "_index": "baidu",
+              "_score": 12.169122,
+              "_source": {
+                "cnt_person": "11000",
+                "desc": "适用人群想要入行汽车设计学到什么对于汽车车身设计熟练掌握教学老师车身老师启飞老师从2007年一直在从事catia工程设计相关的教育培训工作，特别从15年入职启飞汽车设计车身设计工程师以来录制大量的工程实战案例。普通话一流，讲解深入浅出。娓娓道来。启飞老师所录制的catia课程是每个catia从业者入职的必修课具体介绍可以进入启飞汽车设计官网了解",
+                "image_url": "http://ckimg.baidu.com/course/2017-10/23/a251a5923a0fe5cb43621a3f6aec3211.jpg",
+                "lectorname": "启飞汽车设计",
+                "lvl_1_tag": "IT/互联网/计算机",
+                "lvl_2_tag": "设计制作",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ec16fdfad70f746e0cc1",
+                "provider": "启飞汽车设计",
+                "score": "100.0",
+                "source": "baidu",
+                "title": "catia汽车设计车身设计整车设计白车身设计开闭件设计工程实例",
+                "url": "http://chuanke.baidu.com/9144613-239163.html"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.7
+          },
+          {
+            "info": {
+              "_id": "mHW0ZG4BLqSKk2OYtHGh",
+              "_index": "baidu",
+              "_score": 7.985614,
+              "_source": {
+                "cnt_person": "5284",
+                "desc": "医路行2018年临床专业精讲免费公开课",
+                "image_url": "http://ckimg.baidu.com/course/2018-01/19/2d39d12d2dbb9a95dc683de04d06f4ad.jpg",
+                "lectorname": "一路行医路行",
+                "lvl_1_tag": "资格考试",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ec4dfdfad70f746e42b6",
+                "provider": "一路行医路行",
+                "score": "100.0",
+                "source": "baidu",
+                "title": "医路行2018年临床专业精讲免费公开课",
+                "url": "http://chuanke.baidu.com/1243964-247178.html"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.7
+          },
+          {
+            "info": {
+              "_id": "b3W0ZG4BLqSKk2OYvnZS",
+              "_index": "baidu",
+              "_score": 7.343646,
+              "_source": {
+                "cnt_person": "5433",
+                "desc": "适用人群参加经济师考试的学员学到什么经济师中级金融专业知识与实务教材中基本概念，一些记忆技巧，复习方法，常考知识点。金融专业知识与实务试卷题型为单项选择题、多项选择题和案例分析题。题型的题量分布为：单选60题，多选20题，案例分析20题，试卷总题量为100题，考试时间均为150分钟。需要注意多项选择题(共20题，每题2分，每题的备选项中，有2个或2个以上选项。错选，本题不得分；少选，所选的每个选项得0.5分)。金融专业知识与实务教材目录为：第一章金融市场与金融工具………………………………(1)第二章利率与金融资产定价………………………………(20)第三章金融中介与金融制度………………………………(37)第四章商业银行经营与管理………………………………(66)第五章投资银行与证券投资基金…………………………(94)第六章信托与租赁…………………………………………(123)第七章金融工程与金融风险………………………………(149)第八章货币供求及其均衡…………………………………(179)",
+                "image_url": "http://ckimg.baidu.com/course/2016-05/13/d996c3aaeddcfcf89d8c57018f6f3600.jpg",
+                "lectorname": "济宁市汉程职业培训学校",
+                "lvl_1_tag": "资格考试",
+                "lvl_2_tag": "金融考试",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ec5afdfad70f746e4e87",
+                "provider": "济宁市汉程职业培训学校",
+                "score": "100.0",
+                "source": "baidu",
+                "title": "经济师中级金融专业知识与实务考试冲刺班",
+                "url": "http://chuanke.baidu.com/5726567-173536.html"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.7
+          },
+          {
+            "info": {
+              "_id": "mXW0ZG4BLqSKk2OYfVfo",
+              "_index": "baidu",
+              "_score": 7.0273314,
+              "_source": {
+                "cnt_person": "8813",
+                "desc": "InDesign软件是一个定位于专业排版领域的设计软件，宣告针对艺术排版的程序。提供给图像设计师、产品包装师和印前专家。InDesign涵盖创意、精度、具有当今诸多排版软件所不具备的特性。课程从零基础入门到实战篇的讲解，让零基础学员不仅能学到入门知识，也能让有基础的同学进一步提升排版能力，该课程为基础试学课程，祝大家学习愉快",
+                "image_url": "http://ckimg.baidu.com/course/2014-10/01/365eebb4b51f1e252a3ade698cd53755.jpg",
+                "lectorname": "小白课堂",
+                "lvl_1_tag": "IT/互联网/计算机",
+                "lvl_2_tag": "设计制作",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ec15fdfad70f746e0c28",
+                "provider": "小白课堂",
+                "score": "98.71",
+                "source": "baidu",
+                "title": "Adobe InDesign cs6专业排版培训课程(试学篇)",
+                "url": "http://chuanke.baidu.com/2738483-113111.html"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.7
+          },
+          {
+            "info": {
+              "_id": "l3W0ZG4BLqSKk2OYZkr0",
+              "_index": "wangyiyun",
+              "_score": 16.895237,
+              "_source": {
+                "cnt_person": "3657",
+                "desc": "《汽车的故事》是一部四集纯动画演示课程。通过生动直观的动画描述人类探索动力机械的历程，分《寻找动力》、《蒸汽时代》、《引擎进化》、《汽车诞生》四集。看完动画演示讲解，观众可以彻底了解人类文明如何从马车时代进入蒸汽机、内燃机的发明进程，并理解四冲程发动机和变速器离合器等汽车关键零部件的结构和研发思路。",
+                "image_url": "http://img0.ph.126.net/APZQqLPEk1HkG8at9Nk1TA==/6631725273653384049.jpg",
+                "lectorname": "管晶",
+                "lvl_1_tag": "生活兴趣",
+                "lvl_2_tag": "生活百科",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ecb2fdfad70f746e8d86",
+                "provider": "管晶",
+                "score": "98.00000000000001",
+                "source": "wangyiyun",
+                "title": "《汽车的故事》——动画讲解汽车发明史",
+                "url": "https://study.163.com/course/introduction/1003170005.htm"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.6880000000000001
+          },
+          {
+            "info": {
+              "_id": "2XW0ZG4BLqSKk2OYelXQ",
+              "_index": "baidu",
+              "_score": 14.351216,
+              "_source": {
+                "cnt_person": "2117",
+                "desc": "零基础学习用画笔工具画汽车，初级课程，高手勿入，不要占用资源。本课程也适用于对产品设计感兴趣的同学学习。【课程目的】培养新手对PS兴趣，不要被复杂的工具而感到迷茫，尤其是对色彩没有学习过的同学们。希望大家能够一步步学习完成，我们也会把练习中用到的图片，发给大家练习使用。同时也希望大家能给个好评，以鼓励我们更加努力的做更多课程。【课程特点】用最简单的画笔工具，画出一辆汽车【课程目标】让初学者对PS产生兴趣【教师资质】设计专业毕业",
+                "image_url": "http://ckimg.baidu.com/course/2015-08/22/cb19b772f322a314588a4cde06d45f66.jpg",
+                "lectorname": "红旋风在线",
+                "lvl_1_tag": "IT/互联网/计算机",
+                "lvl_2_tag": "常用软件",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ec0ffdfad70f746e05d5",
+                "provider": "红旋风在线",
+                "score": "100.0",
+                "source": "baidu",
+                "title": "零基础PS 汽车 人人 都可以做到 (初级)",
+                "url": "http://chuanke.baidu.com/4209920-148848.html"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.4
+          },
+          {
+            "info": {
+              "_id": "YXW0ZG4BLqSKk2OYMTEz",
+              "_index": "wangyiyun",
+              "_score": 5.351199,
+              "_source": {
+                "cnt_person": "7518",
+                "desc": "去年我们是网易云课堂用户数和好评数双料排名第一的电子表格课程今年我们用心做好每一个环节，准备好迎接一个更大的世界不用鼠标操作Excel的系统训练方法你只能在这里看到不用VBA数据库实现财务全系统流程的课程你只能在这里看到全国首个Office2013商业BI系统应用你只能在这里看到使用OfficeOnline解决远程数据抓取，你也只能在这里看到最重要的是，我们是用“道”来解决表格问题，这使得我们在众多电子表格教程中逼格闪闪，详情请参见本课程第一课：内容、形式、产品：（如果无法完整浏览建议到免费版观看地址如下http://study.163.com/course/courseMain.htm?courseId=359002#）不确定的请浏览学员评价，还有什么比已经学过的学员评价更有说服力的呢？在线教育最大的成本是学习投入所花费的时间和精力，您可以仔细甄别选择最适合您的课程有问题的请直接召唤谷哥QQ214712727微信公众号：谷哥小城",
+                "image_url": "http://img2.ph.126.net/wsS-WRgPXyq5ulhs1-FQsw==/6630845664350329784.jpg",
+                "lectorname": "谷小城",
+                "lvl_1_tag": "职场提升",
+                "lvl_2_tag": "办公软件",
+                "lvl_3_tag": "Excel",
+                "price": "99",
+                "product_id": "5dc3ec86fdfad70f746e63a9",
+                "provider": "谷小城",
+                "score": "98.00000000000001",
+                "source": "wangyiyun",
+                "title": "表格之道(专业版)",
+                "url": "https://study.163.com/course/introduction/720001.htm"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 1.488
+          },
+          {
+            "info": {
+              "_id": "L3W0ZG4BLqSKk2OYZEkf",
+              "_index": "wangyiyun",
+              "_score": 7.3467045,
+              "_source": {
+                "cnt_person": "690",
+                "desc": "网易官方股票专业训练营，有钱君十年投资经验总结提炼，从思维养成到系统实操，手把手教你从小白入门到股票投资高手。添加钱君助手微信：ttzhujiao，备注“云课堂”，有钱君一对一指导，只教技术不玩套路。",
+                "image_url": "https://edu-image.nosdn.127.net/b6996a2a7ccd45b5b4302570bdd21fa7.jpg?imageView&quality=100&crop=0_0_439_248",
+                "lectorname": "网易有钱君",
+                "lvl_1_tag": "生活兴趣",
+                "lvl_2_tag": "个人理财",
+                "lvl_3_tag": "股票",
+                "price": "299",
+                "product_id": "5dc3ecb0fdfad70f746e8c1e",
+                "provider": "网易有钱",
+                "score": "96.0",
+                "source": "wangyiyun",
+                "title": "网易官方股票专业训练营",
+                "url": "https://study.163.com/course/introduction/1006259012.htm"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 1.376
+          },
+          {
+            "info": {
+              "_id": "VnW0ZG4BLqSKk2OYT0CU",
+              "_index": "wangyiyun",
+              "_score": 12.232874,
+              "_source": {
+                "cnt_person": "66",
+                "desc": "3dmax（3dsmax）汽车建模视频教程，法拉利ENZO跑车，多边形建模，车身2小时完成。学习本教程，无需3dmax基础.购买后，课程永久有效.含全套练习文件.课程特点：1，零基础，手把手；2，1-3天即可完成（整车全部）；3，高级曲面建模技巧集成；4，汽车复杂曲面精髓解密，高效率；5，曲面完善/细节雕琢；6，各种异形/规律形态构思；7，从第一步到模型完美收官全程带领，中间无间断，详细。8，任何3dmax版本均可使用本教程，版本无忧。所需文件资料下载地址：链接:https://pan.baidu.com/s/1iN-C_Nuor3rrKLBK7nb2Qw密码:下单后请发邮件至niceqt01@163.com获取",
+                "image_url": "http://edu-image.nosdn.127.net/BBA57F58BF659451E1CB72900D2A4D6B.jpg?imageView&thumbnail=120x67&quality=100",
+                "lectorname": "二狮兄",
+                "lvl_1_tag": "设计创意",
+                "lvl_2_tag": "设计软件基础",
+                "lvl_3_tag": "",
+                "price": "29",
+                "product_id": "5dc3eca6fdfad70f746e8204",
+                "provider": "二狮兄",
+                "score": "96.0",
+                "source": "wangyiyun",
+                "title": "3dmax汽车建模视频教程2-车身",
+                "url": "https://study.163.com/course/introduction/1004073085.htm"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 1.1760000000000002
+          }
+        ]
+      },
+      "skill_name": "汽车专业"
+    },
+    {
+      "query_result": {
+        "book": [
+          {
+            "info": {
+              "_id": "GnakZ24BLqSKk2OYrYgN",
+              "_index": "book",
+              "_score": 12.2947445,
+              "_source": {
+                "cnt_person": "11930",
+                "desc": "本书介绍了时下最流行的时间管理方法之一——番茄工作法。作者根据亲身运用番茄工作法的经历，以生动的语言，传神的图画，将番茄工作法的具体理论和实践呈现在读者面前。番茄工作法简约而不简单，本书亦然。在番茄工作法一个个短短的25分钟内，你收获的不仅仅是效率，还会有意想不到的成就感。本书适合所有志在提高工作效率的人员，尤其是软件工作人员和办公人员。",
+                "image_url": "https://img1.doubanio.com/view/subject/l/public/s29823747.jpg",
+                "lectorname": "作者/译者： [瑞典] Staffan Nöteberg / 大胖",
+                "lvl_1_tag": "管理",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecc6fdfad70f746e95ad",
+                "provider": "出版信息：  人民邮电出版社 / 2011-2 / 29.00元",
+                "score": "77.0",
+                "source": "douban",
+                "title": "番茄工作法图解",
+                "url": "https://book.douban.com/subject/5916234/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.6769999999999999
+          },
+          {
+            "info": {
+              "_id": "5nakZ24BLqSKk2OYrIes",
+              "_index": "book",
+              "_score": 11.902172,
+              "_source": {
+                "cnt_person": "6141",
+                "desc": "如何在网络时代善用脑力，创造真实价值，成为一个不可替代的人.....................※编辑推荐※☆《纽约时报》《华尔街日报》力荐畅销书，引发数百万讨论的年度话题之作。收到电邮有必要在1小时之内回复吗？在工作中一直保持联结状态重要吗？开放式办公环境合理吗？……本书将帮你重新审视一直以来习以为常的工作习惯，让你不再深陷于低效的忙碌之中。☆深度工作，是信息碎片时代的自控力、专",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s29470672.jpg",
+                "lectorname": "作者/译者： [美] 卡尔·纽波特 / 宋伟",
+                "lvl_1_tag": "管理",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecc5fdfad70f746e954a",
+                "provider": "出版信息：  后浪丨江西人民出版社 / 2017-7 / 45.00元",
+                "score": "77.0",
+                "source": "douban",
+                "title": "深度工作",
+                "url": "https://book.douban.com/subject/27056409/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.6769999999999999
+          },
+          {
+            "info": {
+              "_id": "U3akZ24BLqSKk2OYrYhz",
+              "_index": "book",
+              "_score": 10.776945,
+              "_source": {
+                "cnt_person": "4389",
+                "desc": "《时间管理:如何充分利用你的24小时》为“简单有趣的个人管理”丛书之一。《时间管理:如何充分利用你的24小时》作者从大量关于时间管理的书籍和文章中归纳出约50条原则.并在书中一一展示。《时间管理:如何充分利用你的24小时》以故事的形式来介绍时间管理.行文生动活泼.配有精美描图。适合对时间管理感兴趣的读者休闲阅读。",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s28072864.jpg",
+                "lectorname": "作者/译者： [美] 吉姆·兰德尔 / 舒建广",
+                "lvl_1_tag": "管理",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecc6fdfad70f746e9617",
+                "provider": "出版信息：  上海交通大学出版社 / 2012-1-1 / 20.00元",
+                "score": "74.0",
+                "source": "douban",
+                "title": "时间管理",
+                "url": "https://book.douban.com/subject/7001106/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.6739999999999999
+          },
+          {
+            "info": {
+              "_id": "jHakZ24BLqSKk2OYpIMo",
+              "_index": "book",
+              "_score": 16.403263,
+              "_source": {
+                "cnt_person": "255",
+                "desc": "本书围绕经营绩效、服务机构的绩效、卓有成效的工作和有所成就的员工、社会影响和社会责任、管理者的工作、管理技能与组织管理、高层管理者的任务与组织、战略与结构等，系统探讨和揭示了企业使命、企业责任、员工责任、员工资产、知识工作者、目标管理、管理分权、组织设计、规模、多国公司、成长和创新新型组织等方面的问题。20世纪管理最重要、独特的贡献就是将体力工作的生产力提高了50倍之多；21世纪管理所能做的贡",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s1692924.jpg",
+                "lectorname": "作者/译者： 德鲁克 / 王永贵",
+                "lvl_1_tag": "经济学",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecc0fdfad70f746e8fe7",
+                "provider": "出版信息：  机械工业出版社 / 2006-11 / 58",
+                "score": "92.0",
+                "source": "douban",
+                "title": "管理",
+                "url": "https://book.douban.com/subject/1839796/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.6519999999999999
+          },
+          {
+            "info": {
+              "_id": "aXakZ24BLqSKk2OYqIUH",
+              "_index": "book",
+              "_score": 13.320083,
+              "_source": {
+                "cnt_person": "270",
+                "desc": "《德鲁克管理思想精要》的主要内容是：管理最初只建立在为数不多的几条基本原则之上：管理是关于人类的管理，其任务就是使人与人之间能够协调配合，扬长避短，实现最大的集体效益。管理者所做的工作内容都是完全一样的，但他们的工作方式却是千差万别。每个企业都要有责任坚定不移地树立一个共同的目标和统一的价值观。管理必须随需要与机会的变化而变化，以此促使企业及其成员能够得到更好的发展。每个企业内部都拥有具备不同技术",
+                "image_url": "https://img1.doubanio.com/view/subject/l/public/s9023627.jpg",
+                "lectorname": "作者/译者： 德鲁克 / 李维安",
+                "lvl_1_tag": "创业",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecc2fdfad70f746e921a",
+                "provider": "出版信息：  机械工业出版社 / 2007-6 / 45.00元",
+                "score": "90.0",
+                "source": "douban",
+                "title": "德鲁克管理思想精要",
+                "url": "https://book.douban.com/subject/2180696/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.64
+          },
+          {
+            "info": {
+              "_id": "ZXakZ24BLqSKk2OY0pkH",
+              "_index": "book",
+              "_score": 13.125776,
+              "_source": {
+                "cnt_person": "1423",
+                "desc": "卓有成效是管理者必须做到的事，但是在所有的知识组织中，每一位知识工作者其实都是管理者——即使他没有所谓的职权，只要他能为组织做出突出的贡献。管理者的成效往往是决定组织工作成效的最关键因素；并不是只有高级管理人员才是管理者，所有负责行动和决策而又有助于提高机构工作效能的人，都应该像管理者一样工作和思考。",
+                "image_url": "https://img1.doubanio.com/view/subject/l/public/s26914079.jpg",
+                "lectorname": "作者/译者： [美] 彼得·德鲁克 / 许是祥",
+                "lvl_1_tag": "励志",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ece3fdfad70f746eb2c7",
+                "provider": "出版信息：  机械工业出版社 / 2009-9 / 30.00元",
+                "score": "88.00000000000001",
+                "source": "douban",
+                "title": "卓有成效的管理者",
+                "url": "https://book.douban.com/subject/4020857/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.5640000000000001
+          },
+          {
+            "info": {
+              "_id": "uXakZ24BLqSKk2OYpIOX",
+              "_index": "book",
+              "_score": 12.930658,
+              "_source": {
+                "cnt_person": "569",
+                "desc": "《数据化管理：洞悉零售及电子商务运营》讲述了两个年轻人在大公司销售、商品、电商、数据等部门工作的故事，通过大量案例深入浅出地讲解了数据意识和零售思维。作者将各种数据分析方法融入到具体的业务场景中，最终形成数据化管理模型，从而帮助企业提高运营管理能力。《数据化管理：洞悉零售及电子商务运营》全部案例均基于Excel，每个人都能快速上手应用并落地。",
+                "image_url": "https://img1.doubanio.com/view/subject/l/public/s29809759.jpg",
+                "lectorname": "作者/译者： 黄成明 （@数据化管理）",
+                "lvl_1_tag": "营销",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecc0fdfad70f746e901a",
+                "provider": "出版信息：  电子工业出版社 / 2014-7 / 59.90元",
+                "score": "83.0",
+                "source": "douban",
+                "title": "数据化管理",
+                "url": "https://book.douban.com/subject/25909355/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.383
+          },
+          {
+            "info": {
+              "_id": "mnakZ24BLqSKk2OYzZc-",
+              "_index": "book",
+              "_score": 16.721022,
+              "_source": {
+                "cnt_person": "2950",
+                "desc": "《态度》一书是吴军老师首部个人成长类著作。吴军老师认为，由于处事的态度不同，起点差不多的人会不断分化，进而拉开命运的差距。这本书是吴军老师给正在上大学和上高中的女儿们的家书，针对年轻人在成长过程中都要遇到的有效学习、处理人际关系、理解并赚取财富等具体问题，以及如何洞察世界、人生等哲学问题，给出了诚恳的建议。这些建议或源于作者的亲身经历，特别是十多年来参与大学管理和在世界一流企业从事管理工作的经",
+                "image_url": "https://img1.doubanio.com/view/subject/l/public/s29897129.jpg",
+                "lectorname": "作者/译者： 吴军",
+                "lvl_1_tag": "成长",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ece0fdfad70f746eaf4e",
+                "provider": "出版信息：  中信出版社 / 2018-11 / 59",
+                "score": "81.0",
+                "source": "douban",
+                "title": "态度",
+                "url": "https://book.douban.com/subject/30346218/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.381
+          },
+          {
+            "info": {
+              "_id": "u3akZ24BLqSKk2OY0pnB",
+              "_index": "book",
+              "_score": 13.801763,
+              "_source": {
+                "cnt_person": "1428",
+                "desc": "生活在数字化的时代，时间管理已不再是可行的解决方案。我们匆匆忙忙，风风火火；面对沉重的工作负荷，我们努力把每一天都安排得满满当当；我们上紧了发条，但是我们却彻底地垮了。一天中有多少个小时是固定的，但是我们所能调动的精力却不是这样的。吉姆·洛尔和托尼·施瓦茨编著的《精力管理》证明：尽管我们不能挤出额外的时间，也不能减轻自己的压力，但我们可以调动更有意义的东西——精力！管理精力，而非时间，是",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s1070210.jpg",
+                "lectorname": "作者/译者： （美）吉姆·洛尔 / 付涛",
+                "lvl_1_tag": "励志",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ece3fdfad70f746eb32c",
+                "provider": "出版信息：  中信出版社 / 2003-12 / 25.00元",
+                "score": "78.0",
+                "source": "douban",
+                "title": "精力管理",
+                "url": "https://book.douban.com/subject/1019959/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.378
+          },
+          {
+            "info": {
+              "_id": "QnakZ24BLqSKk2OYrYhU",
+              "_index": "book",
+              "_score": 11.87798,
+              "_source": {
+                "cnt_person": "704",
+                "desc": "《每周工作4小时(修订版)》是一本全新的自我管理书，一本正在影响世界的国际畅销书。出版后即荣登《华尔街日报》《纽约时报》《商业周刊》畅销书榜榜首。如果说《世界是平的》是全球化时代的政府版和企业版，那么《每周工作4小时》就是全球化时代的个人应用版。不管你是忙碌的上班族，还是世界500强的总裁，《每周工作4小时(修订版)》都将改变你的人生。《每周工作4小时(修订版)》是一本从观念到行为，彻底改变你的",
+                "image_url": "https://img9.doubanio.com/view/subject/l/public/s10432576.jpg",
+                "lectorname": "作者/译者： 蒂莫西·费里斯 / 鹤梅",
+                "lvl_1_tag": "管理",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecc6fdfad70f746e95fe",
+                "provider": "出版信息：  吉林出版集团有限责任公司 / 2012-7 / 39.80元",
+                "score": "78.0",
+                "source": "douban",
+                "title": "每周工作4小时",
+                "url": "https://book.douban.com/subject/10786476/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.378
+          }
+        ],
+        "course": [
+          {
+            "info": {
+              "_id": "eHW0ZG4BLqSKk2OYRjuj",
+              "_index": "wangyiyun",
+              "_score": 14.576225,
+              "_source": {
+                "cnt_person": "42921",
+                "desc": "针对Linux系统的运维技术进行深入讲解，深入了解Linux原理及复杂管理工具及功能的使用，以期能够对Linux有一个全面、深入的掌控。包括高级磁盘管理、高级权限、安全、高级网络功能及远程管理等等",
+                "image_url": "http://img1.ph.126.net/AyBi9Awia8_6TVORxDaw6A==/6597317156773046107.png",
+                "lectorname": "苏勇（nash_su）",
+                "lvl_1_tag": "编程与开发",
+                "lvl_2_tag": "网络与安全",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ec91fdfad70f746e6dd4",
+                "provider": "Linux在线学习",
+                "score": "98.00000000000001",
+                "source": "wangyiyun",
+                "title": "Linux高级系统管理",
+                "url": "https://study.163.com/course/introduction/232008.htm"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 1.1880000000000002
+          },
+          {
+            "info": {
+              "_id": "TXW0ZG4BLqSKk2OYOTW5",
+              "_index": "wangyiyun",
+              "_score": 8.269683,
+              "_source": {
+                "cnt_person": "9479",
+                "desc": "中国式管理就是对称管理。中华传统文化最大的特色是对称文化。对称文化：天与人、义与利、道与德、理与气、名与实、形上与形下、德治与法治、出世与入世的对称。对称文化：民主与法制的对称、公平与效率的对称、人的理性与非理性的对称、个人与企业的对称、民间与政府的对称。对称管理：物的管理与人的管理的对称，人本管理与利润管理的对称。中国管理模式就是对称管理模式。中国管理模式——对称管理模式是中国特殊管理模式与人类一般管理模式的统一。中国管理模式——对称管理模式是中国对人类的贡献",
+                "image_url": "http://img0.ph.126.net/M0u0snqH5OYjtagYGBdqLw==/6599312770378322997.jpg",
+                "lectorname": "曾仕强",
+                "lvl_1_tag": "职场提升",
+                "lvl_2_tag": "专业岗位",
+                "lvl_3_tag": "人力资源管理",
+                "price": "0",
+                "product_id": "5dc3ec8bfdfad70f746e67a8",
+                "provider": "多学多用",
+                "score": "98.00000000000001",
+                "source": "wangyiyun",
+                "title": "曾仕强老师教你中国式管理",
+                "url": "https://study.163.com/course/introduction/704119.htm"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.8880000000000001
+          },
+          {
+            "info": {
+              "_id": "xHW0ZG4BLqSKk2OYODQ8",
+              "_index": "wangyiyun",
+              "_score": 8.84482,
+              "_source": {
+                "cnt_person": "14294",
+                "desc": "项目管理总共有的五个基本过程：项目启动、项目计划、项目执行、项目监控、项目结束。本部份包含什么是项目管理，项目管理的启动部分的流程以及相关工具的使用。重点在于怎样设定项目的目标，以及项目干系人的管理。所有系列课程将会在今后逐步推出，敬请留意。第一章：项目启动1.1确定项目的目标1.2项目干系人管理1.3形成项目章程第二章项目计划2.1分解WBS2.2安排项目资源2.3项目进度计划第三章项目执行3.1进度控制3.2质量保证3.3沟通管理第四章项目监控4.1变更控制4.2项目干系人管理4.3风险监控第五章项目结束5.1验收和收款5.2经验总结和庆功",
+                "image_url": "http://img0.ph.126.net/xcAqgT-L8hF05LaXiR23KQ==/1112389107978385950.jpg",
+                "lectorname": "专注实现",
+                "lvl_1_tag": "职场提升",
+                "lvl_2_tag": "专业岗位",
+                "lvl_3_tag": "项目管理",
+                "price": "0",
+                "product_id": "5dc3ec8afdfad70f746e671f",
+                "provider": "专注实现",
+                "score": "96.0",
+                "source": "wangyiyun",
+                "title": "项目管理系列之一 项目管理简介和启动",
+                "url": "https://study.163.com/course/introduction/898001.htm"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.8879999999999999
+          },
+          {
+            "info": {
+              "_id": "w3W0ZG4BLqSKk2OYODQ5",
+              "_index": "wangyiyun",
+              "_score": 8.231066,
+              "_source": {
+                "cnt_person": "27806",
+                "desc": "一个完整的项目管理过程中会使用到非常多的工具和模板，其中有一些模板是非常常用的，一个优秀的项目经理一定要具备熟练运用各类型项目管理模板的意识和能力，这会让你的项目管理过程更加顺畅，更加便捷。在本课程中，你将学习到项目经理常用的10个模板，它们包括：项目组成员表；项目范围说明书；WBS表；项目进度计划表；项目风险管理表；项目沟通计划表；项目会议纪要；项目状态报告；项目变更管理表；项目总结表。想成为一个优秀的IT项目经理，只有这几个模板肯定是不够的，所以我们还开设了，帮助更多的初级IT项目经理成长的专业课程，该课程更偏向于实战，丰富的案例，更多信息请访问：http://mooc.study.163.com/smartSpec/detail/55001.htm",
+                "image_url": "http://img1.ph.126.net/N2tozTuBk5rTbOTeqjrzig==/3758253889141592494.jpg",
+                "lectorname": "肖杨",
+                "lvl_1_tag": "职场提升",
+                "lvl_2_tag": "专业岗位",
+                "lvl_3_tag": "项目管理",
+                "price": "0",
+                "product_id": "5dc3ec8afdfad70f746e671e",
+                "provider": "光环国际",
+                "score": "96.0",
+                "source": "wangyiyun",
+                "title": "项目管理十大模板",
+                "url": "https://study.163.com/course/introduction/1599010.htm"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.8879999999999999
+          },
+          {
+            "info": {
+              "_id": "JnW0ZG4BLqSKk2OYNDM3",
+              "_index": "wangyiyun",
+              "_score": 17.420153,
+              "_source": {
+                "cnt_person": "240218",
+                "desc": "职场小人物--提米丝为了获得一份梦想中的工作，答应额外接受自己不擅长的行政管理工作。但，日常工作的混乱、上级和同事的冷漠让她越发感觉前途的迷茫。正在这个时候，她的命运发生了改变。。。从小就知道时间管理重要性的你，是不是曾经不止一次的想让自己规划好自己的时间，让自己获得工作学习或其他方面的突破？为了让自己能够掌握时间管理，你曾尝试过学习，结果发现书籍很多培训很多，但是都是道理一大堆，行动的方法却很少。你也试图掌握方法，但是一面对现实的一变动就灵活不起来，或者坚持不下去。。。。。。。假如你满足其上的一项，那么这本书就是为你而写的。作者：姑苏明月简介：网易云课堂2014年金云奖最受欢迎讲师。多年培训师相关工作经验，课程生动、实用。代表课程：《思维导图时间管理》、《30天成为NLP情绪处理高手》、《看实例学思维导图提升记忆力/学习力/演讲能力》、《200个案例教你如何拒绝》、《职场中，怎样面对难相处的人,100个案例教你》等。此漫画，已出第二季，欢迎大家继续支持！http://study.163.com/course/courseMain.htm?courseId=1149012",
+                "image_url": "http://edu-image.nosdn.127.net/CBC302951B45BF3131293610F33DC99C.png?imageView&thumbnail=120x67&quality=100",
+                "lectorname": "姑苏明月",
+                "lvl_1_tag": "职场提升",
+                "lvl_2_tag": "效率工具",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ec88fdfad70f746e6580",
+                "provider": "姑苏明月",
+                "score": "94.0",
+                "source": "wangyiyun",
+                "title": "【漫画】思维导图时间管理（试读）",
+                "url": "https://study.163.com/course/introduction/1037006.htm"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.8819999999999999
+          },
+          {
+            "info": {
+              "_id": "snW0ZG4BLqSKk2OYvnbV",
+              "_index": "baidu",
+              "_score": 17.183456,
+              "_source": {
+                "cnt_person": "35000",
+                "desc": "适用人群系统集成学生学到什么掌握系统集成的基础知识和项目管理的九大领域中的范围管理、进度管理、成本管理、质量管理等内容，为考试和项目管理实践打下坚实基础。教学老师小任老师河北师范大学软件学院优秀讲师,十年高校教学经验,高级项目经理,系统分析师由于百度传课系统升级，需要看软考中级-系统集成项目管理工程师全部视频的同学可以复制下面链接，有试听，更全面完整。系统集成项目管理工程师-基础知识（上）链接：https://ke.qq.com/course/152747#tuin=7d818187系统集成项目管理工程师-基础知识（下）链接：https://ke.qq.com/course/153325#tuin=7d818187系统集成项目管理工程师-上午历年真题解析链接：https://ke.qq.com/course/260679#tuin=7d818187系统集成项目管理工程师-下午历年真题解析链接：https://ke.qq.com/course/260688#tuin=7d818187小任老师帮你",
+                "image_url": "http://ckimg.baidu.com/course/2017-12/27/9f5a47699e9badf408256eb0ed26a500.jpg",
+                "lectorname": "91学IT",
+                "lvl_1_tag": "资格考试",
+                "lvl_2_tag": "IT类考试",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ec5bfdfad70f746e4f57",
+                "provider": "91学IT",
+                "score": "90.0",
+                "source": "baidu",
+                "title": "2018年软考-系统集成项目管理工程师-基础知识视频培训教程",
+                "url": "http://chuanke.baidu.com/1370510-165278.html"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.7
+          },
+          {
+            "info": {
+              "_id": "3nW0ZG4BLqSKk2OYsG_D",
+              "_index": "baidu",
+              "_score": 16.502476,
+              "_source": {
+                "cnt_person": "9525",
+                "desc": "适用人群准备报考高项中项者学到什么考试技巧，真题解答教学老师启明教育长期从事信息系统相关项目的项目经理信息系统项目管理师，系统集成项目管理工程师高级培训",
+                "image_url": "http://ckimg.baidu.com/course/2016-03/01/458873abc6eafc45e27cb9044bd8f5ea.jpg",
+                "lectorname": "启明教育",
+                "lvl_1_tag": "资格考试",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ec4bfdfad70f746e40fc",
+                "provider": "启明教育",
+                "score": "100.0",
+                "source": "baidu",
+                "title": "信息系统项目管理师系统集成项目管理工程师高级培训",
+                "url": "http://chuanke.baidu.com/2511028-165921.html"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.7
+          },
+          {
+            "info": {
+              "_id": "GXW0ZG4BLqSKk2OYNDMb",
+              "_index": "wangyiyun",
+              "_score": 10.674034,
+              "_source": {
+                "cnt_person": "1165",
+                "desc": "OmniFocus介绍：时间管理软件OmniFocusforiOS是iPhone手机用户最佳的时间管理软件，是最优的GTD理论落地工具。（iOS含义是iPhone、iPad、AppleWatche所用系统）我使用OmniFocus及实践GTD已有六年时间，这六年几乎每天我都在使用OmniFocus，紧紧围绕我的工作、生活，密不可分，让我对OmniFocus功能、特性有了深刻了解。我在这里传授的并不仅仅是OmniFocus作为时间管理软件的使用方法，而是分享一种高效生活工作方法，帮助你清空大脑、摆脱焦虑、提高效率，做事情井井有条，管理好你的时间，让你平衡你的健康、家庭、工作、生活、爱好，帮你进入到一种高效的平衡状态。本门课程已经全部更新完毕！【更多学习资料可关注公众号：李长太】报名后加我微信（lichangtai1234），可拉入学员群提问互动组合购买更优惠：http://study.163.com/topics/zhichangxueshe",
+                "image_url": "https://edu-image.nosdn.127.net/61985e4df6514969bb13e4f435ec0d59.png?imageView&quality=100&crop=0_0_439_247",
+                "lectorname": "李长太",
+                "lvl_1_tag": "职场提升",
+                "lvl_2_tag": "效率工具",
+                "lvl_3_tag": "",
+                "price": "199",
+                "product_id": "5dc3ec88fdfad70f746e6572",
+                "provider": "知常学社",
+                "score": "98.00000000000001",
+                "source": "wangyiyun",
+                "title": "时间管理神器-OmniFocus for iOS",
+                "url": "https://study.163.com/course/introduction/1018013.htm"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 1.488
+          },
+          {
+            "info": {
+              "_id": "GnW0ZG4BLqSKk2OYNDMd",
+              "_index": "wangyiyun",
+              "_score": 8.865314,
+              "_source": {
+                "cnt_person": "795",
+                "desc": "OmniFocus作为我的工具已有六年时间，OmniFocus紧紧围绕我的工作、生活，密不可分。我在这里传授的不仅仅是OmniFocus软件的使用方法，而是分享一种高效生活工作方法，帮助你清空大脑、摆脱焦虑、提高效率，做事情井井有条，让你平衡你的健康、家庭、工作、生活、爱好，帮你进入到一种高效的平衡状态。课程包括理论和方法，也详细讲解OmniFocus工具，同时还会介绍我的实践案例，让你最快速掌握OmniFocus，成为你的得力助手！课程章节设置（一）前言及简介（二）时间管理方法（三）安装注册（四）数据同步（五）界面视图（六）收件箱（七）项目（八）上下文（九）已标注（十）预测（十一）检查（十二）透视（十三）搜索（十四）通知【更多学习资料可关注公众号：李长太】报名后加我微信（lichangtai1234），可拉入学员交流群组合购买更优惠：http://study.163.com/topics/zhichangxueshe",
+                "image_url": "https://edu-image.nosdn.127.net/1d4c11a6cae144e5afedd16cdc86b0ed.png?imageView&quality=100&crop=0_0_439_247",
+                "lectorname": "李长太",
+                "lvl_1_tag": "职场提升",
+                "lvl_2_tag": "效率工具",
+                "lvl_3_tag": "",
+                "price": "199",
+                "product_id": "5dc3ec88fdfad70f746e6573",
+                "provider": "知常学社",
+                "score": "98.00000000000001",
+                "source": "wangyiyun",
+                "title": "时间管理神器-OmniFocus for Mac",
+                "url": "https://study.163.com/course/introduction/1003546013.htm"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 1.488
+          },
+          {
+            "info": {
+              "_id": "LXW0ZG4BLqSKk2OYNjSa",
+              "_index": "wangyiyun",
+              "_score": 8.73702,
+              "_source": {
+                "cnt_person": "2734",
+                "desc": "你是否经历过以下的扎心瞬间：-工作一段时间以来，总被人说，自己思维不够成熟，甚至还带着学生思维。-遇到老板布置的不同的职场问题，不知道该“怎么想”-重要的汇报、面对老板的反驳，不知道该“怎么说”；-要想提升自己业绩，成为老板眼中的高绩效员工，不知道该“怎么做”其实，老板也是需要管理的。你需要管理你对他的认知、管理他的期望、管理和他的沟通过程等等。职场，有一套独特的游戏规则。而这些背后的规则和套路，你的老板，往往不会告诉你；学校，更不会教给你。管理你的老板，就是你必须掌握的，第一个职场规则。希望这门课的，可以让你掌握一套管理老板的方法论，搞定老板，就是这么简单，一起加入吧！【购买须知】1.更新：课程已全部上线，后期不定期根据新规更新或迭代。2.有效期：课程一次购买，视频永久有效，可自行安排时间进行学习，不限时间、次数。3.有任何想法，欢迎加小编的微信：jiaoyuzhuanjia2018",
+                "image_url": "https://edu-image.nosdn.127.net/bfe3976077d14887b2879a1d8251e951.jpg?imageView&quality=100&crop=0_0_1838_1037",
+                "lectorname": "郑凌琳Selina",
+                "lvl_1_tag": "职场提升",
+                "lvl_2_tag": "职场能力",
+                "lvl_3_tag": "",
+                "price": "199",
+                "product_id": "5dc3ec89fdfad70f746e6687",
+                "provider": "职场方寸山",
+                "score": "98.00000000000001",
+                "source": "wangyiyun",
+                "title": "职场向上管理：如何搞定你的老板",
+                "url": "https://study.163.com/course/introduction/1005441006.htm"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 1.488
+          }
+        ]
+      },
+      "skill_name": "管理工作"
+    },
+    {
+      "query_result": {
+        "book": [],
+        "course": [
+          {
+            "info": {
+              "_id": "3HW0ZG4BLqSKk2OYtXE3",
+              "_index": "baidu",
+              "_score": 7.611915,
+              "_source": {
+                "cnt_person": "201",
+                "desc": "教学老师WongSiewChoo马来西亚ACCA铂金级培训机构F1、P1、P3讲师，ICSA会员，能够中英文双语教学。定期参加英国考官见面会，掌握最新大纲更新信息和考试方向，摸清考官思路，曾培养出3名全球一、6名全国第一。25年P3相关教学经验，经历四个P3考官，对P3考题的变化和发展掌握的非常透彻，独立开发了P3独特的学习技术和方法,被称为“ActivityBasedLearning”。精彩细致的讲解深受学员的喜爱，也奠定P3很高的通过率。北京东方立品国际教育科技有限责任公司是一家培训国际财经金融类职业资格证书的专业机构，是ACCA黄金级培训机构和ACCA机考中心。",
+                "image_url": "http://ckimg.baidu.com/course/2017-03/01/fad8d426f43a8cd2267bb37f9eff0da4.jpg",
+                "lectorname": "东方立品国际教育",
+                "lvl_1_tag": "资格考试",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ec4dfdfad70f746e42fa",
+                "provider": "东方立品国际教育",
+                "score": "100.0",
+                "source": "baidu",
+                "title": "东方立品ACCA P3 Business Analysis (BA)",
+                "url": "http://chuanke.baidu.com/4460323-214259.html"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.2
+          },
+          {
+            "info": {
+              "_id": "cXW0ZG4BLqSKk2OYXUbC",
+              "_index": "wangyiyun",
+              "_score": 6.8482504,
+              "_source": {
+                "cnt_person": "62",
+                "desc": "适用于想要快速通过F4的考生。购买此课程的同学凭订单号请加群QQ795441694联系群主，提供单独纸质文件和习题答疑（最有价值部分）",
+                "image_url": "https://edu-image.nosdn.127.net/1ce6e6b3-dfae-47bf-82d1-90059659d09e.png?imageView&quality=100&crop=0_34_2008_1015",
+                "lectorname": "Julius金",
+                "lvl_1_tag": "职业考试",
+                "lvl_2_tag": "金融财会",
+                "lvl_3_tag": "财会考试",
+                "price": "168",
+                "product_id": "5dc3ecacfdfad70f746e8863",
+                "provider": "金学锋ACCA",
+                "score": "92.0",
+                "source": "wangyiyun",
+                "title": "ACCA F4 Business Law 真题",
+                "url": "https://study.163.com/course/introduction/1006178005.htm"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.6759999999999999
+          }
+        ]
+      },
+      "skill_name": "business"
+    },
+    {
+      "query_result": {
+        "book": [
+          {
+            "info": {
+              "_id": "RHakZ24BLqSKk2OYxpTf",
+              "_index": "book",
+              "_score": 5.935018,
+              "_source": {
+                "cnt_person": "692",
+                "desc": "简介：本书原为以赛亚·伯林1952年在BBC第三套节目所做的系列讲演。他从自由主义的基本理念出发,讨论了近代思想史上的著名思想家爱尔维修、卢梭、费希特、黑格尔、圣西门和迈斯特等人对自由以及人类历史的看法。根据伯林的看法,除了迈斯特是人类自由的公然反对者外,这些思想家都对人类的自由持肯定态度,但他们对自由的理解,却导致了反自由的历史后果。导读：伯林最著名的演讲,从未有人以如此流畅和热情的",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s29448855.jpg",
+                "lectorname": "作者/译者： [英国] 以赛亚·柏林 / 赵国新",
+                "lvl_1_tag": "政治",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecdafdfad70f746eaa3a",
+                "provider": "出版信息：  译林出版社 / 2011-3 / 25.00元",
+                "score": "90.99999999999999",
+                "source": "douban",
+                "title": "自由及其背叛",
+                "url": "https://book.douban.com/subject/6068432/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.8459999999999999
+          },
+          {
+            "info": {
+              "_id": "XHakZ24BLqSKk2OY15zH",
+              "_index": "book",
+              "_score": 7.586326,
+              "_source": {
+                "cnt_person": "47",
+                "desc": "《随息居饮食谱》全书共分为水饮、谷类、调和、蔬食、果食、毛羽、鳞介等七个部分，收入日常饮食品类三百三十余种，从中医学的角度对各种饮料、食物的味道、特性和对身体的影响、医疗用途等进行了较为详细的论述，对我们今天身体的保健、保养以及疾病的预防和治疗都具有较高的参考价值和借鉴作用。",
+                "image_url": "https://img9.doubanio.com/view/subject/l/public/s10426646.jpg",
+                "lectorname": "作者/译者： 王士雄",
+                "lvl_1_tag": "养生",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ece7fdfad70f746eb6fa",
+                "provider": "出版信息：  三秦出版社 / 2005-9 / 15.00元",
+                "score": "93.0",
+                "source": "douban",
+                "title": "随息居饮食谱",
+                "url": "https://book.douban.com/subject/1706224/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.6579999999999999
+          },
+          {
+            "info": {
+              "_id": "PnakZ24BLqSKk2OY1Zuz",
+              "_index": "book",
+              "_score": 6.483022,
+              "_source": {
+                "cnt_person": "53",
+                "desc": "每一个运转良好的机器都有相关的说明手册，你的身体也不例外。本书从人体结构与功能的基本观念开始，就饮食营养、身体锻炼、压力处理及时间管理等四方面做了生动清晰的介绍，既有科学的理论，又有具体详细的实施指南，还配有相应的图表。阅读此书，你会通向不可思议的健康和无与伦比的幸福。本书称得上是一本相伴终生的全面、科学又简单、有效的保养手册。目录：推荐语作者简介快速参考指南引言第一部分让你的生命",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s3764570.jpg",
+                "lectorname": "作者/译者： 【美】本•勒尔  著 / 张恒   译",
+                "lvl_1_tag": "健康",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ece6fdfad70f746eb59a",
+                "provider": "出版信息：  江西人民出版社 / 2009年4月 / 49.00元",
+                "score": "92.0",
+                "source": "douban",
+                "title": "养生书",
+                "url": "https://book.douban.com/subject/3711542/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.6519999999999999
+          },
+          {
+            "info": {
+              "_id": "THakZ24BLqSKk2OY1ZvO",
+              "_index": "book",
+              "_score": 9.383127,
+              "_source": {
+                "cnt_person": "697",
+                "desc": "世界著名美容医师宝拉·培冈撰写的32万字全球最经典最权威的美容圣经。全球畅销超过2.3亿册。如果你习惯买昂贵的护肤品，这本书将会帮你在几年内省下几万块，更重要的是，它可以让你更懂得照顾你的皮肤，成为极致个人主义的皮肤专家。本书内容包含保养总集：常用化妆保养品成份、教您分辨美丽包装的美容行销术、如何正确而聪明的使用药妆，变成保养彩妆专家，还有抗晒、抗皱、抗痘、抗伤口疤痕、除毛的保养方法，以及美容",
+                "image_url": "https://img1.doubanio.com/view/subject/l/public/s1890419.jpg",
+                "lectorname": "作者/译者： [美]宝拉·培冈",
+                "lvl_1_tag": "健康",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ece6fdfad70f746eb5aa",
+                "provider": "出版信息：  安徽文艺出版社 / 2006-10 / 58.00元",
+                "score": "81.0",
+                "source": "douban",
+                "title": "美丽圣经",
+                "url": "https://book.douban.com/subject/1916819/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.381
+          },
+          {
+            "info": {
+              "_id": "s3akZ24BLqSKk2OY2Jx9",
+              "_index": "book",
+              "_score": 6.099629,
+              "_source": {
+                "cnt_person": "794",
+                "desc": "《内因决定外貌:从丑小鸭到白天鹅的美容秘方》是继《31岁小美女的养颜经》之后又一本以中医方法保养中国女性容颜及身心的美丽生活实用之书，书中荟萃了多种天然美容养颜秘方，让您用最简单、最安全的方法最快达到隆鼻、丰胸、瘦身的效果，另外，书中提出的“观念养颜、素质养颜、气血养颜、细节养颜”的全新4大美容观念，全方位地诠释了女性养颜、养生、养心之大道《内因决定外貌:从丑小鸭到白天鹅的美容秘方》看点《内因",
+                "image_url": "https://img9.doubanio.com/view/subject/l/public/s6767326.jpg",
+                "lectorname": "作者/译者： 南丘阳",
+                "lvl_1_tag": "养生",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ece8fdfad70f746eb761",
+                "provider": "出版信息：  江苏文艺出版社 / 2008-7 / 28.00元",
+                "score": "77.0",
+                "source": "douban",
+                "title": "内因决定外貌",
+                "url": "https://book.douban.com/subject/3140556/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.377
+          },
+          {
+            "info": {
+              "_id": "qnakZ24BLqSKk2OYpoSv",
+              "_index": "book",
+              "_score": 6.826804,
+              "_source": {
+                "cnt_person": "151",
+                "desc": "不懂财报报表，你也敢创业？美国创业女皇教你用财报管理创业公司...................※编辑推荐※★创业公司为什么会倒闭？不是钱不够用，是管理出了问题！财务报表就是管理漏洞的放大器。★创业公司就像一辆汽车，财务报表就是仪表盘。会计只是汽车的维修工，创业者才是司机。不懂财报，你也敢创业？★本书专治数据恐惧症，逐行分析三大财报报表，为你屏蔽一切幻影和噪音，清晰勾画营建盈利企业的",
+                "image_url": "https://img1.doubanio.com/view/subject/l/public/s28903579.jpg",
+                "lectorname": "作者/译者： [美]道恩·福图普鲁斯 / 曾琳",
+                "lvl_1_tag": "理财",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecc1fdfad70f746e9138",
+                "provider": "出版信息：  江西人民出版社·后浪出版公司 / 2016-10 / 39.80",
+                "score": "89.0",
+                "source": "douban",
+                "title": "给创业小白的财报书",
+                "url": "https://book.douban.com/subject/26838147/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.367
+          },
+          {
+            "info": {
+              "_id": "WnakZ24BLqSKk2OY15zD",
+              "_index": "book",
+              "_score": 5.587013,
+              "_source": {
+                "cnt_person": "349",
+                "desc": "《徐文兵、梁冬对话:黄帝内经•天年》是迄今讲得最好的《黄帝内经》著作，不断章取义，不东拉西扯，不装逼，只说人话、家常话，是人就能读得懂。生老病死、人生无常，我们每个人都会有那一天的到来，如何尽早保养巩固自己的身体，活得长久且健康，读过《徐文兵、梁冬对话:黄帝内经•天年》，你或许会得到答案。不论是老人、中年人、年轻人，还是父母、朋友、同事、自己……人人都能从《徐文兵、梁冬对话:黄帝内经•天年》找",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s27235563.jpg",
+                "lectorname": "作者/译者： 徐文兵 梁冬",
+                "lvl_1_tag": "养生",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ece7fdfad70f746eb6f8",
+                "provider": "出版信息：  江西科学技术出版社 / 2014-4-1 / 36.00",
+                "score": "85.0",
+                "source": "douban",
+                "title": "徐文兵、梁冬对话：《黄帝内经·天年》",
+                "url": "https://book.douban.com/subject/25843816/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.355
+          },
+          {
+            "info": {
+              "_id": "onakZ24BLqSKk2OYrogF",
+              "_index": "book",
+              "_score": 6.678008,
+              "_source": {
+                "cnt_person": "216",
+                "desc": "在所有人忽视的地方，发现扭转局面的关键线索，比趋势领先一步！◎编辑推荐☆查尔斯·杜希格、丹尼尔·平克、亚当·格兰特、傅军等诚意推荐☆《金融时报》评选的2018年度商业类书籍早高峰地铁2分钟一趟，它能够平顺运行，得益于设计合理的轨道系统，操控中心的实时监控，工程师和维修团队的定期检修，地铁司机的技术，以及站内工作人员的随机应变。其中任何一环出现问题，或任何环节衔接不良，就会出现",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s32285594.jpg",
+                "lectorname": "作者/译者： [美] 克里斯·克利尔菲尔德 / [加] 安德拉什·蒂尔克斯 / 李永学",
+                "lvl_1_tag": "商业",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecc8fdfad70f746e97c0",
+                "provider": "出版信息：  后浪丨四川人民出版社 / 2019-4 / 68.00元",
+                "score": "82.0",
+                "source": "douban",
+                "title": "崩溃",
+                "url": "https://book.douban.com/subject/30415984/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.18200000000000002
+          },
+          {
+            "info": {
+              "_id": "OHakZ24BLqSKk2OY2Z1w",
+              "_index": "book",
+              "_score": 5.587013,
+              "_source": {
+                "cnt_person": "84",
+                "desc": "《洗涤衣物ABC》详细地介绍了各种实用小窍门，和您分享怎样能既不损伤衣物又让衣物整洁如新。既能使衣物快速干燥又不产生褶皱，既能把衣物整齐收纳又能快速取出等妙招。同时，还提供了衣物分类洗涤与保养、快速修补、熨烫心爱之物的小知识，让您从此不会再为洗衣服、烫衣服而苦恼，就连昂贵的衣物也可以自己搞定，让衣物的洗涤和收纳成为您生活中的一大乐趣。成为真正睿智的洗衣达人！有了洗衣机后。洗衣服似乎不再是一件麻烦事",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s5980232.jpg",
+                "lectorname": "作者/译者： 池田书店编辑部 / 灵思泉",
+                "lvl_1_tag": "家居",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ece8fdfad70f746eb7f5",
+                "provider": "出版信息：  河南科学技术出版社 / 2009-1 / 28.80元",
+                "score": "82.0",
+                "source": "douban",
+                "title": "洗涤衣物ABC",
+                "url": "https://book.douban.com/subject/3453038/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.18200000000000002
+          },
+          {
+            "info": {
+              "_id": "HXakZ24BLqSKk2OY2Z1D",
+              "_index": "book",
+              "_score": 5.7452717,
+              "_source": {
+                "cnt_person": "71",
+                "desc": "一位职业女性，律师兼教授，因为对家务事的热情并乐于享受家务事带来的舒适感受，进而专研家事，并通过亲身实践，结合家事与对家的爱，写出了令人着迷的《家事的抚慰》。本书讲述的是清洁、睡眠，以及安全合宜的居家环境。解说物品和家事方法的原理及基本物性，让你100%掌握和应对实际状况。◆手绘线条图，清楚解说家事技巧，如何调节光线、温度、湿度，如何除尘，如何使用肥皂、清洁剂，如何清洗家用织品，如何保养家具、",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s28327891.jpg",
+                "lectorname": "作者/译者： 雪瑞·孟德森",
+                "lvl_1_tag": "家居",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ece8fdfad70f746eb7da",
+                "provider": "出版信息：  湖北科学技术出版社 / 2015-10 / 58.00元",
+                "score": "79.0",
+                "source": "douban",
+                "title": "家事的抚慰（下册）",
+                "url": "https://book.douban.com/subject/26652398/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.179
+          }
+        ],
+        "course": [
+          {
+            "info": {
+              "_id": "DXW0ZG4BLqSKk2OYrm_q",
+              "_index": "baidu",
+              "_score": 21.043568,
+              "_source": {
+                "cnt_person": "15000",
+                "desc": "适用人群电源维修爱好者学到什么自己动手维修电源教学老师刘坚强多年外企电子电路设计工作经验，精通芯片级维修。",
+                "image_url": "http://ckimg.baidu.com/course/2016-12/05/222b755f9968ae862e04bcae0178a026.jpg",
+                "lectorname": "刘坚强教程",
+                "lvl_1_tag": "更多技能",
+                "lvl_2_tag": "其他",
+                "lvl_3_tag": "电子",
+                "price": "0",
+                "product_id": "5dc3ec42fdfad70f746e3882",
+                "provider": "刘坚强教程",
+                "score": "100.0",
+                "source": "baidu",
+                "title": "刘坚强自学电源维修 电源维修视频教程 电脑维修教程【体验版】",
+                "url": "http://chuanke.baidu.com/6610138-204732.html"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.7
+          },
+          {
+            "info": {
+              "_id": "I3W0ZG4BLqSKk2OYr28X",
+              "_index": "baidu",
+              "_score": 20.253109,
+              "_source": {
+                "cnt_person": "17000",
+                "desc": "适用人群电子主板爱好者学到什么自己动手进行主板维修教学老师刘坚强多年外企电子电路设计工作，精通芯片级维修。",
+                "image_url": "http://ckimg.baidu.com/course/2016-12/05/904f32f2134544a062bdb652c85ade6e.jpg",
+                "lectorname": "刘坚强教程",
+                "lvl_1_tag": "更多技能",
+                "lvl_2_tag": "其他",
+                "lvl_3_tag": "电子",
+                "price": "0",
+                "product_id": "5dc3ec42fdfad70f746e3898",
+                "provider": "刘坚强教程",
+                "score": "100.0",
+                "source": "baidu",
+                "title": "刘坚强自学主板维修 主板维修视频教程 电脑维修教程【体验版】",
+                "url": "http://chuanke.baidu.com/6610138-204734.html"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.7
+          },
+          {
+            "info": {
+              "_id": "F3W0ZG4BLqSKk2OYrm__",
+              "_index": "baidu",
+              "_score": 18.712593,
+              "_source": {
+                "cnt_person": "7219",
+                "desc": "适用人群液晶显示器维修爱好者学到什么自己动手进行液晶显示器维修教学老师刘坚强多年外企电子电路设计工作，精通芯片级维修",
+                "image_url": "http://ckimg.baidu.com/course/2016-12/05/5fbd3263cd299ad3d5c7f3f726607a4a.jpg",
+                "lectorname": "刘坚强教程",
+                "lvl_1_tag": "更多技能",
+                "lvl_2_tag": "其他",
+                "lvl_3_tag": "电子",
+                "price": "0",
+                "product_id": "5dc3ec42fdfad70f746e388c",
+                "provider": "刘坚强教程",
+                "score": "100.0",
+                "source": "baidu",
+                "title": "刘坚强自学显示器维修 电脑液晶显示器维修视频教程【体验版】",
+                "url": "http://chuanke.baidu.com/6610138-204731.html"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.7
+          },
+          {
+            "info": {
+              "_id": "vHW0ZG4BLqSKk2OY6InZ",
+              "_index": "tencent",
+              "_score": 14.083242,
+              "_source": {
+                "cnt_person": "6140",
+                "desc": "维修课程公开课，助你维修技能大幅度提升！",
+                "image_url": "http://10.url.cn/qqcourse_logo_ng/ajNVdqHZLLBVhs2snhDu6u72UlCNXH8PZ2sWpVQIAHtap8Yicr0icempTlJvGPibic5a1m2WCjufMco/356",
+                "lectorname": "雄飞电气培训",
+                "lvl_1_tag": "职业·考证",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "0.0",
+                "product_id": "5dc40739fdfad7115643cc0a",
+                "provider": "雄飞电气培训",
+                "score": "100.0",
+                "source": "tencent",
+                "title": "电工维修课程答疑课，报名请联系微信：DQFX6666",
+                "url": "http://ke.qq.com/course/336472"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.7
+          },
+          {
+            "info": {
+              "_id": "63W0ZG4BLqSKk2OY64rA",
+              "_index": "tencent",
+              "_score": 12.965472,
+              "_source": {
+                "cnt_person": "5444",
+                "desc": "空调制冷设备小家电维修课程，名师授课，夏天到了，挣钱的日子来了，移机300、加氟50，随便就是钱，快快参加课程，教你如何轻松搞定小家电维修！",
+                "image_url": "http://10.url.cn/qqcourse_logo_ng/ajNVdqHZLLBtf2lMDRUhFmJXj9SzlsiaIv3qMvzYtC8PB5mokZsMapKfRjSCdRU1w4nPGttSma90/356",
+                "lectorname": "华宇万维",
+                "lvl_1_tag": "职业·考证",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "0.0",
+                "product_id": "5dc4073afdfad7115643cd39",
+                "provider": "华宇万维",
+                "score": "97.0",
+                "source": "tencent",
+                "title": "空调制冷设备小家电维修课程",
+                "url": "http://ke.qq.com/course/203778"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.7
+          },
+          {
+            "info": {
+              "_id": "HnW0ZG4BLqSKk2OYr28N",
+              "_index": "baidu",
+              "_score": 20.746529,
+              "_source": {
+                "cnt_person": "3274",
+                "desc": "适用人群电路板维修人员学到什么该视频为一PLC维修实录，从中可以学到维修的思路和方法，技巧，从而达到触类旁通教学老师汪老师曾就职于自动化设备企业，在自动化电气电子设备生产、维修、研发职位皆有历练，20多年行业经验，维修和指导维修工业电路板累计上万件，著有《深度掌握工业电路板维修技术》一书，近年致力于培养工控电路板维修人才。本视频为一例客户送修的PLC维修实录，视频中老师讲解了PLC的故障，分析了故障形成的原因，以及维修思想和方法，从而对学员在维修其它PLC时可以触类旁通，举一反三。",
+                "image_url": "http://ckimg.baidu.com/course/2017-11/13/3d6ae5e5c61e6bca815779ed04144af8.jpg",
+                "lectorname": "汪文忠工业电路板维修培训",
+                "lvl_1_tag": "更多技能",
+                "lvl_2_tag": "其他",
+                "lvl_3_tag": "电子",
+                "price": "0",
+                "product_id": "5dc3ec42fdfad70f746e3893",
+                "provider": "汪文忠工业电路板维修培训",
+                "score": "100.0",
+                "source": "baidu",
+                "title": "PLC维修案例",
+                "url": "http://chuanke.baidu.com/4430824-241124.html"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.4
+          },
+          {
+            "info": {
+              "_id": "9HW0ZG4BLqSKk2OYv3Zb",
+              "_index": "baidu",
+              "_score": 19.562664,
+              "_source": {
+                "cnt_person": "1536",
+                "desc": "木吉他换琴弦与保养!看似简单的换弦，却有许多小技巧；爱琴之人，却常常忽视很多保养吉他的小细节；来学习一下换弦小知识吧！后期将会有各种电吉他换弦和保养的课程，敬请关注意乐吉他音乐工作室！学前须知:欢迎大家加入我们的课程,在学习过程中有什么不明白的地方,视频旁都有提问的地方,请注明提问的具体章节.例如\"我在...第2节视频中.....不明白...\",我们会尽快答复大家.大家也可以点击主页的\"在线咨询\"或者加KK号:意乐吉他Lester,有什么不明白或者想学什么,或者有好的意见和建议,都可以给我们联系留言,我们会尽最大努力帮助大家早日学好吉他!体验不一样的线上教育,互动式吉他教学现在开始!",
+                "image_url": "http://ckimg.baidu.com/course/2015-08/27/cf1d7cdc134d784ecc67f976ab412431.jpg",
+                "lectorname": "意乐吉他音乐工作室",
+                "lvl_1_tag": "文化/生活/兴趣",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ec5cfdfad70f746e5031",
+                "provider": "意乐吉他音乐工作室",
+                "score": "83.33",
+                "source": "baidu",
+                "title": "吉他保养与维护 - 木吉他更换琴弦与保养维护",
+                "url": "http://chuanke.baidu.com/3952807-145156.html"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.4
+          },
+          {
+            "info": {
+              "_id": "gXa2ZG4BLqSKk2OYHSo_",
+              "_index": "tencent",
+              "_score": 14.384939,
+              "_source": {
+                "cnt_person": "626",
+                "desc": "空调的制冷原理空调制冷系统的维修与判别方法空调移机、安装、加氟的具体操作步骤",
+                "image_url": "http://10.url.cn/qqcourse_logo_ng/ajNVdqHZLLCJkaLibaq8sTwuIdE7r3IOApN4oDbb2McOxF4Wds8hibDw9Rau8Hl0hibJMbHLLGDNGw/356",
+                "lectorname": "华宇万维",
+                "lvl_1_tag": "职业·考证",
+                "lvl_2_tag": "职业技能",
+                "lvl_3_tag": "",
+                "price": "18.0",
+                "product_id": "5dc4081afdfad7115644c3e1",
+                "provider": "华宇万维",
+                "score": "93.0",
+                "source": "tencent",
+                "title": "家电维修空调的工作原理和维修技巧  实用篇！",
+                "url": "http://ke.qq.com/course/208494"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 1.2
+          },
+          {
+            "info": {
+              "_id": "enW0ZG4BLqSKk2OYOjUv",
+              "_index": "wangyiyun",
+              "_score": 6.016995,
+              "_source": {
+                "cnt_person": "169",
+                "desc": "这是一个重视电气实操与理论结合的视频课程，我们通过手把手的视频演示完整装配一个电柜的全部流程，让学员彻底的理解电气装配的所有相关知识，并讲解电气电工的理论知识，并演示简单的电气绘图方法与电气设计的原理，帮助学员在一门课之中快速上手电气电工技术，快速出师拍下评价后请加学员交流群本课程每周更新一节",
+                "image_url": "https://edu-image.nosdn.127.net/24fc7e0b9c3a4e938ea2ade709197a0a.png?imageView&quality=100&crop=0_0_800_450",
+                "lectorname": "工控老猫",
+                "lvl_1_tag": "职场提升",
+                "lvl_2_tag": "专业岗位",
+                "lvl_3_tag": "职业培训",
+                "price": "25",
+                "product_id": "5dc3ec8bfdfad70f746e67d5",
+                "provider": "云鹤教育",
+                "score": "90.0",
+                "source": "wangyiyun",
+                "title": "电工实操视频教程 装配 维修设计",
+                "url": "https://study.163.com/course/introduction/1208957818.htm"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 1.07
+          },
+          {
+            "info": {
+              "_id": "5XW0ZG4BLqSKk2OYRTqK",
+              "_index": "wangyiyun",
+              "_score": 19.237513,
+              "_source": {
+                "cnt_person": "80",
+                "desc": "9年行业从业者毫无保留的传授，学习完本课程你将掌握计算机原理、操作系统的使用、系统的制作封装、系统的备份还原、常用维保软件的使用、部件级维修、芯片级维修基础、电脑配件及选购搭配、电脑组装、网络搭建等技术。只有技术技能干货吗？不！还有行业创业就业指导，行业走势展望，给你指路开道，行业不行没钱途？哈哈~！~，四只眉毛将给你剖析行业现状及未来！",
+                "image_url": "http://edu-image.nosdn.127.net/A0891C615E6209CE25787144ADF4EC30.jpg?imageView&thumbnail=120x67&quality=100",
+                "lectorname": "四只眉毛",
+                "lvl_1_tag": "编程与开发",
+                "lvl_2_tag": "移动开发",
+                "lvl_3_tag": "",
+                "price": "298",
+                "product_id": "5dc3ec90fdfad70f746e6d40",
+                "provider": "享呗教育",
+                "score": "96.0",
+                "source": "wangyiyun",
+                "title": "电脑维修",
+                "url": "https://study.163.com/course/introduction/1004605020.htm"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.876
+          }
+        ]
+      },
+      "skill_name": "维修保养"
+    },
+    {
+      "query_result": {
+        "book": [
+          {
+            "info": {
+              "_id": "6nakZ24BLqSKk2OYroig",
+              "_index": "book",
+              "_score": 6.5644336,
+              "_source": {
+                "cnt_person": "845",
+                "desc": "曹德旺1946年出生于福建福清高山，9岁上学，14岁辍学，卖过烟丝、贩过水果、修过板车。1983年承包高山异型玻璃厂。1985年将主业迅速转向汽车玻璃，彻底改变了中国汽车玻璃市场100%依赖进口的历史。1987年成立福耀玻璃有限公司。1993年福耀玻璃登陆国内A股。2001—2005年，经过艰苦奋战，历时数年，花费一亿多元，相继打赢了加拿大、美国两个反倾销案，震惊世界。福耀玻璃也成为中国第一家状告",
+                "image_url": "https://img9.doubanio.com/view/subject/l/public/s27969826.jpg",
+                "lectorname": "作者/译者： 曹德旺",
+                "lvl_1_tag": "投资",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecc9fdfad70f746e98de",
+                "provider": "出版信息：  人民出版社 / 2015-1 / 49.00",
+                "score": "90.99999999999999",
+                "source": "douban",
+                "title": "心若菩提",
+                "url": "https://book.douban.com/subject/26287433/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.8459999999999999
+          },
+          {
+            "info": {
+              "_id": "DXakZ24BLqSKk2OYq4cr",
+              "_index": "book",
+              "_score": 11.80592,
+              "_source": {
+                "cnt_person": "54",
+                "desc": "只有屈指可数的商业著作能够历经数十年的考验而成为经典，毫无疑问，《我在通用汽车的岁月》，就是这样一本伟大的著作。管理大师彼得·德鲁克早已记不清曾经向多少人推荐过此书了：世界首富比尔·盖茨仍然坚持声称本书是所能读到的最好的商业著作；《商业周刊》把它放在“绝对必读书架”的第一名；《财富》杂志则把它列为2003年度CEO必读书。《我在通用汽车的岁月》在1963年首次面市时，就立刻成为了超级畅销书。从那",
+                "image_url": "https://img1.doubanio.com/view/subject/l/public/s27287699.jpg",
+                "lectorname": "作者/译者： [美]斯隆 / 刘昕",
+                "lvl_1_tag": "企业史",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecc4fdfad70f746e9469",
+                "provider": "出版信息：  华夏出版社 / 2014-1 / 59",
+                "score": "93.0",
+                "source": "douban",
+                "title": "我在通用汽车的岁月：斯隆自传",
+                "url": "https://book.douban.com/subject/25891112/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.6579999999999999
+          },
+          {
+            "info": {
+              "_id": "VnakZ24BLqSKk2OYypa4",
+              "_index": "book",
+              "_score": 6.1682777,
+              "_source": {
+                "cnt_person": "135",
+                "desc": "从1978年起，自然主义式的再现艺术越来越让霍克尼感到束手束脚，其限制性和诸多缺陷越来越让他不耐烦。霍克尼总是抵制把艺术分为具象和抽象这种愚蠢的二分法，他认为“一切艺术都是抽象艺术”，再现从来就不是对外部世界的复制，一切再现，尽管风格有差异，都以感知和概念的假设与惯例为基础。与此同时，霍克尼痛恨自己的风格被模式化，虽然他的风格大受欢迎，他却不愿意重复可预测的霍克尼式图像。他挑战了过去被误以为真实的",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s29371783.jpg",
+                "lectorname": "作者/译者： [美] 大卫·霍克尼 / 尼科斯·斯坦戈斯 (编) / 万木春 / 张俊 / 兰友利",
+                "lvl_1_tag": "绘画",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecddfdfad70f746ead44",
+                "provider": "出版信息：  浙江人民美术出版社 / 2017-1-1 / 180.00元",
+                "score": "90.99999999999999",
+                "source": "douban",
+                "title": "我的观看之道",
+                "url": "https://book.douban.com/subject/26963037/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.6459999999999999
+          },
+          {
+            "info": {
+              "_id": "qHakZ24BLqSKk2OYw5JL",
+              "_index": "book",
+              "_score": 6.457378,
+              "_source": {
+                "cnt_person": "2317",
+                "desc": "72页的「一镜到底」33块镜面构成的博尔赫斯迷宫一场波谲云诡的假球风云一桩需要读者亲自参与推理侦破的案件🕖编辑推荐☆3秒钟一束光走完90万千米的时间。一把左轮手枪子弹从出膛到跑完1千米的时间。一次呼吸的时间。一滴泪滑落，一场爆炸。一条短信发送的时间。☆72页，603个分镜，3秒钟33块镜面构成的博尔赫斯迷宫一颗光子的三秒之旅一场纸上光学实验",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s29972205.jpg",
+                "lectorname": "作者/译者： [法] 马克-安托万·马修 / 后浪漫",
+                "lvl_1_tag": "艺术",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecd7fdfad70f746ea70d",
+                "provider": "出版信息：  后浪丨湖南美术出版社 / 2019-5 / 72.00元",
+                "score": "89.0",
+                "source": "douban",
+                "title": "3秒",
+                "url": "https://book.douban.com/subject/30207738/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.567
+          },
+          {
+            "info": {
+              "_id": "qnakZ24BLqSKk2OYpoSv",
+              "_index": "book",
+              "_score": 7.1091743,
+              "_source": {
+                "cnt_person": "151",
+                "desc": "不懂财报报表，你也敢创业？美国创业女皇教你用财报管理创业公司...................※编辑推荐※★创业公司为什么会倒闭？不是钱不够用，是管理出了问题！财务报表就是管理漏洞的放大器。★创业公司就像一辆汽车，财务报表就是仪表盘。会计只是汽车的维修工，创业者才是司机。不懂财报，你也敢创业？★本书专治数据恐惧症，逐行分析三大财报报表，为你屏蔽一切幻影和噪音，清晰勾画营建盈利企业的",
+                "image_url": "https://img1.doubanio.com/view/subject/l/public/s28903579.jpg",
+                "lectorname": "作者/译者： [美]道恩·福图普鲁斯 / 曾琳",
+                "lvl_1_tag": "理财",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecc1fdfad70f746e9138",
+                "provider": "出版信息：  江西人民出版社·后浪出版公司 / 2016-10 / 39.80",
+                "score": "89.0",
+                "source": "douban",
+                "title": "给创业小白的财报书",
+                "url": "https://book.douban.com/subject/26838147/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.367
+          },
+          {
+            "info": {
+              "_id": "1nakZ24BLqSKk2OYp4QF",
+              "_index": "book",
+              "_score": 13.23436,
+              "_source": {
+                "cnt_person": "114",
+                "desc": "本书是作者运用裸K线进行交易实战的总结。主要介绍了裸K线交易的基础、裸K线交易的操盘技法以及裸K线交易法的实战应用。如果你对自己的交易思路并不明确，这本书可以帮助你理清思路；如果你已经有成熟的交易思路了，这本书同样可以给你启发，让你更上一层楼。",
+                "image_url": "https://img1.doubanio.com/view/subject/l/public/s33442268.jpg",
+                "lectorname": "作者/译者： 许佳聪",
+                "lvl_1_tag": "理财",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecc1fdfad70f746e9164",
+                "provider": "出版信息：  上海财经大学出版社 / 2019-5 / 88.00元",
+                "score": "86.99999999999999",
+                "source": "douban",
+                "title": "裸K线交易法",
+                "url": "https://book.douban.com/subject/33705284/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.361
+          },
+          {
+            "info": {
+              "_id": "KHakZ24BLqSKk2OYq4df",
+              "_index": "book",
+              "_score": 6.5644336,
+              "_source": {
+                "cnt_person": "22",
+                "desc": "《丰田领导者》出自日经新闻社资深记者佐藤正明之手，是其“潜伏”丰田汽车和日本汽车行业数十年来厚积薄发的登峰之作。该书不同于其他关于丰田生产系统和成本管理等方面的技术性图书。而是从丰田的历史、历代领导者、文化、战略等层面深入探讨和总结丰田的成功经验以及挫败的教训，并在《丰田领导者》最后对丰田提出了一个极为尖锐的问题——持续经营。《丰田领导者》值得正在走向世界的中国各行各业（不只是制造业）的企业家和经",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s6180723.jpg",
+                "lectorname": "作者/译者： 佐藤正明 / 王茁 / 顾洁",
+                "lvl_1_tag": "企业史",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecc5fdfad70f746e9486",
+                "provider": "出版信息：  清华大学出版社 / 2010-6 / 38.00元",
+                "score": "84.00000000000001",
+                "source": "douban",
+                "title": "丰田领导者",
+                "url": "https://book.douban.com/subject/4875625/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.18400000000000002
+          },
+          {
+            "info": {
+              "_id": "C3akZ24BLqSKk2OY0JlV",
+              "_index": "book",
+              "_score": 5.9985695,
+              "_source": {
+                "cnt_person": "111",
+                "desc": "中國人最大的特色是，無時無刻不在奔忙!即使在走過五千年連續不斷的文明以後，他們依舊走個不停。中國歷史教給我們的重要事情之一就是：他們從不知道什麼時候該停下腳步……保羅．索魯在一九八O年首次遊歷中國，他順著長江一路南下，沿途走訪了十幾個城市。這年，眼見的中國是個有趣的年代，文革結束，求變的浪頭竄起，境內正處於保守和改革兩派間權力角逐如火如荼的社會氛圍。人們穿著藍裝、腳登布鞋，騎著自行車穿過泥濘的街",
+                "image_url": "https://img1.doubanio.com/view/subject/l/public/s28559318.jpg",
+                "lectorname": "作者/译者： 保羅·索魯(Paul Theroux) / 徐麗松",
+                "lvl_1_tag": "旅行",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ece2fdfad70f746eb178",
+                "provider": "出版信息：  馬可孛羅 / 2016-2 / NT$580",
+                "score": "83.0",
+                "source": "douban",
+                "title": "騎乘鐵公雞：搭火車橫越中國",
+                "url": "https://book.douban.com/subject/26716284/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.183
+          },
+          {
+            "info": {
+              "_id": "GHakZ24BLqSKk2OYq4dA",
+              "_index": "book",
+              "_score": 7.4238167,
+              "_source": {
+                "cnt_person": "162",
+                "desc": "《底特律往事》是一部讲述美国汽车工业的重要传记，全方位记录了三大汽车制造巨头——通用、福特和克莱斯勒的衰落过程：通用汽车公司陷入破产，就像一头伤痕累累却不自知的雄狮；闹腾不停的克莱斯勒两易其主，这种无力的举措使其举步维艰；而福特公司经历了数年混乱不堪的管理，最终选择了一名航空业前高管作为公司领导人，以期自救。《底特律往事》充满引人入胜的故事和发人深省的道理。令读者大开眼界的是，作者弗拉斯科真实还",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s27145885.jpg",
+                "lectorname": "作者/译者： (美) 比尔•弗拉斯科 / 郭力",
+                "lvl_1_tag": "企业史",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecc4fdfad70f746e9475",
+                "provider": "出版信息：  中信出版社 / 2014-1 / 48.00元",
+                "score": "80.0",
+                "source": "douban",
+                "title": "底特律往事",
+                "url": "https://book.douban.com/subject/25756203/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.18
+          },
+          {
+            "info": {
+              "_id": "dHakZ24BLqSKk2OYq4fi",
+              "_index": "book",
+              "_score": 6.42369,
+              "_source": {
+                "cnt_person": "38",
+                "desc": "《福特传》主要内容：彼得·科利尔和戴维·霍洛维茨讲述了福特家族三代人精彩纷呈的故事，展示了在福特汽车公司——这个美国最伟大的工业帝国——的背景下，福特家族几代人之间富有戏剧色彩钓冲突和对抗。故事从第一代亨利·福特开始，这个机械能手和“疯狂的天才”，不仅让汽车走进了美国人的生活，而且用它征服了世界。作为一个富有创造性的美国工业大师，亨利·福特在生命的后期变成了一个怪人：他热爱他的公司，对它有着强烈",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s5941310.jpg",
+                "lectorname": "作者/译者： 彼得·科利尔 戴维·霍洛维茨",
+                "lvl_1_tag": "企业史",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecc5fdfad70f746e94d2",
+                "provider": "出版信息：  于海生 / 2008-9 / 49.00元",
+                "score": "80.0",
+                "source": "douban",
+                "title": "福特传",
+                "url": "https://book.douban.com/subject/3342441/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.18
+          }
+        ],
+        "course": [
+          {
+            "info": {
+              "_id": "JnW0ZG4BLqSKk2OYUkLo",
+              "_index": "wangyiyun",
+              "_score": 10.256067,
+              "_source": {
+                "cnt_person": "15901",
+                "desc": "新足迹Lightroom线下课程，孙掌柜循序渐进的为大家剖析了LR这款专业修图软件的特点与基础使用技巧。课程内容：1、软件特点2、目录与管理3、界面介绍4、照片处理5、操作可逆性6、同步修片7、联机拍摄8、保存与导出",
+                "image_url": "http://img0.ph.126.net/zIP2JglP6OGm1qaeWpnOvw==/6631652705888068068.jpg",
+                "lectorname": "孙掌柜",
+                "lvl_1_tag": "设计创意",
+                "lvl_2_tag": "摄影及摄影后期",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3eca8fdfad70f746e83e5",
+                "provider": "摄影新足迹",
+                "score": "98.00000000000001",
+                "source": "wangyiyun",
+                "title": "lightroom线下课程现场实录",
+                "url": "https://study.163.com/course/introduction/1003375001.htm"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 1.1880000000000002
+          },
+          {
+            "info": {
+              "_id": "r3W0ZG4BLqSKk2OYq22a",
+              "_index": "baidu",
+              "_score": 19.985413,
+              "_source": {
+                "cnt_person": "5212",
+                "desc": "适用人群职教二年级教学老师刘珍珠正阳职专一线在职教师该课程主要讲述汽车电气",
+                "image_url": "http://ckimg.baidu.com/course/2017-12/14/1c934f8ab1668eb15f18444426e65893.jpg",
+                "lectorname": "正阳县职业中等专业学校",
+                "lvl_1_tag": "更多技能",
+                "lvl_2_tag": "其他",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ec41fdfad70f746e3724",
+                "provider": "正阳县职业中等专业学校",
+                "score": "100.0",
+                "source": "baidu",
+                "title": "汽车电气",
+                "url": "http://chuanke.baidu.com/3003084-244748.html"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.7
+          },
+          {
+            "info": {
+              "_id": "PHW0ZG4BLqSKk2OYmmUr",
+              "_index": "baidu",
+              "_score": 13.429472,
+              "_source": {
+                "cnt_person": "41000",
+                "desc": "学到什么让股民对K线有个全面的认识，掌握K线基础知识和规律，并能够在实盘操作中进行有效运用，以提高股民在股票市场上的胜算，获得一定的收益！教学老师谷粟和你一起构建自己的交易系统。什么是K线？K线的意义又是什么？新股民如何看K线图？K线的形态组合又有哪些？股民又如何通过K线图抓住股票的买卖时机？即使你是一名刚刚加入股市的新手，相信通过对这一系列问题的剖析和学习，你也一样可以驰骋股市。本课程将通过图文并茂的方式，给大家详细讲解K线的基础知识，K线的意义及形态等等，让股民朋友对K线有一个全面的认识和掌握！K线系列课程目录：第一节：K线基础知识学习11、《谷粟说交易》正确打开技术分析2、《谷粟说交易》均线深度实战运用3、《谷粟说交易》MACD经典实战运用4、什么是K线图5、K线的认识及分类6、怎么看K线及含义第二节：K线基础知识学习21、K线-阳线2、K线-阴线3、K线-星线第三节：K线基础知识学习31、K线-阳线2、K线-阴线3、K线-星线第四节：K线经典组合及",
+                "image_url": "http://ckimg.baidu.com/course/2016-08/05/1c735f31ce19c62320f9a794bffdcb1b.jpg",
+                "lectorname": "股道茶禅",
+                "lvl_1_tag": "金融管理类",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ec32fdfad70f746e279c",
+                "provider": "股道茶禅",
+                "score": "99.67",
+                "source": "baidu",
+                "title": "炒股必学K线入门基础知识-K线技术分析-K线组合形态-K线实战",
+                "url": "http://chuanke.baidu.com/7268851-184415.html"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.7
+          },
+          {
+            "info": {
+              "_id": "_XW0ZG4BLqSKk2OYfle6",
+              "_index": "baidu",
+              "_score": 12.169122,
+              "_source": {
+                "cnt_person": "11000",
+                "desc": "适用人群想要入行汽车设计学到什么对于汽车车身设计熟练掌握教学老师车身老师启飞老师从2007年一直在从事catia工程设计相关的教育培训工作，特别从15年入职启飞汽车设计车身设计工程师以来录制大量的工程实战案例。普通话一流，讲解深入浅出。娓娓道来。启飞老师所录制的catia课程是每个catia从业者入职的必修课具体介绍可以进入启飞汽车设计官网了解",
+                "image_url": "http://ckimg.baidu.com/course/2017-10/23/a251a5923a0fe5cb43621a3f6aec3211.jpg",
+                "lectorname": "启飞汽车设计",
+                "lvl_1_tag": "IT/互联网/计算机",
+                "lvl_2_tag": "设计制作",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ec16fdfad70f746e0cc1",
+                "provider": "启飞汽车设计",
+                "score": "100.0",
+                "source": "baidu",
+                "title": "catia汽车设计车身设计整车设计白车身设计开闭件设计工程实例",
+                "url": "http://chuanke.baidu.com/9144613-239163.html"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.7
+          },
+          {
+            "info": {
+              "_id": "QXW0ZG4BLqSKk2OYmmU0",
+              "_index": "baidu",
+              "_score": 11.708828,
+              "_source": {
+                "cnt_person": "22000",
+                "desc": "适用人群股民、证券投资者学到什么《均线实战操作》是一套基础但又实用性很强的课程，采用简单易懂的语言，讲解均线的基础知识。让股民朋友可以系统的学习均线知识，并应用到实际操作中。教学老师谷粟和你一起构建自己的交易系统。课程介绍：《均线实战操作》是一套简单易学的股票培训视频教程，专门针对那些想炒股，但对股票毫无概念的群体。通过学习这套课程，可以系统性的学习均线基础知识，掌握市场的运行规律，把握牛市的大行情，教你轻松学炒股。想学炒股，却对股票一窍不通怎么办？想学技术，却不知道选择何种指标怎么办？那么，股票入门视频教程《均线实战操作》就是你最好的选择之一。股票培训教程《均线实战操作》专门针对零基础的却对股票有浓厚兴趣的人群，带领你从基础到入门，用最少的时间学习到均线的基础和实战知识。《均线实战操作》教学内容：1、均线的意义2、均线的计算和分类3、单根均线驰骋股市4、黄金交叉和死亡交叉5、银山谷和金山谷6、多头排列和空头排列7、黏合与发散8、交叉和发散《谷粟说交易》技术分析精解第一课：正确打开技",
+                "image_url": "http://ckimg.baidu.com/course/2017-01/20/7addfd90244a5c9daccf7ebb834d42d9.jpg",
+                "lectorname": "股道茶禅",
+                "lvl_1_tag": "金融管理类",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ec32fdfad70f746e27a1",
+                "provider": "股道茶禅",
+                "score": "99.87",
+                "source": "baidu",
+                "title": "股票培训-均线实战操作-均线实战技巧视频-教你炒股票",
+                "url": "http://chuanke.baidu.com/7268851-210613.html"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.7
+          },
+          {
+            "info": {
+              "_id": "HXW0ZG4BLqSKk2OYnGYs",
+              "_index": "baidu",
+              "_score": 11.393948,
+              "_source": {
+                "cnt_person": "8281",
+                "desc": "稳赢老师：职业投资人、分析家高级讲师，凭借宽广的视野、敏锐的思维和独创的系统操盘技术，驰骋于期货、股票两栖战场。十八年股海风云，跌宕起伏中探寻股市脉络，期间经历了证券行业的风雨洗礼、牛熊更替，磨练出了丰富的实战经验及成熟的操作手法，形成了稳健不失进取、风险控制下实现利润最大化的个人投资风格，主要擅长捕捉市场热点，并结合技术面去挖掘潜力个股，多年的实战操作，自创\"均线战法\"实战操盘体系，稳中求进、稳健获利是其核心操作原则。对于刚入市的股民朋友了解k线，什么是k线，k线的定义，k线的用法、常见的k线有哪些等等。研究股市运行规律，实践验证股市规律的神奇。让每个零基础的股民学会k线形态。立志在金融市场稳健获利的投资者。完全免费，帮助所有需要在金融市场长期生存下去的投资者。本系列课程主要是讲解一些常见的k线形态，对实盘操作中看见类似的k线形态我们能有一定的了解，并且知道如何应对，本系列课程适合刚入市的新手股民朋友学习。有经验者跳过。学习与交流QQ群：148048454，有不懂的可以加群，到群里问我。看见了会为你解答。",
+                "image_url": "http://ckimg.baidu.com/course/2014-10/29/269154008dcba2707044c8732d6aca48.jpg",
+                "lectorname": "武汉锦湘恒丰[度]",
+                "lvl_1_tag": "金融管理类",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ec33fdfad70f746e287d",
+                "provider": "武汉锦湘恒丰[度]",
+                "score": "99.29",
+                "source": "baidu",
+                "title": "股票培训---均线系统实战",
+                "url": "http://chuanke.baidu.com/1826694-115498.html"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.7
+          },
+          {
+            "info": {
+              "_id": "tHW0ZG4BLqSKk2OYmWQ9",
+              "_index": "baidu",
+              "_score": 11.10857,
+              "_source": {
+                "cnt_person": "13000",
+                "desc": "适用人群股民、证券投资者学到什么《K线组合投资攻击战法》采用由浅入深的教学方式，让股民对战法有个全面的认识，掌握战法知识和规律。学完《K线组合投资攻击战法》这套股票培训课程，你就能系统性的掌握战法知识以及在实战当中的运用。只要你能将学到的知识融合自己的理解在实际操作当中加以运用，将在很大程度上提高你的胜算。教学老师谷粟和你一起构建自己的交易系统。课程介绍：《K线组合投资攻击战法》提供了普及炒股知识的机会，让对炒股感兴趣的群体可以系统性的学习股票战法知识，一些典型的战法组合形态，会不断地重复出现，如果你掌握了这些规律，将在操作股票的时候获得更大的胜算。本课程将详细介绍战法知识以及经典买入组合形态！股票培训教程《K线组合投资攻击战法》专门针对那些想学习炒股技术的群体，可以系统性的学习《K线组合投资攻击战法》，让任何一个对炒股感兴趣的朋友，可以用最少的时间从入门到精通，轻松掌握炒股知识和技能！《K线组合投资攻击战法》课程目录：1、《K线组合投资攻击战法》概述2、战法一：平台起飞3、战法二：洗盘阴线4、战法三：突出重围",
+                "image_url": "http://ckimg.baidu.com/course/2017-01/20/1edc7ac84d59a06177c2401c3f2d1b98.jpg",
+                "lectorname": "股道茶禅",
+                "lvl_1_tag": "金融管理类",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ec31fdfad70f746e2714",
+                "provider": "股道茶禅",
+                "score": "99.87",
+                "source": "baidu",
+                "title": "股票课程-K线组合投资攻击战法-股票培训课程-K线组合战法",
+                "url": "http://chuanke.baidu.com/7268851-210594.html"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.7
+          },
+          {
+            "info": {
+              "_id": "x3W0ZG4BLqSKk2OYZUlC",
+              "_index": "wangyiyun",
+              "_score": 5.2381387,
+              "_source": {
+                "cnt_person": "11305",
+                "desc": "考前复习神器，可在2小时的时间内，用简单粗暴的方式让观众学会《线性代数》",
+                "image_url": "http://edu-image.nosdn.127.net/32F3AB50ECE2F04E7922DDAD3CA6BDCA.png?imageView&thumbnail=120x67&quality=100",
+                "lectorname": "猴博士爱讲课",
+                "lvl_1_tag": "生活兴趣",
+                "lvl_2_tag": "学习辅导",
+                "lvl_3_tag": "",
+                "price": "29",
+                "product_id": "5dc3ecb1fdfad70f746e8cb6",
+                "provider": "猴博士爱讲课",
+                "score": "94.0",
+                "source": "wangyiyun",
+                "title": "2小时讲完线性代数(线代)",
+                "url": "https://study.163.com/course/introduction/1003893026.htm"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 1.3820000000000001
+          },
+          {
+            "info": {
+              "_id": "aHW0ZG4BLqSKk2OYYEcU",
+              "_index": "wangyiyun",
+              "_score": 5.0058746,
+              "_source": {
+                "cnt_person": "638",
+                "desc": "课程qq群放在第4课时中~不止是艺术考生，平时业余时间喜欢涂涂画画的、喜爱插画、漫画的朋友都可以来参考学习。本课程不满足于传统的速写教学，所以还在此基础上结合了大家喜欢的现今各种人物造型题材增加教学的趣味性，兴趣是最大的学习动力！人物速写是插画或动漫创作的基础。相对于过去传统课堂上的现实生活人物画而言，本课程题材上采用网上比较流行的科幻或者动作游戏的人物图片进行分析和绘画示范，更符合现在的市场文化的趋势，而两者的画法其实是一样的。章节目录：（内容更新中）第一章认识和预览第二章从头开始学，套路很简单第三章简笔画人物动态练习第四章热身练习，画画半身像第五章错误可以换来成长，全身速写勇敢练第六章人物动态综合练习",
+                "image_url": "http://edu-image.nosdn.127.net/52e64af6-93ae-4404-bf27-8dbec0422d4e.jpg?imageView&quality=100&crop=0_33_1113_647",
+                "lectorname": "花还在",
+                "lvl_1_tag": "生活兴趣",
+                "lvl_2_tag": "绘画",
+                "lvl_3_tag": "",
+                "price": "48",
+                "product_id": "5dc3ecaefdfad70f746e8a35",
+                "provider": "花还在",
+                "score": "92.0",
+                "source": "wangyiyun",
+                "title": "看美图画速写_线描人物手绘实训",
+                "url": "https://study.163.com/course/introduction/1004978030.htm"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 1.376
+          },
+          {
+            "info": {
+              "_id": "VnW0ZG4BLqSKk2OYT0CU",
+              "_index": "wangyiyun",
+              "_score": 12.232874,
+              "_source": {
+                "cnt_person": "66",
+                "desc": "3dmax（3dsmax）汽车建模视频教程，法拉利ENZO跑车，多边形建模，车身2小时完成。学习本教程，无需3dmax基础.购买后，课程永久有效.含全套练习文件.课程特点：1，零基础，手把手；2，1-3天即可完成（整车全部）；3，高级曲面建模技巧集成；4，汽车复杂曲面精髓解密，高效率；5，曲面完善/细节雕琢；6，各种异形/规律形态构思；7，从第一步到模型完美收官全程带领，中间无间断，详细。8，任何3dmax版本均可使用本教程，版本无忧。所需文件资料下载地址：链接:https://pan.baidu.com/s/1iN-C_Nuor3rrKLBK7nb2Qw密码:下单后请发邮件至niceqt01@163.com获取",
+                "image_url": "http://edu-image.nosdn.127.net/BBA57F58BF659451E1CB72900D2A4D6B.jpg?imageView&thumbnail=120x67&quality=100",
+                "lectorname": "二狮兄",
+                "lvl_1_tag": "设计创意",
+                "lvl_2_tag": "设计软件基础",
+                "lvl_3_tag": "",
+                "price": "29",
+                "product_id": "5dc3eca6fdfad70f746e8204",
+                "provider": "二狮兄",
+                "score": "96.0",
+                "source": "wangyiyun",
+                "title": "3dmax汽车建模视频教程2-车身",
+                "url": "https://study.163.com/course/introduction/1004073085.htm"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 1.1760000000000002
+          }
+        ]
+      },
+      "skill_name": "汽车线束"
+    },
+    {
+      "query_result": {
+        "book": [
+          {
+            "info": {
+              "_id": "WnakZ24BLqSKk2OYsYqu",
+              "_index": "book",
+              "_score": 5.432016,
+              "_source": {
+                "cnt_person": "2809",
+                "desc": "这本书结合设计实作例从面向对象的设计中精选出23个设计模式，总结了面向对象设计中最有价值的经验，并且用简洁可复用的形式表达出来。书中分类描述了一组设计良好、表达清楚的软件设计模式，这些模式在实用环境下特别有用。此书适合大学计算机专业的学生、研究生及相关人员参考。书中涉及的设计模式并不描述新的或未经证实的设计，只收录了那些在不同系统中多次使用过的成功设计。",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s1074361.jpg",
+                "lectorname": "作者/译者： [美] Erich Gamma / Richard Helm / Ralph Johnson / John Vlissides / 李英军 / 马晓星 / 蔡敏 / 刘建中 等",
+                "lvl_1_tag": "编程",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecccfdfad70f746e9b78",
+                "provider": "出版信息：  机械工业出版社 / 2000-9 / 35.00元",
+                "score": "90.99999999999999",
+                "source": "douban",
+                "title": "设计模式",
+                "url": "https://book.douban.com/subject/1052241/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.8459999999999999
+          },
+          {
+            "info": {
+              "_id": "A3akZ24BLqSKk2OYrIjh",
+              "_index": "book",
+              "_score": 6.6325955,
+              "_source": {
+                "cnt_person": "4621",
+                "desc": "金字塔原理：逻辑思维与表达呈现金字塔原理是一种重点突出、逻辑清晰、主次分明的逻辑思路、表达方式和规范动作。金字塔的基本结构是：中心思想明确，结论先行，以上统下，归类分组，逻辑递进。先重要后次要，先全局后细节，先结论后原因，先结果后过程金字塔训练表达者：关注、挖掘受众的意图、需求、利益点、关注点、兴趣点和兴奋点，想清内容说什么、怎么说，掌握表达的标准结构、规范动作金字塔帮助达",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s4424832.jpg",
+                "lectorname": "作者/译者： 芭芭拉·明托 / 汪洱 高愉",
+                "lvl_1_tag": "管理",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecc6fdfad70f746e9583",
+                "provider": "出版信息：  南海出版社 / 2010-8 / 38.00元",
+                "score": "81.0",
+                "source": "douban",
+                "title": "金字塔原理",
+                "url": "https://book.douban.com/subject/4882120/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.6809999999999999
+          },
+          {
+            "info": {
+              "_id": "XnakZ24BLqSKk2OYzpjs",
+              "_index": "book",
+              "_score": 6.4704537,
+              "_source": {
+                "cnt_person": "7369",
+                "desc": "一直以来，我们以“听话”的方式被教育，却又以“说话”的方式被考核，这很尴尬。我们所学的东西无不以“表达”为指向，他人对我们的看法也几乎都以“表达”为依据，可是作为最直接表达方式的“说话”，却始终处于极其边缘的地位，这也很尴尬。尴尬之所在，正是机会所在。况且，在成功所需要的一切因素里，相较于出身、机遇、精力、智力、意志品质，我们最能控制的，其实就是“说话”这件小事。那么多年轻人被《好好说话》吸引，",
+                "image_url": "https://img1.doubanio.com/view/subject/l/public/s29278678.jpg",
+                "lectorname": "作者/译者： 马东 / 马薇薇 / 黄执中 / 周玄毅 / 邱晨 / 胡渐彪 / 刘京京",
+                "lvl_1_tag": "生活",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ece1fdfad70f746eb0a1",
+                "provider": "出版信息：  中信出版社 / 2017-1-10 / 49.00元",
+                "score": "71.0",
+                "source": "douban",
+                "title": "好好说话",
+                "url": "https://book.douban.com/subject/26948148/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.671
+          },
+          {
+            "info": {
+              "_id": "9HakZ24BLqSKk2OYypUb",
+              "_index": "book",
+              "_score": 10.818003,
+              "_source": {
+                "cnt_person": "18",
+                "desc": "我的每一笔都在捕捉那些压倒性的情感。——蒙克在本书中，读者能欣赏到挪威表现主义画家、版画家蒙克的60余幅作品。他主张以绘画来表达自我情感，作品带有强烈的主观性和悲伤压抑的情调。从清冷的北欧自然风光，到亲人的离逝画像，蒙克多以生命、死亡、恋爱、恐怖和寂寞等为题材，用对比强烈的线条、色块、简洁概括夸张的造型，抒发自己的感受和情绪，这些情绪可以在《呐喊》这样的著名作品中得以体现。※※※※※※※※",
+                "image_url": "https://img1.doubanio.com/view/subject/l/public/s33447739.jpg",
+                "lectorname": "作者/译者： [法] 法比耶纳·艾丽斯",
+                "lvl_1_tag": "艺术史",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecddfdfad70f746eacb8",
+                "provider": "出版信息：  李磊 / 2019-9 / 98",
+                "score": "95.0",
+                "source": "douban",
+                "title": "蒙克：痛苦的表达",
+                "url": "https://book.douban.com/subject/34781692/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.67
+          },
+          {
+            "info": {
+              "_id": "1HakZ24BLqSKk2OYsorO",
+              "_index": "book",
+              "_score": 10.373123,
+              "_source": {
+                "cnt_person": "213",
+                "desc": "《正则表达式必知必会》从简单的文本匹配开始，循序渐进地介绍了很多复杂内容，其中包括回溯引用、条件性求值和前后查找，等等。每章都为读者准备了许多简明又实用的示例，有助于全面、系统、快速掌握正则表达式，并运用它们去解决实际问题。正则表达式是一种威力无比强大的武器，几乎在所有的程序设计语言里和计算机平台上都可以用它来完成各种复杂的文本处理工作。而且书中的内容在保持语言和平台中立的同时，还兼顾了各种平台之",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s27967650.jpg",
+                "lectorname": "作者/译者： 福达 (Ben Forta) / 杨涛",
+                "lvl_1_tag": "编程",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecccfdfad70f746e9c06",
+                "provider": "出版信息：  人民邮电出版社 / 2015-1-1 / 29.00元",
+                "score": "92.0",
+                "source": "douban",
+                "title": "正则表达式必知必会（修订版）",
+                "url": "https://book.douban.com/subject/26285406/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.6519999999999999
+          },
+          {
+            "info": {
+              "_id": "lXakZ24BLqSKk2OYsoo8",
+              "_index": "book",
+              "_score": 15.35215,
+              "_source": {
+                "cnt_person": "208",
+                "desc": "用Python编写程序，是相当容易的，所以这门语言非常流行。但若想掌握Python所特有的优势、魅力和表达能力，则相当困难，而且语言中还有很多隐藏的陷阱，容易令开发者犯错。本书可以帮你掌握真正的Pythonic编程方式，令你能够完全发挥出Python语言的强大功能，并写出健壮而高效的代码。ScottMeyers在畅销书《EffectiveC++》中开创了一种以使用场景为主导的精练教学方式，本",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s28384052.jpg",
+                "lectorname": "作者/译者： 布雷特·斯拉特金（Brett Slatkin） / 爱飞翔",
+                "lvl_1_tag": "编程",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecccfdfad70f746e9bbb",
+                "provider": "出版信息：  机械工业出版社 / 2016-1 / 59",
+                "score": "90.0",
+                "source": "douban",
+                "title": "Effective Python",
+                "url": "https://book.douban.com/subject/26709315/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.64
+          },
+          {
+            "info": {
+              "_id": "lHakZ24BLqSKk2OY1ptD",
+              "_index": "book",
+              "_score": 5.4683404,
+              "_source": {
+                "cnt_person": "617",
+                "desc": "每个在爱中的人都绝望地发现自己深陷一个迷局：无论多么相爱，都无法避免伤痛、愤懑、恐惧和失望。即使费尽力气，也无法使自己在爱中处于主动地位。《如何在爱中修行》指出了我们在爱中常常会犯的一些基本错误：不表达感情（怕被伤害或是怕失去），不表达需要（觉得说出自己的需求很丢脸，而且希望对方能够“猜中”自己的心思），其结果往往是让自己遭受加倍的伤害与误解。本书的目的在于教导我们如何用爱来完善自己，成为更好的",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s28939321.jpg",
+                "lectorname": "作者/译者： [美] 芭芭拉•安吉丽思 / 任永欣",
+                "lvl_1_tag": "人际关系",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ece6fdfad70f746eb608",
+                "provider": "出版信息：  北京日报出版社 / 2016-10-1 / 49.80元",
+                "score": "81.0",
+                "source": "douban",
+                "title": "如何在爱中修行",
+                "url": "https://book.douban.com/subject/26846721/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.381
+          },
+          {
+            "info": {
+              "_id": "rXakZ24BLqSKk2OY1Jqj",
+              "_index": "book",
+              "_score": 8.447929,
+              "_source": {
+                "cnt_person": "843",
+                "desc": "“真正有用”正是这本书不同于其它思维书籍之处！你有没有遇到过以下窘境——分析时想不明白、表达时说不清楚、学习时学不快速？你想不想全面提升你的思维能力？你知道问题解决技巧和表达技巧有哪些吗？此书中有你想知道的答案。本书分为3个部分共10章，各章可自成体系地解决一个问题，同时整书又形成一套体系化的系统思维。第一部分探秘了“框架”力量的根源。万事万物的本质其实是一个个的系统，而掌握了系统的“框架",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s29262164.jpg",
+                "lectorname": "作者/译者： 王世民",
+                "lvl_1_tag": "职场",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ece5fdfad70f746eb4e0",
+                "provider": "出版信息：  电子工业出版社 / 2017-1-1 / 39.00",
+                "score": "80.0",
+                "source": "douban",
+                "title": "思维力：高效的系统思维",
+                "url": "https://book.douban.com/subject/26948875/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.38
+          },
+          {
+            "info": {
+              "_id": "s3akZ24BLqSKk2OYzZd9",
+              "_index": "book",
+              "_score": 12.762072,
+              "_source": {
+                "cnt_person": "755",
+                "desc": "我们很乐于去做那些我们擅长的事，于是就会一直去做，最终就使得我们会一直擅长那些事。做得越多，就越擅长，越擅长就越愿意去做。这样的一个循环能让我们在这方面获得更多的经验，但却容易陷入能力陷阱，在其他方面无法突破。每个人都要特别警惕这种能力陷阱，避免把大量时间花在日常琐事上。如果你想获得更多更好的发展，就要从日常琐事中解脱出来，转变到进行更多策略性思考、在日常工作外建立人际关系网络、提升影响力等能够",
+                "image_url": "https://img1.doubanio.com/view/subject/l/public/s30025678.jpg",
+                "lectorname": "作者/译者： 【美】埃米尼亚•伊贝拉 / 王臻",
+                "lvl_1_tag": "成长",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ece0fdfad70f746eaf86",
+                "provider": "出版信息：  北京联合出版公司 / 2019-4 / 56.00元",
+                "score": "79.0",
+                "source": "douban",
+                "title": "能力陷阱",
+                "url": "https://book.douban.com/subject/30489331/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.379
+          },
+          {
+            "info": {
+              "_id": "JnakZ24BLqSKk2OYrYgi",
+              "_index": "book",
+              "_score": 6.3100686,
+              "_source": {
+                "cnt_person": "2339",
+                "desc": "金字塔原理是一种重点突出、逻辑清晰、主次分明的逻辑思路、表达方式和规范动作。金字塔的基本结构是：中心思想明确，结论先行，以上统下，归类分组，逻辑递进。先重要后次要，先全局后细节，先结论后原因，先结果后过程。金字塔训练表达者：关注、挖掘受众的意图、需求、利益点、关注点、兴趣点和兴奋点，想清内容说什么、怎么说，掌握表达的标准结构、规范动作。金字塔帮助达到沟通效果：重点突出，思路清晰，主次分明，让受众有",
+                "image_url": "https://img3.doubanio.com/view/subject/l/public/s29669383.jpg",
+                "lectorname": "作者/译者： 芭芭拉·明托 (Barbara Minto) / 汪洱 / 高愉",
+                "lvl_1_tag": "管理",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "",
+                "product_id": "5dc3ecc6fdfad70f746e95c3",
+                "provider": "出版信息：  南海出版公司 / 2013-11-1 /  49.00",
+                "score": "76.0",
+                "source": "douban",
+                "title": "金字塔原理",
+                "url": "https://book.douban.com/subject/25775696/?from=tag_all"
+              },
+              "_type": "book_info"
+            },
+            "ranking_score": 0.376
+          }
+        ],
+        "course": [
+          {
+            "info": {
+              "_id": "hHW0ZG4BLqSKk2OYNzSN",
+              "_index": "wangyiyun",
+              "_score": 10.822016,
+              "_source": {
+                "cnt_person": "22181",
+                "desc": "企业管理者如何在企业沟通过程进行语言艺术的表达",
+                "image_url": "http://img0.ph.126.net/SBVr2hxhUveH_LNPIQmsAQ==/6608946691259591373.jpg",
+                "lectorname": "朱俐安",
+                "lvl_1_tag": "职场提升",
+                "lvl_2_tag": "商业管理",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ec8afdfad70f746e66de",
+                "provider": "多学多用",
+                "score": "96.0",
+                "source": "wangyiyun",
+                "title": "管理者如何提升语言表达艺术",
+                "url": "https://study.163.com/course/introduction/668004.htm"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.8879999999999999
+          },
+          {
+            "info": {
+              "_id": "DnW0ZG4BLqSKk2OYb09j",
+              "_index": "baidu",
+              "_score": 9.8810005,
+              "_source": {
+                "cnt_person": "23000",
+                "desc": "适用人群学不会或学会了C语言学到什么准确的概念，清晰的思路，对计算机及C语言明确且有深度的认知！学不会C语言？试试新概念C语言能力教程吧！学会了C语言？看看新概念C语言能力教程吧！据我所知，弄懂这本C语言的学生都考上了研究生；据我所知，没懂的学生也有考上的。哦，对了，弄懂了但没读研的学生是因为非985学校不上；也许他们对二本院校体会深刻，也许他们的同学中许多人去985读研了，唉，攀比害人！学会的不仅仅是C语言语法，从系统的高度认知C语言——不过如此！一、第一章就让学生明白什么是编程以及C语言怎样控制计算机C语言是计算机专业学生接触的第一门专业基础课，也是大多理工科学生学习的第一门编程语言。“万事开头难”，学生对C语言的第一印象非常重要。C语言有什么用？怎样编程呢？初次接触C语言的学生可能会有许许多多的疑问。C语言用于控制计算机，C语言命令需由计算机执行，计算机的一些特性直接体现在C语言中，因此，在了解计算机的基础上学习C语言事半功倍。C语言教学内容的改革从C语言的第一节课开始。首先介绍计算机",
+                "image_url": "http://ckimg.baidu.com/course/2017-09/07/c0ff5ef5b7de90096c8210b2ffce9554.jpg",
+                "lectorname": "品味梦想",
+                "lvl_1_tag": "IT/互联网/计算机",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ec04fdfad70f746dfaeb",
+                "provider": "品味梦想",
+                "score": "99.7",
+                "source": "baidu",
+                "title": "新概念C语言能力教程",
+                "url": "http://chuanke.baidu.com/1524013-98572.html"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.7
+          },
+          {
+            "info": {
+              "_id": "IHW0ZG4BLqSKk2OYdFKS",
+              "_index": "baidu",
+              "_score": 9.876921,
+              "_source": {
+                "cnt_person": "5142",
+                "desc": "适用人群完成Python入门的学员学到什么完成学习后应该掌握：1、正则表达式的基本概念2、Pythonre模块中常见函数的使用3、综合举例4、网络爬虫教学老师小杨老师五年电信运营商互联网维护经验，互联网技术中级工程师、注册信息安全专业人员（CISP）。专注于IT类培训领域，课程涉及编程语言、信息安全、行业资讯等领域，确保学员学习最优质的课程和最好的学习体验。小杨老师在这里再次强调：课程作业、测试请务必完成！",
+                "image_url": "http://ckimg.baidu.com/course/2016-08/18/b4f7b2b0b07342630a8a6b0a25f3a978.jpg",
+                "lectorname": "学点编程吧",
+                "lvl_1_tag": "IT/互联网/计算机",
+                "lvl_2_tag": "编程语言",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ec08fdfad70f746dff27",
+                "provider": "学点编程吧",
+                "score": "100.0",
+                "source": "baidu",
+                "title": "python传奇世界之炼器篇：正则表达式",
+                "url": "http://chuanke.baidu.com/4500746-186400.html"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.7
+          },
+          {
+            "info": {
+              "_id": "0XW0ZG4BLqSKk2OYtXEk",
+              "_index": "baidu",
+              "_score": 9.769756,
+              "_source": {
+                "cnt_person": "20000",
+                "desc": "适用人群中学教师资格考试考生教学老师李建中学教育知识与能力教师资格考试中学教育知识与能力视频",
+                "image_url": "http://ckimg.baidu.com/course/2016-05/26/b0fedff299c990de0bce8e14c766cc39.jpg",
+                "lectorname": "龙教育",
+                "lvl_1_tag": "资格考试",
+                "lvl_2_tag": "",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ec4dfdfad70f746e42ef",
+                "provider": "龙教育",
+                "score": "80.77",
+                "source": "baidu",
+                "title": "龙教育-教师资格考试中学教育知识与能力视频",
+                "url": "http://chuanke.baidu.com/6187917-175938.html"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.7
+          },
+          {
+            "info": {
+              "_id": "WHW0ZG4BLqSKk2OYhFoN",
+              "_index": "baidu",
+              "_score": 9.343239,
+              "_source": {
+                "cnt_person": "8961",
+                "desc": "适用人群初级IT从业人员学到什么本课程全面介绍了从linux基础内容，一步步，手把手掌握linux基本用法和常见管理方式。让你从课堂即实战，全面了解Bash的基础特性及正则表达式，学习完可轻松驾驭。本课程全面介绍了从linux基础内容，一步步，手把手掌握linux基本用法和常见管理方式。让你从课堂即实战，全面了解Bash的基础特性及正则表达式，学习完可轻松驾驭。马哥给各位量身定制国内最权威，专业的学习路线路，根据路线图开始进行学习，通过自己一步步努力，则可成为像马哥一样的顶级linux大师，学习是建议学习下鸟哥私房菜，国内linux界盛传\"先鸟哥，后马哥，方可成大器\"！本课程为马哥10年以上积累总结的最权威课程，已经成为业内第一优质课程，多家机构进行模仿，从未被超越。课程中穿插大量企业实战案例，请学员按照linux学习路线图进度逐步学习，学习的同时不要忘记跟着做下linux练习，有不明白的地方建议学习几次。",
+                "image_url": "http://ckimg.baidu.com/course/2016-06/14/d5bc7ce101d22dfc4123c23f92258b55.jpg",
+                "lectorname": "马哥linux运维",
+                "lvl_1_tag": "IT/互联网/计算机",
+                "lvl_2_tag": "系统运维",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ec1afdfad70f746e10c8",
+                "provider": "马哥linux运维",
+                "score": "100.0",
+                "source": "baidu",
+                "title": "马哥教育2016高薪Linux培训教程-shell脚本入门及正则表达式",
+                "url": "http://chuanke.baidu.com/2309244-178022.html"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.7
+          },
+          {
+            "info": {
+              "_id": "B3W0ZG4BLqSKk2OYfFev",
+              "_index": "baidu",
+              "_score": 7.786246,
+              "_source": {
+                "cnt_person": "7825",
+                "desc": "适用人群室内设计爱好设计师学到什么室内设计是一门综合类学科，对设计师也是有着极强的专业要求，本次课程主要针对室内设计师设计中需要重点考虑的功能分区-设计风格-设计材料-设计灯光-设计制图等五个关键知识点，进行分类讲解，让学员尤其是对室内设计感兴趣的学员，可以快速且专业的了解室内设计师必须要掌握哪些知识内容，从而更好的为自己安排学习计划，让各位准设计师能够合理规划学习时间，逐渐成为优秀的设计师。教学老师贾俊钢培训行业从事13年，开设过专业设计公司，有项目运营及管理经验，可以很好的完成团队运营及管理的任务，同时有着丰富的教学经验及实际项目的操作经验，同时对室内设计、景观设计、建筑及城规设计课程也得心应手，并且长期作为天津南开大学滨海学院、河北工业大学等外聘专业教师开授专业课程，并且有丰富的课程开发能力，在课程的定制及完美实施中有独特的见解。3D室内设计学习交流群：200530318",
+                "image_url": "http://ckimg.baidu.com/course/2017-05/27/b371ecef5c1623e9f8a0f5ea32479cf8.jpg",
+                "lectorname": "IT邢帅教育",
+                "lvl_1_tag": "IT/互联网/计算机",
+                "lvl_2_tag": "设计制作",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ec14fdfad70f746e0b56",
+                "provider": "IT邢帅教育",
+                "score": "100.0",
+                "source": "baidu",
+                "title": "室内设计师必备能力全解析",
+                "url": "http://chuanke.baidu.com/30666-205772.html"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.7
+          },
+          {
+            "info": {
+              "_id": "tXW0ZG4BLqSKk2OYflch",
+              "_index": "baidu",
+              "_score": 7.348918,
+              "_source": {
+                "cnt_person": "8118",
+                "desc": "适用人群设计人员1.点击右侧“加入课程”。“进入学校”获得更多课程。2.收藏学校，随时获得学校课程动态。3.关注inventor软件学院微信公众号。inventor2017爆炸图制作详细讲解欢迎点赞",
+                "image_url": "http://ckimg.baidu.com/course/2016-07/25/586d1d6649ffa912872499f05f2e310f.jpg",
+                "lectorname": "inventor软件学院",
+                "lvl_1_tag": "IT/互联网/计算机",
+                "lvl_2_tag": "设计制作",
+                "lvl_3_tag": "",
+                "price": "0",
+                "product_id": "5dc3ec15fdfad70f746e0c59",
+                "provider": "inventor软件学院",
+                "score": "100.0",
+                "source": "baidu",
+                "title": "inventor2017爆炸图(表达视图)",
+                "url": "http://chuanke.baidu.com/5516843-182875.html"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 0.7
+          },
+          {
+            "info": {
+              "_id": "LnW0ZG4BLqSKk2OYNjSd",
+              "_index": "wangyiyun",
+              "_score": 7.760909,
+              "_source": {
+                "cnt_person": "1894",
+                "desc": "【课程简介】这是一套帮助你掌握影响力法则、提升决策说服力、识别套路潜规则、解析“影响与被影响”底层逻辑的精品视频课程。【课程背景】这是一个遍布着“影响与被影响”的时代，工作生活中的我们一不小心就可能被“套路”。这是一个你做不了“影响者”，就可能成为“被影响者”的时代，不能影响别人，就可能被别人影响！【课程优势】课程逻辑严密、结构鲜明、原理深刻、案例贴切，配图、台词、动画、讲解，精雕细琢，形象生动，帮助你掌握强者必备能力、塑造个人魅力、提升自身影响力！【限时优惠】精品视频课程，定价99元，随时涨价，欲购从速！【课程大纲】第一章：互惠原理第二章：承诺和一致原理第三章：社会认同原理第四章：喜好原理第五章：权威原理第六章：稀缺原理",
+                "image_url": "http://edu-image.nosdn.127.net/5d398831-89c9-4a27-8a98-ce91cd069a28.png?imageView&quality=100&crop=0_1_2560_1433",
+                "lectorname": "empty",
+                "lvl_1_tag": "职场提升",
+                "lvl_2_tag": "职场能力",
+                "lvl_3_tag": "",
+                "price": "199",
+                "product_id": "5dc3ec89fdfad70f746e6688",
+                "provider": "钱闯老师",
+                "score": "98.00000000000001",
+                "source": "wangyiyun",
+                "title": "影响力法则：成为强者必备能力",
+                "url": "https://study.163.com/course/introduction/1005264031.htm"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 1.488
+          },
+          {
+            "info": {
+              "_id": "6XW0ZG4BLqSKk2OYNTPm",
+              "_index": "wangyiyun",
+              "_score": 5.2796106,
+              "_source": {
+                "cnt_person": "529",
+                "desc": "对于任何一个正常人而言每天不可避免的事情就是说话。无论是沟通感情、商务谈判、工作汇报、还是人际沟通，方方面面都离不开说话。虽然每个人都在使用语言这个工具，但你也会发现并不是每个人都可以把它使用好的。比如一些朋友的普通话不够规范就带来极大的苦恼。那么让我们跟随吴霞老师的标准普通话训练课程，系统的学习说好普通话吧。",
+                "image_url": "http://edu-image.nosdn.127.net/6038E0DF632E5367031756F624E72E95.jpg?imageView&thumbnail=120x67&quality=100",
+                "lectorname": "铭智云课堂",
+                "lvl_1_tag": "职场提升",
+                "lvl_2_tag": "个人提升",
+                "lvl_3_tag": "表达能力",
+                "price": "49",
+                "product_id": "5dc3ec89fdfad70f746e6643",
+                "provider": "铭智云课堂",
+                "score": "90.0",
+                "source": "wangyiyun",
+                "title": "优美表达：标准普通话轻松学",
+                "url": "https://study.163.com/course/introduction/1003017021.htm"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 1.37
+          },
+          {
+            "info": {
+              "_id": "BXW1ZG4BLqSKk2OYjtzq",
+              "_index": "tencent",
+              "_score": 11.284096,
+              "_source": {
+                "cnt_person": "803",
+                "desc": "本课程针对景观平面表现方向，课程简单易懂，对是否有基础没有要求，我们将用最简单的操作，准确有效的方式来表达图纸内容，通过实战案例讲解，让你明白高效制作图的方法和技巧。找到自身的问题从而解决。",
+                "image_url": "http://10.url.cn/qqcourse_logo_ng/ajNVdqHZLLADkpGO4yOgZiaiaibJ1W6k40cXDaQKe1iaibClgynTkOQNEDZKQMsNHSD0zeiaHlcWR6HHA/356",
+                "lectorname": "师人绘所景观设计研究机构",
+                "lvl_1_tag": "设计·创作",
+                "lvl_2_tag": "环境艺术设计",
+                "lvl_3_tag": "",
+                "price": "1.0",
+                "product_id": "5dc407a7fdfad71156444630",
+                "provider": "师人绘所景观设计研究机构",
+                "score": "100.0",
+                "source": "tencent",
+                "title": "【1元课程系列】景观平面表达 1.0",
+                "url": "http://ke.qq.com/course/382589"
+              },
+              "_type": "courses_info"
+            },
+            "ranking_score": 1.2
+          }
+        ]
+      },
+      "skill_name": "表达能力"
+    }
+  ]
+}

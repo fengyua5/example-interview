@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<script>
+    function outer() {
+      var name = 'zhangsan';
+      var age = 21;
+      function inner() {
+        console.dir(inner);
+        console.log(name);
+      }
+      return inner;
+    }
+
+    outer()();
+</script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>seajs</title>
+</head>
+<body>
+
+<script src="../src/lib/seajs/dist/sea-debug.js"></script>
+<script>
+  seajs.use("../src/js/sea-a",function(a){
+    console.log(a);
+    debugger
+    console.log(111);
+  })
+</script>
+</body>
+</html>

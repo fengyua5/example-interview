@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/fengyua5/example-interview/issues"
   },
-  "homepage": "https://github.com/fengyua5/example-interview#readme"
+  "homepage": "https://github.com/fengyua5/example-interview#readme",
+  "dependencies": {
+    "seajs": "^3.0.3",
+    "single-spa": "^4.4.1",
+    "tapable": "^2.0.0-beta.3"
+  }
 }

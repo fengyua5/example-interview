@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<script>
+    let a = ['{link}', "{position_link}"];
+    let sub = '你好三生三世，link}，是是是，是是是{position_link}';
+    let target = sub.replace(/(\{[a-zA-Z_]*\}?|\{?[a-zA-Z_]*\})/g, function(match, name, left, right){
+      console.log(match, '---match', '---name', name);
+      if(a.includes(name)){
+        return name;
+      }
+      return '';
+    });
+    console.log(target, '---target--')
+</script>
+</body>
+</html>

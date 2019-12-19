@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>ed6 class</title>
+</head>
+<body>
+
+<script>
+    class Person1{
+      name = '';
+
+      static hi(){
+        console.log('hi');
+      }
+
+      say(text){
+        console.log('say---' + text);
+      }
+    }
+
+    class Man1 extends Person1{
+      age = 23;
+      sayHi(){
+        console.log(111)
+      }
+    };
+
+    console.log(new Man1());
+    console.log(Person1.hi());
+
+    function Person() {
+      this.name = '';
+    }
+
+    Person.prototype.say = function (text) {
+      console.log('say---' + text);
+    }
+
+    function Man() {
+      Person.call(this);
+      this.age = 23;
+    }
+
+    Man.prototype = new Person();
+
+    Man.prototype.constructor = Man;
+
+    console.log(new Man())
+
+
+</script>
+</body>
+</html>
