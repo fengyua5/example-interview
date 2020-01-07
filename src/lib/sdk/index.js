@@ -76,8 +76,7 @@ class Sdk {
 
     let dependencies = app.dependencies || [];
     return new Promise((resolve, reject) => {
-      this.registerPlugins(dependencies);
-      resolve();
+      this.registerPlugins(dependencies).then(resolve, reject);
     }).then(() => {
       this.modules[name] = app;
     })
