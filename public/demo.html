@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .wrap{
+            width: 500px;
+            margin: 0 auto;
+            text-align: center;
+
+        }
+        .wrap > h3{
+            margin-bottom: 20px;
+        }
+        .form{
+            width: 340px;
+            margin: 0 auto;
+            text-align: left;
+        }
+        .form-item{
+            margin-bottom: 10px;
+            font-size: 12px;
+        }
+        .form-item label{
+            width: 130px;
+            text-align: right;
+            margin-right: 10px;
+            display: inline-block;
+        }
+        .submit{
+            margin: 40px auto 20px;
+            width: 60px;
+            padding: 5px 0;
+            text-align: center;
+            color: #eeeeee;
+            background-color: green;
+            border: none;
+        }
+        .submit-wrap{
+            width: 100%;
+
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+<div class="wrap">
+    <h3>聘用意向回执函</h3>
+    <form class="form">
+        <div class="form-item">
+            <label>姓名</label>
+            <input type="text" />
+        </div>
+        <div class="form-item">
+            <label>身份证号</label>
+            <input type="text" />
+        </div>
+        <div class="form-item">
+            <label>预计入职日期</label>
+            <input type="text" />
+        </div>
+        <div class="form-item">
+            <label>回复日期：</label>
+            <span class="date" />
+        </div>
+        <div class="submit-wrap">
+            <button type="submit" class="submit">提交</button>
+        </div>
+
+    </form>
+</div>
+<script>
+  var date = new Date();
+  Y = date.getFullYear() + '-';
+  M = (date.getMonth()+1 < 10 ? '0'+(date.getMonth()+1) : date.getMonth()+1) + '-';
+  D = date.getDate() + ' ';
+    document.querySelector('.date').innerHTML = Y + M + D;
+</script>
+</body>
+</html>

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script src="../node_modules/redux/lib/redux.js"></script>
+<script>
+  function counter(state = {count: 0}, action) {
+    switch (action.type) {
+      case 'INCREMENT':
+        state.count = state.count + 1;
+        return state;
+      default:
+        return state;
+    }
+  }
+
+  // 创建 Redux store 来存放应用的状态。
+  // API 是 { subscribe, dispatch, getState }。
+  var store = createStore(counter);
+
+  // 可以手动订阅更新，也可以事件绑定到视图层。
+  store.subscribe(function () {
+    console.log(store.getState())
+  });
+
+  // 改变内部 state 惟一方法是 dispatch 一个 action。
+  // action 可以被序列化，用日记记录和储存下来，后期还可以以回放的方式执行
+  store.dispatch({ type: 'INCREMENT' });
+  // 1
+  store.dispatch({ type: 'INCREMENT' });
+</script>
+<script>
+  Function.prototype.bind2 = function (context) {
+    var args = Array.prototype.slice.call(arguments, 1);
+    var that = this;
+
+    function result() {
+      that.apply(context, args.concat(Array.prototype.slice.call(arguments)))
+    }
+
+    return result
+  }
+</script>
+</body>
+</html>
