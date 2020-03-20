@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <title>CSS负边距测试</title>
+    <style type="text/css">
+        #test-width, #test-width2 {
+            text-align: center;
+            margin-right: auto;
+            margin-left: auto;
+            width: 400px;
+            height: 80px;
+            background-color: purple;
+        }
+        #test-block, #test-block2 {
+            background-color: blue;
+        }
+        #test-block2 {
+            margin-right: -100px;
+            margin-left: -100px;
+        }
+    </style>
+</head>
+<body>
+<div id="test-width">No2父元素
+    <p id="test-block">我是No2子元素 </p>
+</div>
+<hr />
+<div id="test-width2">No2父元素
+    <p id="test-block2">我是No2子元素 </p>
+</div>
+</body>
+</html>
